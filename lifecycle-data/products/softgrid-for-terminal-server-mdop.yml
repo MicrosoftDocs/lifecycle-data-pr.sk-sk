@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Softgrid pre terminálový Server (MDOP)
+  description: Softgrid pre terminálový Server (MDOP) nasleduje pevné životného cyklu politiky.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837716"
+name: Softgrid pre terminálový Server (MDOP)
+summary: >+
+  Softgrid pre terminálový Server (MDOP) nasleduje pevné [životného](/lifecycle/policies/fixed) cyklu politiky.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Najčastejšie otázky o životnom cykle - Všeobecné](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Program  vylúči verzie, ktoré boli predtým podporované. Podpora tohto produktu podlieha podmienkam jeho akvizície."

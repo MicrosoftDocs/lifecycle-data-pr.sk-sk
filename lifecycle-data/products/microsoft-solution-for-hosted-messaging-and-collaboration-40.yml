@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Riešenie spoločnosti Microsoft pre hosťované správy a spoluprácu 4.0
+  description: Riešenie spoločnosti Microsoft pre hosťované správy a spoluprácu 4.0 sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837891"
+name: Riešenie spoločnosti Microsoft pre hosťované správy a spoluprácu 4.0
+summary: >+
+  Riešenie spoločnosti Microsoft pre hosťované správy a spoluprácu 4.0 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/15/2007
+  end: 12/12/2011
+releases:
+- version: Original Release
+  startDate: 07/15/2007
+  endDate: 12/12/2011
+content: ''
