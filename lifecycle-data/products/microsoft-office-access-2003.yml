@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Program Microsoft Office Access 2003
+  description: Program Microsoft Office Access 2003 sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c987fede8716021d406466d7e02305cfe63b81ae
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "838005"
+name: Program Microsoft Office Access 2003
+summary: >+
+  Program Microsoft Office Access 2003 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/27/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 11/27/2003
+  endDate: 04/08/2014
+content: ''

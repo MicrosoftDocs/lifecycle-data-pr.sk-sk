@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Základy systému Windows pre staršie počítače
+  description: Základy systému Windows pre staršie počítače sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837696"
+name: Základy systému Windows pre staršie počítače
+summary: >+
+  Základy systému Windows pre staršie počítače sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2006
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/08/2014
+- version: Original Release
+  startDate: 05/31/2006
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tento produkt sa riadi rovnakou politikou životného cyklu technickej podpory ako systém Windows XP."

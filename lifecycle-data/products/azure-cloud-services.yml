@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Cloudové služby Azure
+  description: Cloudové služby Azure sa riadi modernou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "838625"
+name: Cloudové služby Azure
+summary: >+
+  Cloudové služby Azure sa riadi modernou [politikou](/lifecycle/policies/modern) životného cyklu.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/27/2008
+releases:
+- version: Original Release
+  startDate: 10/27/2008
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Azure Guest OS supportability and retirement policy information Azure Guest OS supportability and retirement policy information Azure Hodnotenie OS podpora a informácie o politike odchodu](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Služby webovej ochrany brány pre riadenie hrozieb spoločnosti Microsoft
+  description: Služby Webovej ochrany microsoft čele hrozba riadenia Gateway sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "838343"
+name: Služby webovej ochrany brány pre riadenie hrozieb spoločnosti Microsoft
+summary: >+
+  Služby Webovej ochrany microsoft čele hrozba riadenia Gateway sa riadi [pevnou politikou](/lifecycle/policies/fixed) životného cyklu.
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/01/2009
+  end: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 12/01/2009
+  endDate: 12/31/2015
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán v popredí](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Plán pre bezpečnostné produkty pod značkou Forefront sa zmenil.Tento produkt je ukončený k 31.prosince 2015."

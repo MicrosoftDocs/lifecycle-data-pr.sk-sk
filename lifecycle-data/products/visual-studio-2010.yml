@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Zobraziť viac Zobraziť viac
+  description: Visual Studio 2010 nadväzuje na pevnú politiku životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837866"
+name: Zobraziť viac Zobraziť viac
+summary: >+
+  Visual Studio 2010 nadväzuje na pevnú [politiku](/lifecycle/policies/fixed) životného cyklu.
+
+
+  Toto platí pre nasledujúce vydania: Agenti, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (Izolované), Team Agents, Team Explorer, Test Professional, Nástroje pre Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualizácia &ing Model SDK
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agenti\n* Všetky\n* Asp .NET MVC 4 (Asp .NET MVC)\n* Express\n* F# 2.0 Runtime\n* Správa laboratórií\n* Výkonnostné nástroje\n* Premium\n* Profesionálne\n* Vzdialený ladiaci nástroj\n* Sdk\n* Shell (integrovaný)\n* Škrupina (izolovaná)\n* Tím agenti\n* Prieskumník tímov\n* Test Professional\n* Nástroje pre Office System 4.0 Runtime\n* Ultimate\n* VB Express\n* Vizuálna hodnota C# Express\n* Vizuálna c++ Express\n* Visual Web Developer Express\n* Súprava & vizualizácie"
