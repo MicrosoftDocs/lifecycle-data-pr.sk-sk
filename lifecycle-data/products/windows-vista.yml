@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Vista
+  description: Systém Windows Vista sa riadi politikou pevného životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837850"
+name: Windows Vista
+summary: >
+  Systém Windows Vista sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.
+
+
+  To platí pre nasledujúce vydania: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
+
+
+  > [!IMPORTANT]
+
+  > Podpora pre tento produkt sa skončila, informácie o migrácii nájdete nižšie.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/25/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 04/11/2017
+- version: Service Pack 1
+  startDate: 02/04/2008
+  endDate: 07/12/2011
+- version: Original Release
+  startDate: 01/25/2007
+  endDate: 04/13/2010
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Aspekty inovácie a migrácie systému Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Podnikania\n* Obchodné N\n* Podnik\n* Podnikové X64\n* Domov Základné\n* Home Basic, 64-bitová verzia\n* Domov Základné N\n* Home Basic N 64-bit Domov Základné N\n* Domov Premium\n* Home Premium, 64-bitová verzia\n* Starter\n* Ultimate\n* Ultimate 64-bit"
