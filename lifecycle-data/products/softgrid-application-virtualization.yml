@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtualizácia aplikácií SoftGrid
+  description: Virtualizácia aplikácií SoftGrid sa riadi politikou pevného životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837718"
+name: Virtualizácia aplikácií SoftGrid
+summary: >
+  Virtualizácia aplikácií SoftGrid sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.
+
+
+  To platí pre nasledujúce vydania: 4.1 pre stolné počítače, 4.2 pre stolné počítače, pre terminálové služby 4.1
+
+
+  > [!IMPORTANT]
+
+  > Podpora sa skončila. Pozri usmernenia o migrácii uvedené nižšie.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/25/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 05/25/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Vydania \n* 4.1 pre stolné počítače\n* 4.2 pre stolové počítače\n* pre terminálové služby 4.1"
