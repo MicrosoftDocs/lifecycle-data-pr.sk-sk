@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Zobraziť pôvodný článok v angličtine: 3115555'
+  description: Microsoft SQL Server 2008 R2 takto pevné životného cyklu politiky.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837887"
+name: 'Zobraziť pôvodný článok v angličtine: 3115555'
+summary: >+
+  Microsoft SQL Server 2008 R2 takto pevné [životného](/lifecycle/policies/fixed) cyklu politiky.
+
+
+  Toto sa týka nasledujúcich vydaní: Datacenter, Developer, Enterprise, Express, Express s rozšírenými službami, pre vstavané systémy, Standard, Standard Edition pre malé podniky, Web, Pracovná skupina
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/20/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Možnosti ukončenia podpory servera SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Možnosti ukončenia podpory pre SQL Server 2008 a Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Rozšírený program aktualizácie zabezpečenia (ESU)](/lifecycle/faq/extended-security-updates)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Rozšírené aktualizácie zabezpečenia (ESU) sú k dispozícii pre vydania Datacenter, Standard, Enterprise a Embedded tohto produktu až na ďalšie tri roky po skončení podpory.\n> [!NOTE]\n> Len pre IA64 bude balík SP2 podporovaný do 7.9.2019. Ďalšie informácie nájdete v blogu SQL Release Services.\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Vývojára\n* Podnik\n* Express\n* Expresné s rozšírenými službami\n* pre vstavané systémy\n* Štandardné\n* Standard Edition pre malé podniky\n* Webové\n* Pracovnej skupiny"
