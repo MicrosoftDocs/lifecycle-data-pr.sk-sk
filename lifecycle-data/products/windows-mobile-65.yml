@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Mobile 6.5 (6.5)
+  description: Windows Mobile 6.5 sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28da232d32da22a3b3ad4d3bf76e3bcf17609a1e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "838209"
+name: Windows Mobile 6.5 (6.5)
+summary: >
+  Windows Mobile 6.5 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+
+
+  To platí pre nasledujúce vydania: Professional, Standard
+
+
+  > [!IMPORTANT]
+
+  > Podpora pre tento produkt sa skončila.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/10/2009
+  end: 01/08/2013
+releases:
+- version: Original Release
+  startDate: 09/10/2009
+  endDate: 01/08/2013
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Profesionálne\n* Štandardné"
