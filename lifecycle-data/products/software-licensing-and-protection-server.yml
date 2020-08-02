@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Softvérové licenčné a ochranné servery
+  description: Softvérové licencie a ochrana Servera sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837734"
+name: Softvérové licenčné a ochranné servery
+summary: >
+  Softvérové licencie a ochrana Servera sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+
+
+  To platí pre nasledujúce vydania: Enterprise, Standard
+
+
+  > [!IMPORTANT]
+
+  > Vzhľadom na predaj Software Licensing and Protection Server (SLPS), Microsoft podporoval SLPS do 24.září 2009.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Softvérové licenčné a ochranné servery (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Vydania \n* Podnik\n* Štandardné"
