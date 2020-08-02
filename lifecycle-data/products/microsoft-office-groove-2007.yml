@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Zobraziť pôvodný článok v tomto článku sa
+  description: Program Microsoft Office Groove 2007 sa riadi politikou pevného životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b771dec5ab12ab49e3317d53aea8e91f5d95bd40
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837989"
+name: Zobraziť pôvodný článok v tomto článku sa
+summary: "Program Microsoft Office Groove 2007 sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.\n\n\n> [!IMPORTANT]\n> Podpora pre tento produkt sa skončila. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/27/2007
+  end: 07/10/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 10/10/2017
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/office/troubleshoot/support/office-2007-not-support)"
