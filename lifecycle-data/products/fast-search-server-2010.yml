@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: FAST Search Server 2010 (pre internetové stránky, pre interné aplikácie)
+  description: FAST Search Server 2010 (pre internetové stránky, pre interné aplikácie) nadväzuje na pevnú politiku životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "838462"
+name: FAST Search Server 2010 (pre internetové stránky, pre interné aplikácie)
+summary: >+
+  FAST Search Server 2010 (pre internetové stránky, pre interné aplikácie) nadväzuje na pevnú [politiku životného](/lifecycle/policies/fixed) cyklu.
+
+
+  To platí pre nasledujúce vydania: Interné aplikácie, internetové stránky
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Najčastejšie otázky o životnom cykle - Všeobecné](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Program  vylúči verzie, ktoré boli predtým podporované. Podpora tohto produktu podlieha podmienkam jeho akvizície.\n\n## <a name=\"editions\"></a>Vydania \n* Interné aplikácie\n* Internetové lokality"

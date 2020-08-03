@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008 R2
+  description: Systém Windows Server 2008 R2 sa riadi politikou pevného životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "838572"
+name: Windows Server 2008 R2
+summary: "Systém Windows Server 2008 R2 sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.\n\nTýka sa to nasledujúcich vydaní: Datacenter, Enterprise, HPC Edition, Systémy s procesorom Itanium,\n\n> [!IMPORTANT]\n> Podpora pre tento produkt sa skončila. Pozri usmernenia o migrácii uvedené nižšie. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://aka.ms/AA1ovn4)\n* [Informácie o inovácii servera](/windows-server/upgrade/upgrade-overview)\n* [Rozšírený program aktualizácie zabezpečenia (ESU)](/lifecycle/faq/extended-security-updates)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Rozšírené aktualizácie zabezpečenia (ESU) sú k dispozícii prostredníctvom konkrétnych multilicenčných programov pre vydania Datacenter, Standard, Enterprise a Embedded tohto vydania produktov až na ďalšie tri roky po skončení podpory. Ďalšie informácie vám poskytne partner alebo tím konta spoločnosti Microsoft. \n\nDátum ------------------------------- začatia ---- Dátum ukončenia\n\nRozšírená aktualizácia zabezpečenia rok 3---01/11/2022---01/10/2023\n\nRozšírená aktualizácia zabezpečenia rok 2---01/12/2021---01/11/2022\n\nRozšírená aktualizácia zabezpečenia rok 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Podnik\n* Hpc vydanie\n* Systémy s procesorom Itanium\n* Štandardné\n* Webové"
