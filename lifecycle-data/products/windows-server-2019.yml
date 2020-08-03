@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Systém Windows Server 2019
+  description: Windows Server 2019 sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c074cbdb100e858572f6f6375311034d593055a9
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872082"
+name: Systém Windows Server 2019
+summary: >+
+  Windows Server 2019 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+
+
+  Týka sa to nasledujúcich vydaní: Datacenter, Essentials, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/windows-server/get-started-19/whats-new-19)\n* [Aktualizácia v systéme Windows Server 2019 dostupnosť](https://aka.ms/WSRelaunchBlog)\n* [Najčastejšie otázky o životnom cykle - Produkty pre Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 a Windows Server, verzia 1809 boli znovu vydané 13 Novembra 2018. Dátumy podpory boli zodpovedajúcim spôsobom upravené.\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Základné fakty\n* Štandardné"
