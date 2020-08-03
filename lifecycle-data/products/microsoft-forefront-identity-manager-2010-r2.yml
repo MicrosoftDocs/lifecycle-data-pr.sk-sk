@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Zobraziť pôvodný článok v tomto článku sa v roku 2010
+  description: Microsoft Forefront Identity Manager 2010 R2 takto pevné životného cyklu politiky.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 73bd6dedc5fd3618801bd75b09eda9c7bbfaf460
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862630"
+name: Zobraziť pôvodný článok v tomto článku sa v roku 2010
+summary: >+
+  Microsoft Forefront Identity Manager 2010 R2 takto pevné [životného](/lifecycle/policies/fixed) cyklu politiky.
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 07/24/2012
+  end: 10/10/2017
+  extendedEnd: 10/11/2022
+releases:
+- version: Service Pack 1
+  startDate: 01/15/2013
+  endDate: 10/11/2022
+- version: Original Release
+  startDate: 07/24/2012
+  endDate: 04/08/2014
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)"

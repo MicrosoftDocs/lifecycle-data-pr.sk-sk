@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Small Business Server 2011 (Windows Small Business Server 2011)
+  description: Windows Small Business Server 2011 sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862517"
+name: Windows Small Business Server 2011 (Windows Small Business Server 2011)
+summary: >
+  Windows Small Business Server 2011 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+
+
+  Týka sa to nasledujúcich vydaní: Essentials, Premium Add-On, Standard
+
+
+  > [!IMPORTANT]
+
+  > Dátum podpory pre tento balík produktov je určený príslušnými životnými cyklami jednotlivých čiastkových produktov. Skontrolujte životný cyklus jednotlivých čiastkových produktov a zistite jeho dĺžku podpory.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/09/2011
+releases:
+- version: Original Release
+  startDate: 03/09/2011
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://aka.ms/AA1ovn4)\n* [Migrácia systému Windows Small Business Server 2011 Standard windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Vydania \n* Základné fakty\n* Prémiový doplnok\n* Štandardné"

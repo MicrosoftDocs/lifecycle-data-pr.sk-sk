@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2016 (Zobraziť viac zariadení)
+  description: Windows Server 2016 sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 26492abfdd2f901d069e6209da505c6296004961
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862771"
+name: Windows Server 2016 (Zobraziť viac zariadení)
+summary: >+
+  Windows Server 2016 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+
+
+  Týka sa to nasledujúcich vydaní: Datacenter, Essentials, MultiPoint Premium, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/15/2016
+  end: 01/11/2022
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/windows-server/get-started/server-basics)\n* [Najčastejšie otázky o životnom cykle - Produkty pre Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Základné fakty\n* MultiPoint Premium\n* Štandardné"

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Klient pracovnej plochy Projectu Online
+  description: Desktopový klient Projectu Online sa riadi modernou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862410"
+name: Klient pracovnej plochy Projectu Online
+summary: >+
+  Desktopový klient Projectu Online sa riadi [modernou politikou](/lifecycle/policies/modern) životného cyklu.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Systémové požiadavky](https://products.office.com/office-system-requirements)\n* [Informácie o servise](https://technet.microsoft.com/library/mt584223.aspx)"

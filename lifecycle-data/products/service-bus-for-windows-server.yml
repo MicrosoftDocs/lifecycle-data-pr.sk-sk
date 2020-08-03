@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Service Bus pre systém Windows Server
+  description: Service Bus pre systém Windows Server sa riadi politikou životného cyklu súčastí.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862527"
+name: Service Bus pre systém Windows Server
+summary: >
+  Service Bus pre systém Windows Server sa riadi politikou [životného](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) cyklu súčastí.
+
+
+
+  > [!IMPORTANT]
+
+  > Keď service bus 1.1 je súčasťou Programu SharePoint Server 2016 alebo SharePoint Server 2013, bude podporovaná podľa dátumov ukončenia podpory príslušnej verzie servera SharePoint Server.
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/18/2012
+  end: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: ''

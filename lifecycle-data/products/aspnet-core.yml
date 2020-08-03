@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ASP.NET Jadro
+  description: ASP.NET Core sa riadi modernou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0d9d34cae13f320c21cbcb289e753c8a5f6a8462
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862604"
+name: ASP.NET Jadro
+summary: >+
+  ASP.NET Core sa riadi modernou [politikou životného](/lifecycle/policies/modern) cyklu.
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: Original Release
+  startDate: 06/27/2016
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Najčastejšie otázky o životnom cykle - .NET Core](/lifecycle/faq/dotnet-core)\n* [Informácie o servise](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Plán rozhrania .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"

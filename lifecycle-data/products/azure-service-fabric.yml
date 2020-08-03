@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure služby tkaniny
+  description: Azure Service Fabric sa riadi modernou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 075ce98becd0ba968cec21bf37699b76f89062c6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862314"
+name: Azure služby tkaniny
+summary: >+
+  Azure Service Fabric sa riadi modernou [politikou](/lifecycle/policies/modern) životného cyklu.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 09/26/2016
+releases:
+- version: Original Release
+  startDate: 09/26/2016
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](/azure/service-fabric/service-fabric-support)\n* [Podporované verzie](/azure/service-fabric/service-fabric-versions)"

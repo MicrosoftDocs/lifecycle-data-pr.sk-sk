@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Jadro ioT systému Windows 10
+  description: Windows 10 IoT Core sa riadi modernou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862612"
+name: Jadro ioT systému Windows 10
+summary: >
+  Windows 10 IoT Core sa riadi modernou [politikou](/lifecycle/policies/modern) životného cyklu.
+
+
+
+  > [!IMPORTANT]
+
+  > Microsoft bude naďalej podporovať aspoň jeden Windows 10 Semi-ročný kanál až do 14.října 2025.
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 08/02/2016
+  end: 10/14/2025
+releases:
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 11/10/2020
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/12/2019
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 04/09/2019
+- version: Version 1703
+  startDate: 04/11/2017
+  endDate: 10/09/2018
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/10/2018
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/windows/iot-core/windows-iot-core)\n* [Hárok s prehľadmi životného cyklu systému Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Najčastejšie otázky o životnom cykle - Produkty pre Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Ak nie je odložené, následné Windows 10 polročnej kanál aktualizácie funkcie môžu byť inštalované pred uvedený koniec dátumu bežnej podpory."

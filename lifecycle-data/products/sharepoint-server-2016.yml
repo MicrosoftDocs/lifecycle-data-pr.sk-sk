@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SharePoint Server 2016
+  description: SharePoint Server 2016 sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b3049f78b9b57515f5a9b5966af4c72f30932824
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862712"
+name: SharePoint Server 2016
+summary: >+
+  SharePoint Server 2016 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 05/01/2016
+  end: 07/13/2021
+  extendedEnd: 07/14/2026
+releases:
+- version: Original Release
+  startDate: 05/01/2016
+  endDate: 07/14/2026
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)"
