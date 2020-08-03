@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtualizácia aplikácií spoločnosti Microsoft 4,6
+  description: Microsoft Application Virtualization 4.6 sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "838422"
+name: Virtualizácia aplikácií spoločnosti Microsoft 4,6
+summary: >+
+  Microsoft Application Virtualization 4.6 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+
+
+  Toto platí pre nasledujúce vydania: pre služby vzdialenej pracovnej plochy, pre pracovné plochy systému Windows, sekvencer
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte a migrácii](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Usmernenia k migrácii](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Keďže klient App-V 4.6 využíva server App-V 4.5 Server, server App-V 4.5 bude naďalej podporovaný podľa dátumov životného cyklu App-V 4.6, keď sa používa s podporovaným klientom App-V 4.6.\n\n## <a name=\"editions\"></a>Vydania \n* pre služby vzdialenej pracovnej plochy\n* pre pracovné plochy systému Windows\n* Sekvencer"
