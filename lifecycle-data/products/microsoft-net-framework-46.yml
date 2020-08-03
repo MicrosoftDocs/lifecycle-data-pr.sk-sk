@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Zobraziť pôvodný článok v angličtine: 3115555'
+  description: Microsoft .NET Framework 4.6 sa riadi politikou životného cyklu súčastí.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1505b81ae5333b02ddda8778583baea94b516a5c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862430"
+name: 'Zobraziť pôvodný článok v angličtine: 3115555'
+summary: >+
+  Microsoft .NET Framework 4.6 sa riadi politikou [životného](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) cyklu súčastí.
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 07/29/2015
+releases:
+- version: Original Release
+  startDate: 07/29/2015
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Najčastejšie otázky o životnom cykle rozhrania .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informácie o produkte](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> .NET Framework je súčasťou operačného systému Windows. Súčasti dostávajú rovnakú podporu ako ich nadradený produkt alebo platforma."

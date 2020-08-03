@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Služba kontajnerov Azure
+  description: Služba Azure Container Service sa riadi modernou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862319"
+name: Služba kontajnerov Azure
+summary: >+
+  Služba Azure Container Service sa riadi [modernou politikou](/lifecycle/policies/modern) životného cyklu.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 04/18/2016
+  end: 01/31/2020
+releases:
+- version: Original Release
+  startDate: 04/18/2016
+  endDate: 01/31/2020
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/azure/aks/acs-aks-migration)"

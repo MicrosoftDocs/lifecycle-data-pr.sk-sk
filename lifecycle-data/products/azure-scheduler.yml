@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Plánovač azure
+  description: Plánovač služby Azure sa riadi modernou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862312"
+name: Plánovač azure
+summary: >+
+  Plánovač služby Azure sa riadi modernou [politikou](/lifecycle/policies/modern) životného cyklu.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 07/01/2014
+  end: 09/30/2019
+releases:
+- version: Original Release
+  startDate: 07/01/2014
+  endDate: 09/30/2019
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"

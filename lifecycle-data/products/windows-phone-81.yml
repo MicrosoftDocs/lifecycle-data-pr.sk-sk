@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 8.1
+  description: Windows Phone 8.1 sa riadi pevnou politikou životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862610"
+name: Windows Phone 8.1
+summary: >
+  Windows Phone 8.1 sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podpora pre tento produkt sa skončila.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Najčastejšie otázky o Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Spoločnosť Microsoft sprístupní aktualizácie operačného systému vrátane aktualizácií zabezpečenia minimálne 36 mesiacov po dátume začatia životného cyklu. Tieto aktualizácie budú prírastkové, s každou aktualizáciou postavený na aktualizáciu, ktorá mu predchádzala. Zákazníci musia nainštalovať každú aktualizáciu, aby zostali podporované. Distribúciu týchto prírastkových aktualizácií môže ovládať mobilný operátor alebo výrobca telefónu, od ktorého ste si zakúpili telefón, a inštalácia bude vyžadovať, aby váš telefón mal akékoľvek predchádzajúce aktualizácie. Dostupnosť aktualizácie sa bude líšiť aj v závislosti od krajiny, oblasti a hardvérových možností."
