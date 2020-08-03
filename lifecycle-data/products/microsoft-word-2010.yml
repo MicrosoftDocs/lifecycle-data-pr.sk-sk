@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Zobraziť pôvodný článok v tomto programe Je 2010 ods.
+  description: Program Microsoft Word 2010 sa riadi politikou pevného životného cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f4dc0eea07b8fda561c124386c9483135851e2c2
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "838260"
+name: Zobraziť pôvodný článok v tomto programe Je 2010 ods.
+summary: >+
+  Program Microsoft Word 2010 sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.
+
+
+  To platí pre nasledujúce vydania: Pre študentov a domácnosti, Štandardné
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Pre domácnosti a domácnosti\n* Štandardné"
