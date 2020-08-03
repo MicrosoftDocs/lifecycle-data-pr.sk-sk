@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Zobraziť pôvodný článok v angličtine: 3115555'
+  description: Microsoft .NET Framework 4.7.1 sa riadi zásadami životného cyklu súčastí.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e57e809b4800ee789f7ae748bf0dd67d28966f91
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872131"
+name: 'Zobraziť pôvodný článok v angličtine: 3115555'
+summary: >+
+  Microsoft .NET Framework 4.7.1 sa riadi zásadami [životného](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) cyklu súčastí.
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 10/17/2017
+releases:
+- version: Original Release
+  startDate: 10/17/2017
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [Najčastejšie otázky o životnom cykle rozhrania .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework je súčasťou operačného systému Windows. Súčasti dostávajú rovnakú podporu ako ich nadradený produkt alebo platforma."
