@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: Vyhľadávanie informácií o životnom cykle produktu a služieb (ukážka)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Táto stránka je vo vývoji. Úplný zoznam produktov spoločnosti Microsoft a ich časovej osi podpory nájdete na [stránke aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n\n\nŽivotný cyklus spoločnosti Microsoft poskytuje konzistentné a predvídateľné pokyny na podporu počas celej životnosti produktu, ktoré zákazníkom pomáhajú spravovať investície do IT a prostredia a zároveň strategicky plánovať do budúcnosti.\n\n\nNižšie vyhľadajte zoznam komerčných produktov a služieb spoločnosti Microsoft a potom vyberte výsledok a vyhľadajte časovú os podpory a správy, požadované aktualizácie, informácie o migrácii a systémové požiadavky."
+summary: "\n\n> [!IMPORTANT]\n> Táto stránka je vo vývoji. Úplný zoznam produktov spoločnosti Microsoft a ich časovej osi podpory nájdete na [stránke aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Informácie o životnom cykle exportujte [zo stránky Export životného](/lifecycle/export/products) cyklu.\n\n\nŽivotný cyklus spoločnosti Microsoft poskytuje konzistentné a predvídateľné pokyny na podporu počas celej životnosti produktu, ktoré zákazníkom pomáhajú spravovať investície do IT a prostredia a zároveň strategicky plánovať do budúcnosti.\n\n\nNižšie vyhľadajte zoznam komerčných produktov a služieb spoločnosti Microsoft a potom vyberte výsledok a vyhľadajte časovú os podpory a správy, požadované aktualizácie, informácie o migrácii a systémové požiadavky."
 metadata:
-  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
+  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "838445"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882452"
