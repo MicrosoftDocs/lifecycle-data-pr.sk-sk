@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Adaptéry Microsoft BizTalk pre hostiteľské systémy 2,0
-  description: Adaptéry Microsoft BizTalk pre hostiteľské systémy 2.0 sa riadi pevnou politikou životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Adaptéry Microsoft BizTalk pre Host Systems 2,0 dodržiavajú politiku pevného životného cyklu.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "838399"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893514"
 name: Adaptéry Microsoft BizTalk pre hostiteľské systémy 2,0
 summary: >+
-  Adaptéry Microsoft BizTalk pre hostiteľské systémy 2.0 sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+  Adaptéry Microsoft BizTalk pre Host Systems 2,0 dodržiavajú politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Vývojár, Standard
+  Toto sa vzťahuje na nasledujúce vydania: vývojár, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Vydania \n* Vývojára\n* Štandardné"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny na migráciu](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Vydania \n* Vývojár\n* Štandardné"
