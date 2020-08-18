@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Vyhľadávanie informácií o životnom cykle produktu a služieb (ukážka)
+title: Informácie o životnom cykle produktov a služieb (Preview)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Táto stránka je vo vývoji. Úplný zoznam produktov spoločnosti Microsoft a ich časovej osi podpory nájdete na [stránke aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Informácie o životnom cykle exportujte [zo stránky Export životného](/lifecycle/export/products) cyklu.\n\n\nŽivotný cyklus spoločnosti Microsoft poskytuje konzistentné a predvídateľné pokyny na podporu počas celej životnosti produktu, ktoré zákazníkom pomáhajú spravovať investície do IT a prostredia a zároveň strategicky plánovať do budúcnosti.\n\n\nNižšie vyhľadajte zoznam komerčných produktov a služieb spoločnosti Microsoft a potom vyberte výsledok a vyhľadajte časovú os podpory a správy, požadované aktualizácie, informácie o migrácii a systémové požiadavky."
+summary: "\n\n> [!IMPORTANT]\n> Táto stránka je vo vývoji a bude plne žiť v septembri 2. Zatiaľ si môžete zobraziť úplný zoznam produktov spoločnosti Microsoft s časovými Osmi podpory a podrobnostiami na lokalite [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Informácie o životnom cykle exportu z stránky [exportu životného cyklu](/lifecycle/export/products) .\n\n\nŽivotný cyklus spoločnosti Microsoft poskytuje konzistentné a predvídateľné pokyny na podporu počas celej životnosti produktu a pomáha zákazníkom pri riadení IT investícií a prostredí, pričom strategické plánovanie bude mať budúcnosť.\n\n\nNižšie vyhľadajte zoznam komerčných produktov a služieb spoločnosti Microsoft a potom vyberte svoj výsledok, aby ste našli časovú os podpory a servisu, vyžadované aktualizácie, informácie o migrácii a systémové požiadavky."
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882452"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899855"
