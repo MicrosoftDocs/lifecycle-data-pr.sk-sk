@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Tvorcov politík
+  description: Politika sa riadi politikou pevných životných cyklov.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904493"
+name: Tvorcov politík
+summary: >+
+  Politika sa riadi politikou [pevných](/lifecycle/policies/fixed) životných cyklov.
+
+
+  Toto sa vzťahuje na nasledujúce vydania: zabezpečenie aplikácií, vydanie programu Outlook, Professional 9,0, rozšírenie databázy Registry 2,0, Share Manager 1,0, aktualizácia softvéru 1,0, aktualizácia softvéru 2,0, štandard 1,0, Standard 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Podpora pre tento produkt podlieha podmienkam jeho získania.\n\n## <a name=\"editions\"></a>Vydania \n* Zabezpečenie aplikácií\n* Vydanie programu Outlook\n* Professional 9,0\n* Rozšírenie databázy Registry 2,0\n* Share Manager 1,0\n* Aktualizácia softvéru 1,0\n* Aktualizácia softvéru 2,0\n* Štandardné 1,0\n* Štandardné 2,0"
