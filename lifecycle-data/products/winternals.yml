@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Winternals (Zimné semeny)
+  title: Winternals
   description: Winternals sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837847"
-name: Winternals (Zimné semeny)
+name: Winternals
 summary: >+
-  Winternals sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Winternals sa riadi  [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  To sa týka nasledujúcich vydaní: Správca Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
+  Toto sa vzťahuje na nasledujúce edície: Administrator's Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika životného cyklu akvizícií spoločnosti Microsoft](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Program  vylúči verzie, ktoré boli predtým podporované. Podpora tohto produktu podlieha podmienkam jeho akvizície.\n\n## <a name=\"editions\"></a>Vydania \n* Správca Je Potom 5,0\n* Defrag Manažér 3,0\n* Ochrana Manager 2,0\n* Zotavenie Manager 3,0"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika životného cyklu akvizícií spoločnosti Microsoft](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Neobsahuje verzie, ktorých podpora bola predtým ukončená. Na podporu pre tento produkt sa vzťahujú podmienky súvisiace s jeho kúpou.\n\n## <a name=\"editions\"></a>Vydania \n* Administrator's Pak 5.0\n* Defrag Manager 3.0\n* Protection Manager 2.0\n* Recovery Manager 3.0"

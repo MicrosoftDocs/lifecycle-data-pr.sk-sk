@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP
-  description: Systém Windows XP sa riadi politikou pevného životného cyklu.
+  description: Systém Windows XP sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837848"
 name: Windows XP
-summary: >
-  Systém Windows XP sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.
-
-
-  To platí pre nasledujúce vydania: Home, Professional, Professional for Embedded Systems, Starter
-
-
-  > [!IMPORTANT]
-
-  > Podpora pre tento produkt sa skončila. Pozri usmernenia o migrácii uvedené nižšie.
+summary: "Systém Windows XP sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Home, Professional, Professional for Embedded Systems, Starter\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie.\n"
 products:
 - windows
 policyType: fixed
@@ -43,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Domov\n* Profesionálne\n* Profesionálne pre vstavané systémy\n* Starter"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Home\n* Professional\n* Professional for Embedded Systems\n* Starter"

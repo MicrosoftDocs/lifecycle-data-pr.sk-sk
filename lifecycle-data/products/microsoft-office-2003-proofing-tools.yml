@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Nástroje korektúry balíka Microsoft Office 2003
-  description: Nástroje korektúry balíka Microsoft Office 2003 sa riadi pevnou politikou životného cyklu.
+  description: Nástroje korektúry balíka Microsoft Office 2003 sa riadia pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838707"
 name: Nástroje korektúry balíka Microsoft Office 2003
 summary: >+
-  Nástroje korektúry balíka Microsoft Office 2003 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Nástroje korektúry balíka Microsoft Office 2003 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:

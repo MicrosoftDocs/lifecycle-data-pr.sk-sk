@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Project Server 2010
-  description: Program Project Server 2010 sa riadi politikou pevného životného cyklu.
+  title: Project Server 2010
+  description: Project Server 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6c04194a3d405101429475ce7fd4561743790151
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837732"
-name: Program Project Server 2010
+name: Project Server 2010
 summary: >+
-  Program Project Server 2010 sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Project Server 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Rozšírenie podpory](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Plán programu Project Server](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Dátum ukončenia podpory tohto produktu bol predĺžený od 13.10.2020 do 13.4.2021."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Rozšírenie podpory](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Project Server Roadmap](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Dátum ukončenia poskytovania podpory tohto produktu sa odkladá z 13. októbra 2020 na 13. apríla 2021."

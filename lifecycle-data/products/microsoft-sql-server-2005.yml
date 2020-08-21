@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Zobraziť pôvodný článok v angličtine: 3115555'
+  title: Microsoft SQL Server 2005
   description: Microsoft SQL Server 2005 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837893"
-name: 'Zobraziť pôvodný článok v angličtine: 3115555'
+name: Microsoft SQL Server 2005
 summary: >
-  Microsoft SQL Server 2005 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft SQL Server 2005 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Compact, Developer, Embedded, Enterprise, Enterprise for Itanium-based Systems, Enterprise X64, Express, Express with Advanced Services, Standard, Standard for Itanium-based Systems, Standard X64, Workgroup
+  Toto sa vzťahuje na nasledujúce edície: Compact, Developer, Embedded, Enterprise, Enterprise for Itanium-based Systems, Enterprise X64, Express, Express with Advanced Services, Standard, Standard for Itanium-based Systems, Standard X64, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila. Pozri usmernenia o migrácii uvedené nižšie.
+  > Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie.
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition vydané 19 februára 2007.\n\n## <a name=\"editions\"></a>Vydania \n* Kompaktný\n* Vývojára\n* Vložené\n* Podnik\n* Enterprise for Itanium-based Systems\n* Podnikové X64\n* Express\n* Expresné s rozšírenými službami\n* Štandardné\n* Štandard pre systémy s procesorom Itanium\n* Štandardné X64\n* Pracovnej skupiny"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition vydaný 19. februára 2007.\n\n## <a name=\"editions\"></a>Vydania \n* Compact\n* Vývojár\n* Embedded\n* Enterprise\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Express\n* Express with Advanced Services\n* Standard\n* Standard for Itanium-based Systems\n* Standard X64\n* Workgroup"

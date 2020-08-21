@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť pôvodný článok v tomto článku sa
-  description: Microsoft Visual Studio 2005 takto pevné životného cyklu politiky.
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837733"
-name: Zobraziť pôvodný článok v tomto článku sa
-summary: >+
-  Microsoft Visual Studio 2005 takto pevné [životného](/lifecycle/policies/fixed) cyklu politiky.
-
-
-  Toto sa týka nasledujúcich vydaní: Professional, Standard, Standard Edition akademická licencia, Team Edition pre odborníkov v databáze, Team Edition pre softvérových architektov, Team Edition pre vývojárov softvéru, Team Edition pre softvérový tester, Team Suite, Team Test Load Agent, Nástroje pre Microsoft Office System, VB Express, Visual C# Express, Visual++ C Express, Visual J# Express, Visual Web Express Developer
-
+name: Microsoft Visual Studio 2005
+summary: "Microsoft Visual Studio 2005 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Professional, Standard, Standard Edition akademická licencia, Team Edition pre databázových profesionálov, Team Edition pre softvérových architektov, Team Edition pre vývojárov softvéru, Team Edition pre softvérových testerov, Team Suite, Team Test Load Agent, Nástroje pre systém Microsoft Office, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o podpore aplikácie Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Usmernenia k migrácii](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informácie o produkte programu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Podpora pre tento produkt sa skončila. Usmernenia o migrácii nájdete nižšie.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition pre databázových profesionálov prepustený 2.\n\n## <a name=\"editions\"></a>Vydania \n* Profesionálne\n* Štandardné\n* Akademická licencia Standard Edition\n* Team Edition pre databázových profesionálov\n* Team Edition pre softvérových architektov\n* Team Edition pre vývojárov softvéru\n* Team Edition pre softvérové testery\n* Tímová suita\n* Agent na testovanie tímu\n* Nástroje pre systém balíka Microsoft Office\n* VB Express\n* Vizuálna hodnota C# Express\n* Vizuálna c++ Express\n* Vizuálna J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o podpore Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Informácie k migrácii](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informácie o produkte Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Podpora pre tento produkt bola ukončená. Informácie o migrácii nájdete nižšie.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition pre databázových profesionálov vydané 2. marca 2007.\n\n## <a name=\"editions\"></a>Vydania \n* Professional\n* Standard\n* Standard Edition akademická licencia \n* Team Edition pre databázových profesionálov\n* Team Edition pre softvérových architektov\n* Team Edition pre vývojárov softvéru\n* Team Edition pre softvérových testerov\n* Team Suite\n* Team Test Load Agent\n* Nástroje pre systém Microsoft Office\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

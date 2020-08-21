@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Zobraziť pôvodný článok v angličtine: 3115555'
+  title: Microsoft .NET Framework 3.5
   description: Microsoft .NET Framework 3.5 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838711"
-name: 'Zobraziť pôvodný článok v angličtine: 3115555'
+name: Microsoft .NET Framework 3.5
 summary: >+
-  Microsoft .NET Framework 3.5 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft .NET Framework 3.5 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Najčastejšie otázky o životnom cykle - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informácie o produkte](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Podpora pre verzie rozhrania .NET Framework 3.x pred 3.5 SP1 skončila 12.července 2011. \n> [!NOTE]\n> Dátumy životného cyklu sa vzťahujú na balík .NET 3.5 SP1, keď je spustený windows 10 verzie 1809, Windows Server 2019 alebo novší. V starších verziách systému Windows balík .NET 3.5 SP1 prijíma životný cyklus príslušného operačného systému Windows."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Najčastejšie otázky o životnom cykle - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informácie o produkte](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Podpora pre verzie .NET Framework 3.x pred verziou 3.5 SP1 skončila 12. júla 2011. \n> [!NOTE]\n> Dátumy životného cyklu platia pre .NET 3.5 SP1, keď sa spúšťa vo Windows 10 verzie 1809, Windows Server 2019 alebo novšom. V starších verziách Windows má .NET 3.5 SP1 životný cyklus základného operačného systému Windows. \n\n\n"

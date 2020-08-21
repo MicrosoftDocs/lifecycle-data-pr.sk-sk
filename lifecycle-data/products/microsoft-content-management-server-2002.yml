@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správa obsahu spoločnosti Microsoft Server 2002
+  title: Microsoft Content Management Server 2002
   description: Microsoft Content Management Server 2002 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 37e472e998f4c244d30d4c7b372ab38699323e23
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838365"
-name: Správa obsahu spoločnosti Microsoft Server 2002
-summary: >+
-  Microsoft Content Management Server 2002 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
-
-
-  To platí pre nasledujúce vydania: Enterprise, Standard
-
+name: Microsoft Content Management Server 2002
+summary: "Microsoft Content Management Server 2002 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Enterprise, Standard\n\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Service Pack 1
   startDate: 09/16/2003
   endDate: 07/11/2006
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Vydanie Enterprise tohto produktu má počiatočný dátum 7.listopadu 2002. \n\n## <a name=\"editions\"></a>Vydania \n* Podnik\n* Štandardné"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Vydanie Enterprise tohto produktu má počiatočný dátum 7. novembra 2002. \n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Standard"

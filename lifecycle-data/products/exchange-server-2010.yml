@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Exchange Server 2010
+  title: Server Exchange Server 2010
   description: Exchange Server 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5452228ee7f953f50a2f034c9cf646e7c85b53b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837788"
-name: Exchange Server 2010
-summary: >+
-  Exchange Server 2010 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
-
-
-  To platí pre nasledujúce vydania: Enterprise, Standard
-
+name: Server Exchange Server 2010
+summary: "Exchange Server 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Enterprise, Standard\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/09/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Dátum predĺženia](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [Usmernenia k migrácii](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> Životný cyklus pre exchange Server 2010 bol rozšírený.\n\n## <a name=\"editions\"></a>Vydania \n* Podnik\n* Štandardné"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Dátum predĺženia](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [Informácie k migrácii](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> Životný cyklus pre Exchange Server 2010 sa predĺžil.\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Standard"

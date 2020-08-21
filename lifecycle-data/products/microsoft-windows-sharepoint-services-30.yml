@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť pôvodný článok v tomto článku sa používa na základe článku 107 ods.
-  description: Služba Microsoft Windows SharePoint Services 3.0 sa riadi politikou pevného životného cyklu.
+  title: Microsoft Windows SharePoint Services 3.0
+  description: Microsoft Windows SharePoint Services 3.0 sa riadi politikou pevného životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: cdc4d8caef3f00f070c4d3ce32c2eea2f6ecbf24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837728"
-name: Zobraziť pôvodný článok v tomto článku sa používa na základe článku 107 ods.
-summary: "Služba Microsoft Windows SharePoint Services 3.0 sa riadi politikou [pevného životného](/lifecycle/policies/fixed) cyklu.\n\n\n> [!IMPORTANT]\n> Podpora sa skončila. \n"
+name: Microsoft Windows SharePoint Services 3.0
+summary: "Microsoft Windows SharePoint Services 3.0 sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.\n\n\n> [!IMPORTANT]\n> Podpora bola ukončená. \n"
 products:
 - office
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Usmernenia k migrácii](/office365/enterprise/sharepoint-2007-end-of-support)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Informácie k migrácii](/office365/enterprise/sharepoint-2007-end-of-support)"
