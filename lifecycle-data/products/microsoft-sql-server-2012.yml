@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Zobraziť pôvodný článok v angličtine: 3115555'
-  description: Microsoft SQL Server 2012 takto pevné životného cyklu politiky.
+  title: Microsoft SQL Server 2012
+  description: Microsoft SQL Server 2012 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862415"
-name: 'Zobraziť pôvodný článok v angličtine: 3115555'
+name: Microsoft SQL Server 2012
 summary: >+
-  Microsoft SQL Server 2012 takto pevné [životného](/lifecycle/policies/fixed) cyklu politiky.
+  Microsoft SQL Server 2012 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Týka sa to nasledujúcich vydaní: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, pre vstavané systémy, štandard, web
+  Toto sa vzťahuje na nasledujúce edície: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, for Embedded Systems, Standard, Web
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Business Intelligence\n* Vývojára\n* Podnik\n* Jadro podniku\n* Express\n* pre vstavané systémy\n* Štandardné\n* Webové"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Business Intelligence\n* Vývojár\n* Enterprise\n* Enterprise Core\n* Express\n* for Embedded Systems\n* Standard\n* Web"

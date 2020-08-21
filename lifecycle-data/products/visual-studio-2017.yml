@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť viac Zobraziť viac
-  description: Visual Studio 2017 nadväzuje na pevnú politiku životného cyklu.
+  title: Visual Studio 2017
+  description: Visual Studio 2017 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872101"
-name: Zobraziť viac Zobraziť viac
-summary: >+
-  Visual Studio 2017 nadväzuje na pevnú [politiku](/lifecycle/policies/fixed) životného cyklu.
-
-
-  To platí pre nasledujúce vydania: Agenti, Build Nástroje, Spoločenstva, Enterprise, spätná väzba klienta, pre Mac, IntelliTrace samostatný zberateľ, performance nástroje, Professional, vzdialené nástroje, Team Explorer, Test Professional, Visual C++ Redistribuovateľný balík
-
+name: Visual Studio 2017
+summary: "Visual Studio 2017 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Agents, Nástroje na zostavenie, Community, Enterprise, Klient pre spätnú väzbu, pre Mac, IntelliTrace Standalone Collector, Nástroje výkonu, Professional, Vzdialené nástroje, Team Explorer, Test Professional, Visual C++ Redistributable\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Oznámenie](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Informácie o servise](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agenti\n* Nástroje na zostavenie\n* Komunita\n* Podnik\n* Spätná väzba klienta\n* pre Mac\n* IntelliTrace samostatný zberateľ\n* Výkonnostné nástroje\n* Profesionálne\n* Vzdialené nástroje\n* Prieskumník tímov\n* Test Professional\n* Visual C++ Redistribuovateľný balík"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Oznámenie](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Informácie o servise](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Nástroje na zostavenie\n* Community\n* Enterprise\n* Klient pre spätnú väzbu\n* pre Mac\n* IntelliTrace Standalone Collector\n* Výkonnostné nástroje\n* Professional\n* Vzdialené nástroje\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"

@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Jadro ioT systému Windows 10
+  title: Windows 10 IoT Core
   description: Windows 10 IoT Core sa riadi modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862612"
-name: Jadro ioT systému Windows 10
-summary: >
-  Windows 10 IoT Core sa riadi modernou [politikou](/lifecycle/policies/modern) životného cyklu.
-
-
-
-  > [!IMPORTANT]
-
-  > Microsoft bude naďalej podporovať aspoň jeden Windows 10 Semi-ročný kanál až do 14.října 2025.
+name: Windows 10 IoT Core
+summary: "Windows 10 IoT Core sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu. \n\n\n> [!IMPORTANT]\n> Microsoft bude naďalej podporovať aspoň jeden Polročný kanál Windows 10 až do 14. októbra 2025.\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +33,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/windows/iot-core/windows-iot-core)\n* [Hárok s prehľadmi životného cyklu systému Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Najčastejšie otázky o životnom cykle - Produkty pre Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Ak nie je odložené, následné Windows 10 polročnej kanál aktualizácie funkcie môžu byť inštalované pred uvedený koniec dátumu bežnej podpory."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/windows/iot-core/windows-iot-core)\n* [Hárok s prehľadmi životného cyklu systému Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Ak sa aktualizácie neodložia, následné aktualizácie funkcií Polročného kanálu systému Windows 10 môžu byť nainštalované ešte pred uvedeným dátumom ukončenia hlavnej podpory."

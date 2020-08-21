@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť viac Zobraziť viac
-  description: Visual Studio 2015 nadväzuje na pevnú politiku životného cyklu.
+  title: Visual Studio 2015
+  description: Visual Studio 2015 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862569"
-name: Zobraziť viac Zobraziť viac
+name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 nadväzuje na pevnú [politiku](/lifecycle/policies/fixed) životného cyklu.
+  Visual Studio 2015 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Agenti, Community, Enterprise, Express for Web, Express pre Windows 10, Express pre Windows Desktop, Modelovanie SDK, Professional, Správa vydaní, Vzdialené nástroje, SDK, Shell (integrated), Shell (Izolované), Test Professional, Visual C++ Redistribuovateľný balík
+  Toto sa vzťahuje na nasledujúce edície: Agenti, Community, Enterprise, Express pre Web, Express pre Windows 10, Express pre Windows Desktop, Modeling SDK, Professional, Správa vydaní, Vzdialené nástroje, SDK, Shell (integrovaný), Shell (izolovaný), Test Professional, Visual C++ Redistribuovateľný balík
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agenti\n* Komunita\n* Podnik\n* Expresné pre web\n* Expresné pre Windows 10\n* Expresné pre pracovnú plochu systému Windows\n* Modelovanie SDK\n* Profesionálne\n* Správa vydaní\n* Vzdialené nástroje\n* Sdk\n* Shell (integrovaný)\n* Škrupina (izolovaná)\n* Test Professional\n* Visual C++ Redistribuovateľný balík"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Community\n* Enterprise\n* Express for Web\n* Express pre Windows 10\n* Express pre Windows Desktop\n* Modeling SDK\n* Professional\n* Správa vydaní\n* Vzdialené nástroje\n* SDK\n* Shell (integrovaný)\n* Shell (izolovaný)\n* Test Professional\n* Visual C++ Redistributable"

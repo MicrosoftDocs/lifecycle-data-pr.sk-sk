@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 2019 LTSC
-  description: Ltsc systému Windows 10 2019 sa riadi politikou pevného životného cyklu.
+  description: Systém Windows 10 2019 LTSC sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d9eeef3c451afda756aff4666fb85da889772e9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872118"
 name: Windows 10 2019 LTSC
 summary: >+
-  Ltsc systému Windows 10 2019 sa riadi politikou [pevného životného](/lifecycle/policies/fixed) cyklu.
+  Systém Windows 10 2019 LTSC sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Enterprise
+  Toto sa vzťahuje na nasledujúce edície: Enterprise
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Opätovné vydanie aktualizácie Windowsu 10 (verzia 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Najčastejšie otázky o systéme Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Vydania \n* Podnik"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Opätovné vydanie októbrovej aktualizácie Windowsu 10 (verzia 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Často kladené otázky o systéme Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise"

@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 191d7db0755e317ae2faadd116b46046b90cd071
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862727"
 name: Windows 10 2015 LTSB
-summary: >+
-  Windows 10 2015 LTSB sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
-
-
-  To platí pre nasledujúce vydania: Enterprise
-
+summary: "Windows 10 2015 LTSB sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Enterprise\n\n"
 products:
 - windows
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Najčastejšie otázky o systéme Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Opätovné vydanie aktualizácie Windowsu 10 (verzia 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Vydania \n* Podnik"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Často kladené otázky o systéme Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Opätovné vydanie októbrovej aktualizácie Windowsu 10 (verzia 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise"

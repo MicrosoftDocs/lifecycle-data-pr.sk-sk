@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012 R2
-  description: Windows Server 2012 R2 takto pevné životného cyklu politiky.
+  description: Windows Server 2012 R2 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862359"
 name: Windows Server 2012 R2
 summary: >+
-  Windows Server 2012 R2 takto pevné [životného](/lifecycle/policies/fixed) cyklu politiky.
+  Windows Server 2012 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Týka sa to nasledujúcich vydaní: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
+  Toto sa vzťahuje na nasledujúce edície: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Bežná a rozšírená podpora pre tento produkt bola rozšírená tak, aby zákazníkom poskytovala štandardnú časovú os prechodu počas životného cyklu.\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Základné fakty\n* pre vstavané systémy\n* Nadácie\n* Štandardné"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Bežná a rozšírená podpora pre tento produkt bola rozšírená tak, aby zákazníkom poskytovala štandardnú časovú os prechodu počas životného cyklu.\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Essentials\n* for Embedded Systems\n* Foundation\n* Standard"

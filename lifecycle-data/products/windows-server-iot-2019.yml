@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Systém Windows Server IoT 2019
+  title: Windows Server IoT 2019
   description: Windows Server IoT 2019 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872079"
-name: Systém Windows Server IoT 2019
+name: Windows Server IoT 2019
 summary: >+
-  Windows Server IoT 2019 sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+  Windows Server IoT 2019 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Datacenter, Essentials, Standard, Telecommunications
+  Toto sa vzťahuje na nasledujúce edície: Datacenter, Essentials, Standard, Telecommunications
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Najčastejšie otázky o životnom cykle - Produkty pre Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Všetky verzie systému Windows Server IoT 2019 sledovať životný cyklus systému Windows Server 2019.\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Základné fakty\n* Štandardné\n* Telekomunikácie"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pre všetky verzie systému Windows Server IoT 2019 platí životný cyklus systému Windows Server 2019.\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Essentials\n* Standard\n* Telecommunications"

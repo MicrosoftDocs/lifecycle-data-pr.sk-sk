@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť pôvodný článok v tomto článku sa
+  title: Microsoft Office 2013
   description: Microsoft Office 2013 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862765"
-name: Zobraziť pôvodný článok v tomto článku sa
+name: Microsoft Office 2013
 summary: >+
-  Microsoft Office 2013 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Office 2013 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Domáce a business, Home and Student, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
+  Toto sa vzťahuje na nasledujúce edície: Home and Business, Home and Student, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 sa nevzťahuje na vydanie Web Apps Server. \n\n## <a name=\"editions\"></a>Vydania \n* Domov a podnikanie\n* Pre domácnosti a domácnosti\n* Profesionálne\n* Profesionálne plus\n* Profesionálny Plus Program na domáce použitie\n* Štandardné\n* Server webových aplikácií"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 sa nevzťahuje na vydanie Web Apps Server. \n\n## <a name=\"editions\"></a>Vydania \n* Home and Business\n* Pre domácnosti a študentov\n* Professional\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Web Apps Server"
