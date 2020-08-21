@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť pôvodný článok v tomto článku sa
+  title: Microsoft Office 2010
   description: Microsoft Office 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838007"
-name: Zobraziť pôvodný článok v tomto článku sa
-summary: >+
-  Microsoft Office 2010 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
-
-
-  To platí pre nasledujúce vydania: eAcademy, Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
-
+name: Microsoft Office 2010
+summary: "Microsoft Office 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nTo platí pre nasledujúce vydania: eAcademy, Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter\n\n"
 products:
 - office
 policyType: fixed
@@ -33,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán ukončenia podpory balíka Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* EAcademy (eAcademy)\n* Domov a podnikanie\n* Pre domácnosti a domácnosti\n* Osobné\n* Profesionálne\n* Profesionálny akademický\n* Profesionálne plus\n* Profesionálny Plus Program na domáce použitie\n* Štandardné\n* Starter"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán ukončenia podpory pre Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* eAcademy\n* Home and Business\n* Pre domácnosti a študentov\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Starter"

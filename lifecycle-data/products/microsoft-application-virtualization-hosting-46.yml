@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 pre windows desktopy
+  title: Microsoft Application Virtualization hosting 4.6 pre stolné počítače so systémom Windows
   description: Microsoft Application Virtualization Hosting 4.6 pre stolné počítače so systémom Windows sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838416"
-name: Microsoft Application Virtualization Hosting 4.6 pre windows desktopy
+name: Microsoft Application Virtualization hosting 4.6 pre stolné počítače so systémom Windows
 summary: >+
-  Microsoft Application Virtualization Hosting 4.6 pre stolné počítače so systémom Windows sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Application Virtualization Hosting 4.6 pre stolné počítače so systémom Windows sa riadi [pevnou ](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto platí pre nasledujúce vydania: pre windows Desktopy
+  To platí pre nasledujúce vydania: pre stolné počítače so systémom Windows
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte a migrácii](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Keďže klient App-V 4.6 využíva server App-V 4.5 Server, server App-V 4.5 bude naďalej podporovaný podľa dátumov životného cyklu App-V 4.6, keď sa používa s podporovaným klientom App-V 4.6.\n\n## <a name=\"editions\"></a>Vydania \n* pre pracovné plochy systému Windows"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte a migrácii](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Keďže klient App-V 4.6 využíva server App-V 4.5, server App-V 4.5 bude v prípade používania s podporovaným klientom App-V 4.6 naďalej podporovaný podľa dátumov životného cyklu App-V 4.6.\n\n## <a name=\"editions\"></a>Vydania \n* pre Windows Desktops"

@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded Standard 7 (V systéme Windows Embedded Standard 7)
+  title: Windows Embedded Standard 7,
   description: Windows Embedded Standard 7 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838218"
-name: Windows Embedded Standard 7 (V systéme Windows Embedded Standard 7)
-summary: >+
-  Windows Embedded Standard 7 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
-
-
-  To platí pre nasledujúce vydania: Standard
-
+name: Windows Embedded Standard 7,
+summary: "Windows Embedded Standard 7 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Standard\n\n"
 products:
 - windows
 policyType: fixed
@@ -39,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Odkazy \n* [* Extended Security Update Program (ESU) - Rozšírené aktualizácie zabezpečenia pre vybraných vložených produktov sú k dispozícii prostredníctvom výrobcovia ZARIADENÍ](/lifecycle/faq/extended-security-updates)\n* [Usmernenia k migrácii](https://support.microsoft.com/help/4057281)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> \"*Rozšírené aktualizácie zabezpečenia (ESU) sú k dispozícii pre Windows Embedded Standard 7 až ďalšie tri roky po ukončení podpory prostredníctvom ovládačov OEM. Ďalšie informácie vám poskytne partner alebo tím konta spoločnosti Microsoft.\n\n## <a name=\"editions\"></a>Vydania \n* Štandardné"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [* Program rozšírených aktualizácií zabezpečenia (ESU) – rozšírené aktualizácie zabezpečenia pre vybrané produkty Embedded sú k dispozícii prostredníctvom výrobcov OEM](/lifecycle/faq/extended-security-updates)\n* [Informácie k migrácii](https://support.microsoft.com/help/4057281)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> * Rozšírené aktualizácie zabezpečenia (ESU) sú k dispozícii pre Windows Embedded Standard 7 na ďalšie tri roky po skončení poskytovania podpory cez OEM. Ak sa chcete dozvedieť viac, obráťte sa na svojho partnera spoločnosti Microsoft alebo tím obchodného vzťahu.\n\n## <a name=\"editions\"></a>Vydania \n* Standard"

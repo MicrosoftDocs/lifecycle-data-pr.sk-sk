@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838309"
 name: Microsoft SharePoint 2010 (pre internetové lokality)
-summary: >+
-  Microsoft SharePoint 2010 (pre internetové lokality) sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
-
-
-  To platí pre nasledujúce vydania: pre internetové lokality Enterprise, pre internetové lokality Standard
-
+summary: "Microsoft SharePoint 2010 (pre internetové lokality) sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nTo platí pre nasledujúce vydania: pre internetové lokality Enterprise, pre internetové lokality Standard\n\n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Dokumentácia k produktu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentácia vývojára](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Dátum ukončenia podpory tohto produktu bol predĺžený od 13.10.2020 do 13.4.2021.\n\n## <a name=\"editions\"></a>Vydania \n* pre internetové stránky Enterprise\n* pre internetové stránky Standard"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Dokumentácia o produkte](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentácia pre vývojárov](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Dátum ukončenia poskytovania podpory tohto produktu sa odkladá z 13. októbra 2020 na 13. apríla 2021.\n\n## <a name=\"editions\"></a>Vydania \n* pre internetové stránky Enterprise\n* pre internetové stránky Standard"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2008
-  description: Systém Windows Server 2008 sa riadi politikou pevného životného cyklu.
+  description: Windows Server 2008 sa riadi politikou pevného životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838573"
 name: Windows Server 2008
 summary: >
-  Systém Windows Server 2008 sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Windows Server 2008 sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Datacenter, Datacenter bez Hyper-V, Enterprise, Enterprise bez Hyper-V, pre systémy s procesorom Itanium, Foundation, Standard, Standard bez Hyper-V, Web
+  Toto sa vzťahuje na nasledujúce edície: Datacenter, Datacenter bez Hyper-V, Enterprise, Enterprise bez Hyper-V, pre systémy s procesorom Itanium, Foundation, Standard, Standard bez Hyper-V, Web
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila. Pozri usmernenia o migrácii uvedené nižšie.
+  > Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://aka.ms/AA1ovn4)\n* [Informácie o inovácii servera](/windows-server/upgrade/upgrade-overview)\n* [Rozšírený program aktualizácie zabezpečenia (ESU)](/lifecycle/faq/extended-security-updates)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Rozšírené aktualizácie zabezpečenia (ESU) sú k dispozícii prostredníctvom konkrétnych multilicenčných programov pre vydania Datacenter, Standard, Enterprise a Embedded tohto vydania produktov až na ďalšie tri roky po skončení podpory. Ďalšie informácie vám poskytne partner alebo tím konta spoločnosti Microsoft. \n\nDátum ------------------------------- začatia ---- Dátum ukončenia\n\nRozšírená aktualizácia zabezpečenia rok 3---01/11/2022---01/10/2023\n\nRozšírená aktualizácia zabezpečenia rok 2---01/12/2021---01/11/2022\n\nRozšírená aktualizácia zabezpečenia rok 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation prepustený 21.\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Dátové centrum bez Hyper-V\n* Podnik\n* Podnik bez Hyper-V\n* pre systémy s procesorom Itanium\n* Nadácie\n* Štandardné\n* Štandard bez Hyper-V\n* Webové"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://aka.ms/AA1ovn4)\n* [Informácie o upgrade servera](/windows-server/upgrade/upgrade-overview)\n* [Program rozšírených aktualizácií zabezpečenia (ESU)](/lifecycle/faq/extended-security-updates)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Program rozšírených aktualizácií zabezpečenia (ESU) je k dispozícii pre verzie Datacenter, Standard, Enterprise a Embedded tohto produktu na ďalšie tri roky po skončení poskytovania podpory. Ak sa chcete dozvedieť viac, obráťte sa na svojho partnera spoločnosti Microsoft alebo tím obchodného vzťahu. \n\nVydanie-------------------------------Dátum začatia----Dátum ukončenia\n\nRozšírená aktualizácia zabezpečenia Rok 3---11. 1. 2022---10. 1. 2023\n\nRozšírená aktualizácia zabezpečenia Rok 2---12. 1. 2021---11. 1. 2022\n\nRozšírená aktualizácia zabezpečenia Rok 1---14. 1. 2020---12. 1. 2021\n> [!NOTE]\n> Windows Server 2008 Foundation bol vydaný 21. mája 2009\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Datacenter bez Hyper-V\n* Enterprise\n* Enterprise bez Hyper-V\n* pre systémy s procesorom Itanium\n* Foundation\n* Standard\n* Standard bez Hyper-V\n* Web"

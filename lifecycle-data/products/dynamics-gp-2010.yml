@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Systém Dynamics GP 2010
-  description: Dynamics GP 2010 nadväzuje na pevnú politiku životného cyklu.
+  title: Dynamics GP 2010
+  description: Dynamics GP 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82eb406f32eb22016a6f4e97fa3d802c6d1dd896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838477"
-name: Systém Dynamics GP 2010
+name: Dynamics GP 2010
 summary: >+
-  Dynamics GP 2010 nadväzuje na pevnú [politiku](/lifecycle/policies/fixed) životného cyklu.
+  Dynamics GP 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 10/09/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Ďalšie informácie a usmernenia k migrácii](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Informácie o produkte](/dynamics-gp/)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Ďalšie informácie a usmernenia k migrácii](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Informácie o produkte](/dynamics-gp/)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)"

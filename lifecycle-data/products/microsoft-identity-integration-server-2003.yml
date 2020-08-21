@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Identity integrácie Server 2003
+  title: Microsoft Identity Integration Server 2003
   description: Microsoft Identity Integration Server 2003 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: dbad234b5c3f1f121bc91d27feef671281cfd044
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838021"
-name: Microsoft Identity integrácie Server 2003
-summary: "Microsoft Identity Integration Server 2003 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.\n\nTo platí pre nasledujúce vydania: Enterprise\n\n> [!IMPORTANT]\n> Podpora pre tento produkt sa skončila. \n"
+name: Microsoft Identity Integration Server 2003
+summary: "Microsoft Identity Integration Server 2003 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Enterprise\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. \n"
 products:
 - m365
 policyType: fixed
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/26/2003
   endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Informácie o systéme Windows Server](/windows-server/)\n\n\n## <a name=\"editions\"></a>Vydania \n* Podnik"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Informácie o Windows Server](/windows-server/)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise"

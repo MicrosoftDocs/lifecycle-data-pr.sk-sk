@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť pôvodný článok v tomto článku sa zišlej len 7.000 eur
+  title: Microsoft Forecaster 7.0
   description: Microsoft Forecaster 7.0 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838351"
-name: Zobraziť pôvodný článok v tomto článku sa zišlej len 7.000 eur
-summary: >+
-  Microsoft Forecaster 7.0 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
-
-
+name: Microsoft Forecaster 7.0
+summary: "Microsoft Forecaster 7.0 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\n\n"
 products:
 - dynamics
 policyType: fixed
@@ -40,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Podpora prognózovača končí v uvedený dátum, pokiaľ nie je distribuovaný ako súčasť produktu Dynamics. Pri distribúcii s produktom Dynamics dátumy životného cyklu dynamics prepíšu dátum prognózy."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Podpora pre Forecaster sa končí v uvedený dátum, pokiaľ produkt nie je distribuovaný ako súčasť produktu Dynamics. Pri distribúcii s produktom Dynamics dátumy životného cyklu Dynamics prepíšu dátum pre Forecaster."

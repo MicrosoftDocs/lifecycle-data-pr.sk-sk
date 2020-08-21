@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Systém <a0>Windows 7</
-  description: Systém Windows 7 sa riadi politikou pevného životného cyklu.
+  title: Windows 7
+  description: Systém Windows 7 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837707"
-name: Systém <a0>Windows 7</
-summary: "Systém Windows 7 sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.\n\nTo platí pre nasledujúce vydania: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Podpora pre tento produkt sa skončila. Pozri usmernenia o migrácii uvedené nižšie. \n"
+name: Windows 7
+summary: "Systém Windows 7 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional pre systémy Embedded, Professional N, Starter, Starter N, Ultimate, Ultimate pre systémy Embedded, Ultimate N\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> '* Rozšírené aktualizácie zabezpečenia (ESU) sú k dispozícii prostredníctvom konkrétnych multilicenčných programov pre vydania Windows 7 Professional, Enterprise a Professional for Embedded Systems tohto produktu až na ďalšie tri roky po skončení podpory. Ďalšie informácie vám poskytne partner alebo tím konta spoločnosti Microsoft. \n\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://support.microsoft.com/help/4057281)\n* [Inovácia zo systému Windows 7 na Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Rozšírený program aktualizácie zabezpečenia (ESU)](/lifecycle/faq/extended-security-updates)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Podnik\n* Podnik N\n* Domov Základné\n* Domov Premium\n* Domov Premium N\n* Profesionálne\n* Profesionálne pre vstavané systémy\n* Profesionálne N\n* Starter\n* Štartér N\n* Ultimate\n* Ultimate pre vstavané systémy\n* Konečným N"
+content: "> [!TIP]\n> * Program rozšírených aktualizácií zabezpečenia (ESU) je pre verzie Windows 7 Professional, Enterprise a Professional for Embedded Systems k dispozícii na ďalšie tri roky po skončení poskytovania podpory prostredníctvom špeciálnych programov multilicencií. Ak sa chcete dozvedieť viac, obráťte sa na svojho partnera spoločnosti Microsoft alebo tím obchodného vzťahu. \n\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://support.microsoft.com/help/4057281)\n* [Upgrade zo systému Windows 7 na Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Program rozšírených aktualizácií zabezpečenia (ESU)](/lifecycle/faq/extended-security-updates)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N"

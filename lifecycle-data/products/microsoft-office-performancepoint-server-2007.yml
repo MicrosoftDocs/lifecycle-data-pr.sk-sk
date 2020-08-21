@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office PerformancePoint Server 2007 (Výkon balíka Microsoft Office) serverOm Microsoft Office
+  title: Microsoft Office PerformancePoint Server 2007
   description: Microsoft Office PerformancePoint Server 2007 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: da215a3c725cf1387921080e1df0a6df52747517
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838676"
-name: Microsoft Office PerformancePoint Server 2007 (Výkon balíka Microsoft Office) serverOm Microsoft Office
-summary: >+
-  Microsoft Office PerformancePoint Server 2007 sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
-
-
-  To platí pre nasledujúce vydania: 32 Bit, 64 Bit
-
+name: Microsoft Office PerformancePoint Server 2007
+summary: "Microsoft Office PerformancePoint Server 2007 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: 32 Bit, 64 Bit\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* 32 bitov\n* 64 bitov"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* 32 Bit\n* 64 Bit"
