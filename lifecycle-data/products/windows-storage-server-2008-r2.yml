@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ukladací priestor systému Windows Server 2008 R2
+  title: Windows Storage Server 2008 R2
   description: Windows Storage Server 2008 R2 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862686"
-name: Ukladací priestor systému Windows Server 2008 R2
-summary: >
-  Windows Storage Server 2008 R2 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
-
-
-  Týka sa to nasledujúcich vydaní: Essentials, Standard
-
-
-  > [!IMPORTANT]
-
-  > Podpora pre tento produkt sa skončila. Pozri usmernenia o migrácii uvedené nižšie.
+name: Windows Storage Server 2008 R2
+summary: "Windows Storage Server 2008 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Essentials, Standard\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie.\n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o ukončení podpory](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Usmernenia k migrácii](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Najčastejšie otázky o rozšírenej aktualizácii zabezpečenia](/lifecycle/faq/extended-security-updates)\n* [Informácie o inovácii servera](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials vydanie vydané dňa 28.června 2011.\n\n## <a name=\"editions\"></a>Vydania \n* Základné fakty\n* Štandardné"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o ukončení podpory](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Informácie k migrácii](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Často kladené otázky ohľadom rozšírenej aktualizácii zabezpečení (ESU)](/lifecycle/faq/extended-security-updates)\n* [Informácie o upgrade servera](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Vydanie Essentials vydané 28. júna 2011.\n\n## <a name=\"editions\"></a>Vydania \n* Essentials\n* Standard"

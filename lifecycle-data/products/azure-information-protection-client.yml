@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Klient ochrany informácií služby Azure
-  description: Klient azure information protection sa riadi modernou politikou životného cyklu.
+  title: Klient Azure Information Protection
+  description: Klient Azure Information Protection sa riadi modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862308"
-name: Klient ochrany informácií služby Azure
-summary: >+
-  Klient azure information protection sa riadi modernou [politikou](/lifecycle/policies/modern) životného cyklu.
-
-
+name: Klient Azure Information Protection
+summary: "Klient Azure Information Protection sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu. \n\n\n"
 products:
 - azure
 policyType: modern-online
@@ -24,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Usmernenia k migrácii](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Poskytovať jednotné a zjednodušené skúsenosti zákazníkov, Azure information protection klienta (klasické) a label management azure portálu sú zastarané od 31. Tento časový rámec umožňuje všetkým súčasným zákazníkom azure information protection prejsť na naše jednotné riešenie označovania pomocou platformy Unified Labeling microsoft Information Protection."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Informácie k migrácii](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Pre zjednodušenie a zaručenie jednotnej spokojnosti zákazníkov, klient Azure Information Protection (klasický) a Label Management Azure portálu sa od 31. marca 2021 stanú zastaranými. Tento časový rámec umožňuje všetkým súčasným používateľom Azure Information Protection prejsť na naše jednotné riešenie označovania pomocou platformy Microsoft Information Protection Unified Labeling."

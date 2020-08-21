@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť viac Zobraziť viac
-  description: Visual Studio 2012 nadväzuje na pevnú politiku životného cyklu.
+  title: Visual Studio 2012
+  description: Visual Studio 2012 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862521"
-name: Zobraziť viac Zobraziť viac
+name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 nadväzuje na pevnú [politiku](/lifecycle/policies/fixed) životného cyklu.
+  Visual Studio 2012 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa týka nasledujúcich vydaní: Agenti, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Izolované), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistribuovateľný balík, Webové nástroje Rozšírenia
+  Toto sa vzťahuje na nasledujúce edície: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Životný cyklus a servis produktu Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agenti\n* Spoločenstva v roku 2013\n* Expresné pre web\n* Expresné pre systém Windows 8\n* Expresné pre pracovnú plochu systému Windows\n* IntelliTrace Zberateľ\n* Nástroje Microsoft Azure\n* Premium\n* Profesionálne\n* Vzdialené nástroje\n* Shell (integrovaný)\n* Škrupina (izolovaná)\n* Sql Server údajov nástroje\n* Prieskumník tímov\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistribuovateľný balík\n* Rozšírenia webových nástrojov"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Životný cyklus a servis produktu Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Community 2013\n* Express for Web\n* Express pre Windows 8\n* Express pre Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Vzdialené nástroje\n* Shell (integrovaný)\n* Shell (izolovaný)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Rozšírenia webových nástrojov"

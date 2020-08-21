@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Lokálne lokálne dynamics 365 Business Central (moderná politika)
-  description: Lokálne aplikácie Dynamics 365 Business Central (moderná politika) sa riadi modernou politikou životného cyklu.
+  title: Dynamics 365 Business Central – lokálne (moderná politika)
+  description: Lokálne aplikácie Dynamics 365 Business Central (moderná politika) sa riadia modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872058"
-name: Lokálne lokálne dynamics 365 Business Central (moderná politika)
-summary: >+
-  Lokálne aplikácie Dynamics 365 Business Central (moderná politika) sa riadi modernou [politikou životného](/lifecycle/policies/modern) cyklu.
-
-
+name: Dynamics 365 Business Central – lokálne (moderná politika)
+summary: "Lokálne aplikácie Dynamics 365 Business Central (moderná politika) sa riadia [modernou](/lifecycle/policies/modern) politikou životného cyklu. \n\n\n"
 products:
 - dynamics
 policyType: modern-on-prem
@@ -26,4 +23,4 @@ releases:
 - version: 2019 release wave 2, version 15.x
   startDate: 10/01/2019
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Plán systému Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Systémové požiadavky](/dynamics365/business-central/product-requirements)\n* [Najčastejšie otázky](/dynamics365/business-central/dev-itpro/faq)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Plán systému Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Systémové požiadavky](/dynamics365/business-central/product-requirements)\n* [Často kladené otázky](/dynamics365/business-central/dev-itpro/faq)"

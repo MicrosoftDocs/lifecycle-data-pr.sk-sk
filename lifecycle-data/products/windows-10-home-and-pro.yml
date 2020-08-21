@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 – domovská stránka a pro
+  title: Windows 10 Home and Pro
   description: Windows 10 Home a Pro sa riadi modernou politikou životného cyklu.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879219"
-name: Windows 10 – domovská stránka a pro
+name: Windows 10 Home and Pro
 summary: >
-  Windows 10 Home a Pro sa riadi modernou [politikou](/lifecycle/policies/modern) životného cyklu.
+  Windows 10 Home a Pro sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Home, Pro, Pro for Education, Pro for Workstations, Professional
+  Toto sa vzťahuje na nasledujúce edície: Home, Pro, Pro for Education, Pro for Workstations, Professional
 
 
   > [!IMPORTANT]
 
-  > Microsoft bude naďalej podporovať aspoň jeden Windows 10 Semi-ročný kanál až do 14.října 2025.
+  > Microsoft bude naďalej podporovať aspoň jeden Polročný kanál Windows 10 až do 14. októbra 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Hárok s prehľadmi životného cyklu systému Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Najčastejšie otázky o životnom cykle - Produkty pre Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation prvýkrát prepustený s verziou 1703\n> [!NOTE]\n> Ak nie je odložené, následné Windows 10 polročnej kanál aktualizácie funkcie môžu byť inštalované pred uvedený koniec dátumu bežnej podpory.\n\n## <a name=\"editions\"></a>Vydania \n* Domov\n* Pro\n* Pre pre vzdelávanie\n* Pro pre pracovné stanice\n* Profesionálne"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Hárok s prehľadmi životného cyklu systému Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation bol prvýkrát vydaný s verziou 1703\n> [!NOTE]\n> Ak sa aktualizácie neodložia, následné aktualizácie funkcií Polročného kanálu systému Windows 10 môžu byť nainštalované ešte pred uvedeným dátumom ukončenia hlavnej podpory.\n\n## <a name=\"editions\"></a>Vydania \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional"

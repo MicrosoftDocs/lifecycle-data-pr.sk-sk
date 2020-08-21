@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť viac 10777777
+  title: Windows 10 2016 LTSB
   description: Windows 10 2016 LTSB sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 05a489099eb9b0bd08717e99e8735490d93edbbd
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862363"
-name: Zobraziť viac 10777777
+name: Windows 10 2016 LTSB
 summary: >+
-  Windows 10 2016 LTSB sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+  Windows 10 2016 LTSB sa riadi [pevnou](/lifecycle/policies/fixed) politikou<životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Enterprise
+  Toto sa vzťahuje na nasledujúce edície: Enterprise
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2016
   endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Opätovné vydanie aktualizácie Windowsu 10 (verzia 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Najčastejšie otázky o systéme Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n## <a name=\"editions\"></a>Vydania \n* Podnik"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Opätovné vydanie októbrovej aktualizácie Windowsu 10 (verzia 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Často kladené otázky o systéme Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise"

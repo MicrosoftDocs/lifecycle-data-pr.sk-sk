@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Radič aplikácií Microsoft System Center 2012
-  description: Radič aplikácií Microsoft System Center 2012 sa riadi politikou pevného životného cyklu.
+  title: Microsoft System Center 2012 App Controller
+  description: Microsoft System Center 2012 App Controller sa riadi politikou pevného životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862536"
-name: Radič aplikácií Microsoft System Center 2012
+name: Microsoft System Center 2012 App Controller
 summary: >+
-  Radič aplikácií Microsoft System Center 2012 sa riadi politikou [pevného životného](/lifecycle/policies/fixed) cyklu.
+  Microsoft System Center 2012 App Controller sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o systémovom centre](/system-center/#pivot=components&panel=components-all)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 sa skladá z komponentov: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o System Center](/system-center/#pivot=components&panel=components-all)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 pozostáva zo súčastí: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"
