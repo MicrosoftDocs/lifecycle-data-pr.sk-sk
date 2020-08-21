@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť pôvodný článok v tomto článku sa zobrazí 2010 metrov od centra mesta.
-  description: Microsoft System Center Essentials 2010 sa riadi pevnou politikou životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c657d727b62f52b45ba09ee02472b1d5e5c133bb
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft System Center Essentials 2010
+  description: Microsoft System Center Essentials 2010 sleduje politiku pevného životného cyklu.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 469c101b597227f04b8e412e71b888037fc38577
+  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837892"
-name: Zobraziť pôvodný článok v tomto článku sa zobrazí 2010 metrov od centra mesta.
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906276"
+name: Microsoft System Center Essentials 2010
 summary: >+
-  Microsoft System Center Essentials 2010 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft System Center Essentials 2010 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
 
+
+  Toto sa vzťahuje na nasledujúce vydania: všetky použiteľné, wSQL
 
 products:
 - msc
@@ -25,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: ''
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Všetky použiteľné\n* wSQL"
