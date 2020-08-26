@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Podrobné informácie o produkte Dynamics 365
+  description: Prehľad produktov Dynamics 365 sa riadi modernou politikou životného cyklu.
+  ms.date: 08/25/2020
+  ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
+  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 08/26/2020
+  ms.locfileid: "911434"
+name: Podrobné informácie o produkte Dynamics 365
+summary: >+
+  Prehľad produktov Dynamics 365 sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/01/2019
+releases:
+- version: Original Release
+  startDate: 10/01/2019
+content: ''
