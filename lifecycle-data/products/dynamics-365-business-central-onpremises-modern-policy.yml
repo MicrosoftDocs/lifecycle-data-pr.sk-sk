@@ -2,15 +2,18 @@
 metadata:
   title: Dynamics 365 Business Central – lokálne (moderná politika)
   description: Lokálne aplikácie Dynamics 365 Business Central (moderná politika) sa riadia modernou politikou životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 6198004b9c681fb99e7c34f596c16bf08c588914
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872058"
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891969"
 name: Dynamics 365 Business Central – lokálne (moderná politika)
-summary: "Lokálne aplikácie Dynamics 365 Business Central (moderná politika) sa riadia [modernou](/lifecycle/policies/modern) politikou životného cyklu. \n\n\n"
+summary: >+
+  Lokálne aplikácie Dynamics 365 Business Central (moderná politika) sa riadia [modernou](/lifecycle/policies/modern) politikou životného cyklu.
+
+
 products:
 - dynamics
 policyType: modern-on-prem

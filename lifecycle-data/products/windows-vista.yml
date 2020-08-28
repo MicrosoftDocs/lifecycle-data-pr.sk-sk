@@ -2,15 +2,24 @@
 metadata:
   title: Windows Vista
   description: Systém Windows Vista sa riadi pevnou politikou životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 5c98fe7339f950e080d2ae0450774abb13d9e7c6
+  ms.sourcegitcommit: 70c4608ec6344869c74ed63ff3f0e2ccb0dce3a0
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837850"
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903102"
 name: Windows Vista
-summary: "Systém Windows Vista sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit\n\n> [!IMPORTANT]\n> Podpora pre tento produkt sa skončila, informácie o migrácii nájdete nižšie.\n"
+summary: >
+  Systém Windows Vista sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
+
+
+  Toto sa vzťahuje na nasledujúce edície: Business, Business N, Business N 64-bitový, Enterprise, Enterprise x64, Home Basic, Home Basic 64-bitový, Home Basic N, Home Basic N 64-bitový, Home Premium, Home Premium 64-bitový, Starter, Ultimate, Ultimate 64-bitový
+
+
+  > [!IMPORTANT]
+
+  > Podpora pre tento produkt sa skončila, informácie o migrácii nájdete nižšie.
 products:
 - windows
 policyType: fixed
@@ -28,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Aspekty inovácie a migrácie systému Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic, 64-bitová verzia\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium, 64-bitová verzia\n* Starter\n* Ultimate\n* Ultimate 64-bit"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Aspekty inovácie a migrácie systému Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Business\n* Business N\n* Business N 64-bitový\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic, 64-bitová verzia\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium, 64-bitová verzia\n* Starter\n* Ultimate\n* Ultimate 64-bit"
