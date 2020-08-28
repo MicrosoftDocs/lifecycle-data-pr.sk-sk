@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Microsoft Windows Small Business Server 2003 R2 '
+  description: Microsoft Windows Small Business Server 2003 R2 sa riadi pevnou politikou životného cyklu.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: a9142425395afa7e631f3f86fe250bd4a3c14e09
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: HT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "894191"
+name: 'Microsoft Windows Small Business Server 2003 R2 '
+summary: >+
+  Microsoft Windows Small Business Server 2003 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
+
+
+  Toto sa vzťahuje na nasledujúce edície: Premium, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 09/01/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 09/01/2006
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> Trvanie podpory pre tento balík produktov je určený príslušnými životnými cyklami jednotlivých čiastkových produktov. Skontrolujte životný cyklus jednotlivých čiastkových produktov a zistite dĺžku ich podpory.\n\n## <a name=\"editions\"></a>Vydania \n* Premium\n* Standard"
