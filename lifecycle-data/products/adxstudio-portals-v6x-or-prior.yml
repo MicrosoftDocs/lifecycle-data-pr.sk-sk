@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio Portals v6. x alebo Prior
+  description: Adxstudio Portals v6. x alebo Prior dodržiavajú politiku pevného životného cyklu.
+  ms.date: 08/28/2020
+  ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924432"
+name: Adxstudio Portals v6. x alebo Prior
+summary: >+
+  Adxstudio Portals v6. x alebo Prior dodržiavajú politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 09/29/2015
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Najčastejšie otázky o životnom cykle – akvizície](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Podpora pre tento produkt podlieha podmienkam jeho nadobudnutia a skončila sa."
