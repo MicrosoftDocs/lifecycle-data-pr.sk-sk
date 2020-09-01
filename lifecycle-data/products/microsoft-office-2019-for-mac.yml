@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office 2019 pre Mac
   description: Balík Microsoft Office 2019 pre Mac sa riadi politikou pevných životných cyklov.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: dae679faff1601ea2c617f4413d29e48299c750c
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Academic,Home and Business,Home and Student,Standard
+  ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "892589"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930433"
 name: Microsoft Office 2019 pre Mac
 summary: >+
   Balík Microsoft Office 2019 pre Mac sa riadi politikou [pevných](/lifecycle/policies/fixed) životných cyklov.
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Academic\n* Domov a podnikanie\n* Domov a študent\n* Štandardné"
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Academic\n* Home and Business\n* Pre domácnosti a študentov\n* Standard"

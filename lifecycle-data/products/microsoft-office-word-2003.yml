@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Microsoft Office Word 2003
-  description: Program Microsoft Office Word 2003 sa riadi pevnou politikou životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 22d955d682c2cbb7842edfc330f745d94e58fc13
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Office Word 2003
+  description: Microsoft Office Word 2003 sleduje politiku pevných životných cyklov.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: ac7b10f977be3928db5cfc26c23f7fa734106e86
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837764"
-name: Program Microsoft Office Word 2003
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930100"
+name: Microsoft Office Word 2003
 summary: >+
-  Program Microsoft Office Word 2003 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Office Word 2003 sleduje politiku [pevných](/lifecycle/policies/fixed) životných cyklov.
 
 
-  To platí pre nasledujúce vydania: Standard
+  Toto sa vzťahuje na nasledujúce edície: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/27/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Štandardné"
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Standard"

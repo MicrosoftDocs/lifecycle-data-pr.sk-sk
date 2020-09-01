@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Výraz 2
-  description: Výraz 2 sa riadi politikou pevného životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Výraz 2 sleduje politiku pevného životného cyklu.
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837784"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930840"
 name: Výraz 2
-summary: "Výraz 2 sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.\n\nTo platí pre nasledujúce vydania: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Podpora sa skončila pre tento produkt. \n"
+summary: "Výraz 2 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.\n\nToto sa vzťahuje na nasledujúce vydania: Blend, design, Encoder, Studio, web\n\n> [!IMPORTANT]\n> Podpora sa skončila pre tento produkt. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Zmes\n* Dizajn\n* Encoder\n* Studio\n* Webové"
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Zmes\n* Návrh\n* Encoder\n* Studio\n* Web"

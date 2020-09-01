@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Microsoft Office Publisher 2003
-  description: Program Microsoft Office Publisher 2003 sa riadi pevnou politikou životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Office Publisher 2003
+  description: Microsoft Office Publisher 2003 sleduje politiku pevného životného cyklu.
+  ms.date: 09/01/2020
+  keywords: Standard,with Digital Imaging
+  ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "838324"
-name: Program Microsoft Office Publisher 2003
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930359"
+name: Microsoft Office Publisher 2003
 summary: >+
-  Program Microsoft Office Publisher 2003 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Office Publisher 2003 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Standard, s Digital Imaging
+  Toto sa vzťahuje na nasledujúce vydania: Standard, s digitálnym zobrazovacím
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Štandardné\n* s digitálnym obrazom"
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Standard\n* s digitálnym zobrazovacím programom"
