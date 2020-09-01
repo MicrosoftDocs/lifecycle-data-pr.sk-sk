@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Projekt 2019
-  description: Projekt 2019 sa riadi pevnou politikou životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 45a8867c9d0b7cde39aa153cc117dfb17a180dea
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Project 2019
+  description: Project 2019 sleduje politiku pevného životného cyklu.
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 9507d81cd2cf3bd70765d9fa9f51806cf7c5d16b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872138"
-name: Projekt 2019
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926363"
+name: Project 2019
 summary: >+
-  Projekt 2019 sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+  Project 2019 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Professional, Standard
+  Toto sa vzťahuje na nasledujúce edície: Professional, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Profesionálne\n* Štandardné"
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Professional\n* Standard"
