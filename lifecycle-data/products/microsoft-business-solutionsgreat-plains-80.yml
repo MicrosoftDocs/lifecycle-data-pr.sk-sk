@@ -1,25 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions-Great Plains 8.0
-  description: Microsoft Business Solutions– Great Plains 8.0 sa riadi pevnou politikou životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Business Solutions – Great Plains 8,0
+  description: Microsoft Business Solutions – Great Plains 8,0 sa riadi politikou pevných životných cyklov.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "838389"
-name: Microsoft Business Solutions-Great Plains 8.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934688"
+name: Microsoft Business Solutions – Great Plains 8,0
 summary: >
-  Microsoft Business Solutions– Great Plains 8.0 sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+  Microsoft Business Solutions – Great Plains 8,0 sa riadi politikou [pevných](/lifecycle/policies/fixed) životných cyklov.
 
 
-  To platí pre nasledujúce vydania: Standard
+  Toto sa vzťahuje na nasledujúce edície: Standard
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt skončila 13.října 2009
+  > Podpora pre tento produkt sa skončila 13. októbra 2009
 products:
 - dynamics
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2004
   endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Štandardné"
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Standard"
