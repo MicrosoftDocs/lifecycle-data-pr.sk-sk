@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office 2008 pre Mac
   description: Microsoft Office 2008 pre Mac sa riadi pevnou politikou životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Business,Home and Student,Special Media Editon
+  ms.openlocfilehash: 708930d55e4c8d9df663189a495412a170cef7d8
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "838006"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936760"
 name: Microsoft Office 2008 pre Mac
 summary: "Microsoft Office 2008 pre Mac sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Business, Home and Student, Special Media Edition\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. \n"
 products:
