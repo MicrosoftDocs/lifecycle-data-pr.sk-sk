@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2010
-  description: BizTalk Server 2010 sleduje politiku pevného životného cyklu.
+  description: BizTalk Server 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 08/19/2020
   ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903706"
 name: BizTalk Server 2010
 summary: >+
-  BizTalk Server 2010 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  BizTalk Server 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: pobočka, vývojár, Enterprise, Enterprise RFID, Standard
+  To platí pre nasledujúce vydania: Branch, Developer, Enterprise, Enterprise RFID, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny na migráciu](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informácie o verzii](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Vydania \n* Pobočky\n* Vývojár\n* Enterprise\n* Podnikový RFID\n* Štandardné"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informácia o verzii](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Vydania \n* Pobočka\n* Vývojár\n* Enterprise\n* Enterprise RFID\n* Standard"

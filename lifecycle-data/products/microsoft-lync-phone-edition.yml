@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Zobraziť pôvodný článok v angličtine: 311555'
+  title: Microsoft Lync Phone Edition
   description: Microsoft Lync Phone Edition sa riadi pevnou politikou životného cyklu.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879533"
-name: 'Zobraziť pôvodný článok v angličtine: 311555'
+name: Microsoft Lync Phone Edition
 summary: >+
-  Microsoft Lync Phone Edition sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Lync Phone Edition sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Ďalšie informácie](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition je podporovaná Lync Server 2010 a Lync Server 2013. Dátum podpory pre Lync Phone Edition bol predĺžený o 2 roky zosúladiť so životným cyklom Lync Servera 2013."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Ďalšie informácie](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition je podporovaná službami Lync Server 2010 a Lync Server 2013. Dátum podpory pre Lync Phone Edition bol predĺžený o 2 roky, aby sa zosúladil so životným cyklom pre Lync Server 2013."

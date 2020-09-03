@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 financií a operácie
+  title: Dynamics 365 for Finance and Operations
   description: Dynamics 365 for Finance and Operations sa riadi modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862592"
-name: Dynamics 365 financií a operácie
+name: Dynamics 365 for Finance and Operations
 summary: >+
-  Dynamics 365 for Finance and Operations sa riadi modernou [politikou](/lifecycle/policies/modern) životného cyklu.
+  Dynamics 365 for Finance and Operations sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Enterprise
+  Toto sa vzťahuje na nasledujúce edície: Enterprise
 
 products:
 - dynamics
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán systému Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Informácie o servise](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Systémové požiadavky](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Vydania \n* Podnik"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán systému Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Informácie o servise](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Systémové požiadavky](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise"

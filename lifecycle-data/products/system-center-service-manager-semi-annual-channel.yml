@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Service Manager Semi ročný kanál
-  description: System Center Service Manager Semi ročný kanál sa riadi modernou politikou životného cyklu.
+  title: System Center Service Manager Semi Annual Channel
+  description: System Center Service Manager Semi Annual Channel sa riadi modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 37355211dc2600ad5f372f914e386a836b5c4be9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872100"
-name: System Center Service Manager Semi ročný kanál
+name: System Center Service Manager Semi Annual Channel
 summary: >
-  System Center Service Manager Semi ročný kanál sa riadi modernou [politikou](/lifecycle/policies/modern) životného cyklu.
+  System Center Service Manager Semi Annual Channel sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora sa skončila. Pozri usmernenia o migrácii uvedené nižšie.
+  > Podpora bola ukončená. Pozri informácie k migrácii uvedené nižšie.
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"

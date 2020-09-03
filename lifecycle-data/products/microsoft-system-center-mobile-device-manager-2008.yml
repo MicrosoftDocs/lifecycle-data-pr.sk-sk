@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Mobile Device Manager 2008
-  description: Aplikácia Microsoft System Center Mobile Device Manager 2008 sleduje politiku pevného životného cyklu.
+  description: Microsoft System Center Mobile Device Manager 2008 sa riadi pevnou politikou životného cyklu.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906300"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Aplikácia Microsoft System Center Mobile Device Manager 2008 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft System Center Mobile Device Manager 2008  sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: všetky použiteľné, wSQL
+  To platí pre nasledujúce vydania: Všetky príslušné, wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny na migráciu](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Politika balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Všetky použiteľné\n* wSQL"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Všetky príslušné\n* wSQL"
