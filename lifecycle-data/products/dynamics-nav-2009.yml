@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Systém Dynamics NAV 2009
+  title: Dynamics NAV 2009
   description: Dynamics NAV 2009 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91dc4515ba59f72b52cc7c9d517407dfaf552702
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838475"
-name: Systém Dynamics NAV 2009
+name: Dynamics NAV 2009
 summary: >+
-  Dynamics NAV 2009 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Dynamics NAV 2009 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/12/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Viac informácií](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Dátumy ukončenia podpory pre NAV 2009 sú rozšírené tak, ako je uvedené."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Ďalšie informácie](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Dátumy ukončenia podpory pre NAV 2009 sú predĺžené, ako je znázornené."

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded 8
-  description: Systém Windows Embedded 8 sa riadi politikou pevného životného cyklu.
+  description: Windows Embedded 8 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4d8f0d9d9388cb8b8187fbe923022a2b537ba3b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838229"
 name: Windows Embedded 8
 summary: >+
-  Systém Windows Embedded 8 sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Windows Embedded 8 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Pro, Standard
+  Platí to pre nasledujúce vydania: Pro, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Najčastejšie otázky o životnom cykle - Produkty pre Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1 Windows Embedded 8.1 Windows Embedded 8.1 Windows Embedd](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Zákazníci musia migrovať na Windows Emdedded 8.1 zostať podporované.\n\n## <a name=\"editions\"></a>Vydania \n* Pro\n* Štandardné"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Zákazníci musia migrovať do systému Windows Emdedded 8.1, aby zostali podporovaní.\n\n## <a name=\"editions\"></a>Vydania \n* Pro\n* Standard"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Operations Manager (MAMA) 2005
+  title: Microsoft Operations Manager (MOM) 2005
   description: Microsoft Operations Manager (MOM) 2005 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837751"
-name: Microsoft Operations Manager (MAMA) 2005
+name: Microsoft Operations Manager (MOM) 2005
 summary: >
-  Microsoft Operations Manager (MOM) 2005 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Operations Manager (MOM) 2005 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  To platí pre nasledujúce vydania: Pracovná skupina
+  To platí pre nasledujúce vydania: Workgroup
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila.
+  > Podpora pre tento produkt bola ukončená.
 products:
 - msc
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2004
   endDate: 10/10/2006
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Prevádzkový manažér](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Vydania \n* Pracovnej skupiny\n\nkľúčové slová: MOM"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Vydania \n* Workgroup\n\nkľúčové slová:  MOM"

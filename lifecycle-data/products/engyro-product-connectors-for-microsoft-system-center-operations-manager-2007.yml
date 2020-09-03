@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Engyro konektory produktu pre Microsoft System Center Operations Manager 2007
-  description: Konektory produktu Engyro pre Microsoft System Center Operations Manager 2007 sa riadi pevnou politikou životného cyklu.
+  title: Engyro konektory produktov pre Microsoft System Center Operations Manager 2007
+  description: Engyro Product Connectors for Microsoft System Center Operations Manager 2007 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838720"
-name: Engyro konektory produktu pre Microsoft System Center Operations Manager 2007
+name: Engyro konektory produktov pre Microsoft System Center Operations Manager 2007
 summary: >
-  Konektory produktu Engyro pre Microsoft System Center Operations Manager 2007 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Engyro Product Connectors for Microsoft System Center Operations Manager 2007 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila.
+  > Podpora pre tento produkt bola ukončená.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"

@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť pôvodný článok v tomto článku sa používa na základe článku 20131"</a0>
+  title: Microsoft Windows SharePoint Services 2.0
   description: Microsoft Windows SharePoint Services 2.0 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3293736b7dd1f77d735150f0c004daf5840d0be0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838271"
-name: Zobraziť pôvodný článok v tomto článku sa používa na základe článku 20131"</a0>
-summary: "Microsoft Windows SharePoint Services 2.0 sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.\n\n\n> [!IMPORTANT]\n> Podpora sa skončila. \n"
+name: Microsoft Windows SharePoint Services 2.0
+summary: "Microsoft Windows SharePoint Services 2.0 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.\n\n\n> [!IMPORTANT]\n> Podpora bola ukončená. \n"
 products:
 - office
 policyType: fixed

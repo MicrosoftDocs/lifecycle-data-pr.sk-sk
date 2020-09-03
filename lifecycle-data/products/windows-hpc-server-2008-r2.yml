@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d9cbccd562c996dc7b138fd6e110950ef701bce8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837701"
 name: Windows HPC Server 2008 R2
 summary: >
-  Windows HPC Server 2008 R2 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Windows HPC Server 2008 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila. Pozri usmernenia o migrácii uvedené nižšie.
+  > Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie.
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://aka.ms/AA1ovn4)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://aka.ms/AA1ovn4)"
