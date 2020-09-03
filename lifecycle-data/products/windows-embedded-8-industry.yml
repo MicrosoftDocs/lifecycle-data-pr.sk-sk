@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8 Priemysel
-  description: Windows Embedded 8 Priemysel sa riadi pevnou politikou životného cyklu.
+  title: Windows Embedded 8 Industry
+  description: Windows Embedded 8 Industry sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862348"
-name: Windows Embedded 8 Priemysel
+name: Windows Embedded 8 Industry
 summary: >
-  Windows Embedded 8 Priemysel sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Windows Embedded 8 Industry sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
   To platí pre nasledujúce vydania: Enterprise, Pro
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Zákazníci musia migrovať na Windows 8.1, aby zostali podporované.
+  > Aby zákazníci zostali podporovaní, musia prejsť na systém Windows 8.1.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny na migráciu](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Najčastejšie otázky o životnom cykle - Produkty pre Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Vydania \n* Podnik\n* Pro"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Pro"

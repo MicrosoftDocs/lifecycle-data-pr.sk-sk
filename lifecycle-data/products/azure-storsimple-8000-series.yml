@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure StorSimple radu 8000
-  description: Azure StorSimple radu 8000 sa riadi pevnou politikou životného cyklu.
+  title: Azure StorSimple 8000 Series
+  description: Azure StorSimple 8000 Series sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862328"
-name: Azure StorSimple radu 8000
+name: Azure StorSimple 8000 Series
 summary: >+
-  Azure StorSimple radu 8000 sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+  Azure StorSimple 8000 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Podpora riešenia StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Usmernenia k migrácii](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Podpora pre Azure StorSimple 8000 Series je rozšírená tak, ako je uvedené, aby zákazníkom poskytla štandardnú časovú os životného cyklu. Rozšírená podpora zahŕňa len hardvérovú výmenu a aktualizácie zabezpečenia."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Podpora riešenia StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Informácie k migrácii](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Podpora pre Azure StorSimple 8000 Series je rozšírená tak, aby poskytla zákazníkom štandardnú časovú os životného cyklu. Rozšírená podpora zahŕňa iba výmenu hardvéru a aktualizácie zabezpečenia."

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8 dodržiava politiku pevného životného cyklu.
+  description: Systém Windows 8 sa riadi pevnou politikou životného cyklu.
   ms.date: 08/21/2020
   ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906709"
 name: Windows 8
 summary: >
-  Windows 8 dodržiava politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Systém Windows 8 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: Enterprise, Enterprise N, N, Pro s aplikáciou Media Center, Professional, Professional N, SL
+  Toto sa vzťahuje na nasledujúce edície: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila. Zákazníci musia aktualizovať na Windows 8,1, aby zostali podporovaní.
+  > Podpora pre tento produkt bola ukončená. Zákazníci musia aktualizovať na Windows 8.1, aby zostali podporovaní.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Najčastejšie otázky o životnom cykle – Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Podnikový N\n* N\n* Pro s aplikáciou Media Center\n* Professional\n* Professional N\n* SL"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Často kladené otázky o životnom cykle produktov systému Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Enterprise N\n* N\n* Pro with Media Center\n* Professional\n* Professional N\n* SL"

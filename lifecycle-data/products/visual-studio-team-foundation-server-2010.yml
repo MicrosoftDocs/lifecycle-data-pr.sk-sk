@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2010
-  description: Visual Studio Team Foundation Server 2010 sleduje politiku pevných životných cyklov.
+  description: Visual Studio Team Foundation Server 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 08/21/2020
   ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906819"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  Visual Studio Team Foundation Server 2010 sleduje politiku [pevných](/lifecycle/policies/fixed) životných cyklov.
+  Visual Studio Team Foundation Server 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: všetky použiteľné externé spojnice
+  To platí pre nasledujúce vydania: Všetky príslušné, External Connector
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny na migráciu](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure dev OPS](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Vydania \n* Všetky použiteľné\n* Externá spojnica"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Vydania \n* Všetky príslušné\n* External Connector"
