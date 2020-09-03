@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 82eb2224c6289ea86edd90b193479237f65de172
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838030"
 name: Dynamics SL 7,0
 summary: >+
-  Dynamics SL 7.0 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Dynamics SL 7.0 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 08/31/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)"

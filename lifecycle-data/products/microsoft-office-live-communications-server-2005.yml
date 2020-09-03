@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Zobraziť pôvodný článok v angličtine: 3115555'
+  title: Microsoft Office Live Communications Server 2005
   description: Microsoft Office Live Communications Server 2005 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 709969b9c25ec55bfe3538a49076f6d640003cba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837984"
-name: 'Zobraziť pôvodný článok v angličtine: 3115555'
-summary: "Microsoft Office Live Communications Server 2005 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.\n\nTo platí pre nasledujúce vydania: Enterprise, Standard\n\n> [!IMPORTANT]\n> Podpora pre tento produkt sa skončila. \n"
+name: Microsoft Office Live Communications Server 2005
+summary: "Microsoft Office Live Communications Server 2005 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.\n\nToto sa vzťahuje na nasledujúce edície: Enterprise, Standard\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. \n"
 products:
 - office
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/22/2005
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Podnik\n* Štandardné"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Standard"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Starostlivosti o zákazníkov Rámec 2005 .NET 2.0 vydanie
-  description: Microsoft Customer Care Framework 2005 .NET 2.0 Edition sa riadi pevnú politiku životného cyklu.
+  title: Štruktúra služieb zákazníkom spoločnosti Microsoft edícia 2005 .NET 2.0
+  description: Microsoft Customer Care Framework 2005 .NET 2.0 Edition sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: c319c9a4362d847d9ac7fe80a48a13b3d7209cdd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838364"
-name: Microsoft Starostlivosti o zákazníkov Rámec 2005 .NET 2.0 vydanie
+name: Štruktúra služieb zákazníkom spoločnosti Microsoft edícia 2005 .NET 2.0
 summary: >
-  Microsoft Customer Care Framework 2005 .NET 2.0 Edition sa riadi pevnú [politiku životného](/lifecycle/policies/fixed) cyklu.
+  Microsoft Customer Care Framework 2005 .NET 2.0 Edition sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora sa skončila. Pozri usmernenia o migrácii uvedené nižšie.
+  > Podpora bola ukončená. Pozri informácie k migrácii uvedené nižšie.
 products:
 - customer-care-framework
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/11/2006
   endDate: 01/10/2017
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Systém Windows Mobile 2003
+  title: Windows Mobile 2003
   description: Windows Mobile 2003 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838207"
-name: Systém Windows Mobile 2003
+name: Windows Mobile 2003
 summary: >
-  Windows Mobile 2003 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Windows Mobile 2003 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  To platí pre nasledujúce vydania: pre Pocket PC, pre smartphony, Second Edition softvér pre Pocket PC Phone, Second Edition softvér pre Smartphone
+  To platí pre nasledujúce vydania: pre Pocket PC, pre smartfóny, Second Edition softvér pre Pocket PC Phone, Second Edition softvér pre smartfóny
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila.
+  > Podpora pre tento produkt bola ukončená.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* pre pocket PC\n* pre smartfóny\n* Second Edition softvér pre Pocket PC telefón\n* Second Edition softvér pre Smartphone"
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* pre Pocket PC\n* pre smartfóny\n* Second Edition softvér pre Pocket PC Phone\n* Second Edition softvér pre smartfóny"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť pôvodný článok v tomto článku sa
-  description: Program Microsoft Office SharePoint Designer 2007 sa riadi pevnou politikou životného cyklu.
+  title: Microsoft Office SharePoint Designer 2007
+  description: Microsoft Office SharePoint Designer 2007 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0224051cc3edc793e7c87b5c5cefdc0f9f95153
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838321"
-name: Zobraziť pôvodný článok v tomto článku sa
+name: Microsoft Office SharePoint Designer 2007
 summary: >+
-  Program Microsoft Office SharePoint Designer 2007 sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+  Microsoft Office SharePoint Designer 2007 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/office/troubleshoot/support/office-2007-not-support)\n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/office/troubleshoot/support/office-2007-not-support)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)"
