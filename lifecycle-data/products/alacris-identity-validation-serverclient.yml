@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Server overenia totožnosti Alacris/klient
+  description: Alacris overenie identity Server/klient dodržiava politiku pevného životného cyklu.
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: b5857ca1946f0997051c9c6113c86ee5933555d3
+  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002795"
+name: Server overenia totožnosti Alacris/klient
+summary: >
+  Alacris overenie identity Server/klient dodržiava politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podpora pre tento produkt bola ukončená.
+products:
+- m365
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/07/2006
+  end: 12/31/2007
+releases:
+- version: Original Release
+  startDate: 03/07/2006
+  endDate: 12/31/2007
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Často kladené otázky o životnom cykle – všeobecné](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Neobsahuje verzie, ktorých podpora bola predtým ukončená. Na podporu pre tento produkt sa vzťahujú podmienky súvisiace s jeho kúpou."
