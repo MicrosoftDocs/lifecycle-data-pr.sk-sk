@@ -2,13 +2,14 @@
 metadata:
   title: 'Windows Server 2003 '
   description: Windows Server 2003 sa riadi pevnou politikou životného cyklu.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: 3558caf5ca1df8b303629236184460220b5a76e5
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
+  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "894189"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939609"
 name: 'Windows Server 2003 '
 summary: >+
   Windows Server 2003 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/28/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Príprava počítačov so systémom Windows Server 2003 na migráciu](/azure/migrate/prepare-windows-server-2003-migration)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Podporované cesty na upgrade zo systému Windows Server 2003 na systém Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n\n> [!NOTE]\n> Systémy s procesorom Itanium majú dátum začiatku 19. júna 2003.\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter (32-bitový x86)\n* Datacenter (x64)\n* Datacenter pre systémy s procesorom Itanium\n* Enterprise (32-bitový x86)\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Standard (32-bitový x86)\n* Web"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Podporované cesty na upgrade zo systému Windows Server 2003 na systém Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Príprava počítačov so systémom Windows Server 2003 na migráciu](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> Systémy s procesorom Itanium majú dátum začiatku 19. júna 2003.\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter (32-bitový x86)\n* Datacenter (x64)\n* Datacenter pre systémy s procesorom Itanium\n* Enterprise (32-bitový x86)\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Standard (32-bitový x86)\n* Web"
