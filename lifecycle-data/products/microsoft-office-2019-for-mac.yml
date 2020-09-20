@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019 pre Mac
-  description: Balík Microsoft Office 2019 pre Mac sa riadi politikou pevných životných cyklov.
+  description: Microsoft Office 2019 pre Mac sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Student,Standard
   ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930433"
 name: Microsoft Office 2019 pre Mac
 summary: >+
-  Balík Microsoft Office 2019 pre Mac sa riadi politikou [pevných](/lifecycle/policies/fixed) životných cyklov.
+  Microsoft Office 2019 pre Mac sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Vzťahuje sa na tieto vydania: akademická, Domovská a podniková, Domovská a Študentská, štandardná
+  Toto platí pre nasledujúce vydania: Academic, Home and Business, Home and Student, Standard
 
 products:
 - office

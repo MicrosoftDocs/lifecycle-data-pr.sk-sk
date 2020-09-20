@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Výraz 3
-  description: Výraz 3 sleduje politiku pevného životného cyklu.
+  title: Expression 3
+  description: Expression 3 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
   ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930766"
-name: Výraz 3
+name: Expression 3
 summary: >+
-  Výraz 3 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Expression 3 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: návrh, kódovač, štúdio, web
+  Toto sa vzťahuje na nasledujúce edície: Design, Encoder, Studio, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Počiatočný dátum pre výraz Design 3 je 19. novembra 2009. \n\n## <a name=\"editions\"></a>Vydania \n* Návrh\n* Encoder\n* Studio\n* Web"
+content: "\n\n> [!NOTE]\n> Dátum začiatku programu Expression Design 3 je 19. novembra 2009. \n\n## <a name=\"editions\"></a>Vydania \n* Design\n* Encoder\n* Studio\n* Web"

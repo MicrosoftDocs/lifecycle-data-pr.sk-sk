@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Výraz 4
-  description: Výraz 4 sa riadi politikou pevných životných cyklov.
+  title: Expression 4
+  description: Expression 4 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930877"
-name: Výraz 4
+name: Expression 4
 summary: >+
-  Výraz 4 sa riadi politikou [pevných](/lifecycle/policies/fixed) životných cyklov.
+  Expression 4 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: návrh, kódovač, Studio Ultimate, web
+  Toto sa vzťahuje na nasledujúce edície: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Koniec bežnej podpory pre výraz Studio Ultimate 4 je október 13, 2015.\n\n## <a name=\"editions\"></a>Vydania \n* Návrh\n* Encoder\n* Studio Ultimate\n* Web"
+content: "\n\n> [!NOTE]\n> Koniec bežnej podpory pre Expression Studio Ultimate 4 je 13. októbra 2015.\n\n## <a name=\"editions\"></a>Vydania \n* Design\n* Encoder\n* Studio Ultimate\n* Web"

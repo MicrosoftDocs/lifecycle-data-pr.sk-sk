@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Exchange Server 2016
-  description: Exchange Server 2016 sleduje politiku pevných životného cyklu.
+  title: Server Exchange Server 2016
+  description: Exchange Server 2016 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: bad2d3a8e4e33ce78bd15a78145aceb308d0eefb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931173"
-name: Exchange Server 2016
+name: Server Exchange Server 2016
 summary: >+
-  Exchange Server 2016 sleduje politiku [pevných](/lifecycle/policies/fixed) životného cyklu.
+  Exchange Server 2016 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
   Toto sa vzťahuje na nasledujúce edície: Enterprise, Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny na obsluhu](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pre servis](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Standard"
