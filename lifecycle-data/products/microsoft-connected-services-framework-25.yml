@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Connected Services Framework 2,5
-  description: Microsoft Connected Services Framework 2,5 sleduje politiku pevného životného cyklu.
+  title: Microsoft Connected Services Framework 2.5
+  description: Microsoft Connected Services Framework 2.5 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
   ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934133"
-name: Microsoft Connected Services Framework 2,5
+name: Microsoft Connected Services Framework 2.5
 summary: >+
-  Microsoft Connected Services Framework 2,5 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Connected Services Framework 2.5 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: spracovanie objednávok – štandardná podniková udalosť 2,5, server, poskytovateľ služieb
+  Toto sa vzťahuje na nasledujúce edície: Order Handling Standard Business Event 2.5, Server, Service Provider
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/26/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Spracovanie objednávok štandardná podniková udalosť 2,5\n* Server\n* Poskytovateľ služieb"
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Order Handling Standard Business Event 2.5\n* Server\n* Service Provider"
