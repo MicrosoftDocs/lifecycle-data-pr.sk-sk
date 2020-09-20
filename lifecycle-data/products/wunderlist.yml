@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Wunderlist W podobu
+  title: Wunderlist
   description: Wunderlist sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862393"
-name: Wunderlist W podobu
-summary: "Wunderlist sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohto produktu podlieha podmienkam jeho akvizície. Podpora pre tento produkt sa skončila. Pozri usmernenia o migrácii uvedené nižšie. \n"
+name: Wunderlist
+summary: "Wunderlist sa riadi  [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.\n\n\n> [!IMPORTANT]\n> Na podporu pre tento produkt sa vzťahujú podmienky súvisiace s jeho kúpou. Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/02/2015
   endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"

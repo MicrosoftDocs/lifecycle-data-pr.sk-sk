@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Excel 2010
-  description: Excel 2010 sleduje politiku pevného životného cyklu.
+  title: Excel 2010,
+  description: Excel 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Home and Student,Mobile,Standard
   ms.openlocfilehash: 1ba0a62a05a1e3fd9d8a0833957ca33f3ba8b4fb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931617"
-name: Excel 2010
+name: Excel 2010,
 summary: >+
-  Excel 2010 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Excel 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: domov a študent, mobil, Standard
+  Toto sa vzťahuje na nasledujúce vydania: Home and Student, Mobile, Standard
 
 products:
 - office

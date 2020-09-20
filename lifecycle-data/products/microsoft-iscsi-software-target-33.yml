@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft iSCSI Softvér Cieľ 3,3
+  title: Microsoft iSCSI Software Target 3.3
   description: Microsoft iSCSI Software Target 3.3 sa riadi politikou životného cyklu súčastí.
   ms.date: 07/28/2020
   ms.openlocfilehash: c8ae05506cdc5e83920e82e4cc6bcfef3c03863e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862447"
-name: Microsoft iSCSI Softvér Cieľ 3,3
+name: Microsoft iSCSI Software Target 3.3
 summary: >
-  Microsoft iSCSI Software Target 3.3 sa riadi politikou [životného](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) cyklu súčastí.
+  Microsoft iSCSI Software Target 3.3 sa riadi politikou životného cyklu [súčastí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 
   > [!IMPORTANT]
 
-  > Podpora pre túto súčasť sa skončila.
+  > Podpora pre tento produkt bola ukončená.
 products:
 - windows
 policyType: component

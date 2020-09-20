@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Systém cloudových platforiem
-  description: Systém cloudových platforiem sa riadi politikou pevných životných cyklov.
+  title: Cloud Platform System
+  description: Cloud Platform System sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932061"
-name: Systém cloudových platforiem
+name: Cloud Platform System
 summary: >+
-  Systém cloudových platforiem sa riadi politikou [pevných](/lifecycle/policies/fixed) životných cyklov.
+  Cloud Platform System sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
   Toto sa vzťahuje na nasledujúce edície: Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Podpora pre systém cloudových platforiem je rozšírená tak, ako je to znázornené s cieľom poskytnúť všetkým zákazníkom štandardný cyklus prechodu časovej osi.\n> [!NOTE]\n> Štandardný systém cloudových platforiem spustený v septembri 18, 2017.\n\n## <a name=\"editions\"></a>Vydania \n* Standard"
+content: "\n\n> [!NOTE]\n> Podpora pre Cloud Platform System je rozšírená, ako je uvedené, aby poskytla všetkým zákazníkom štandardnú časovú os prechodu počas životného cyklu.\n> [!NOTE]\n> Cloud Platform System Standard uvedený na trh 18. septembra 2017.\n\n## <a name=\"editions\"></a>Vydania \n* Standard"

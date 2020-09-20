@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Lokálne lokálne dynamics 365 Business Central (pevná politika)
-  description: Lokálne lokálne aplikácie Dynamics 365 Business Central (pevná politika) sa riadi pevnou politikou životného cyklu.
+  title: Dynamics 365 Business Central – lokálne (pevná politika)
+  description: Lokálna aplikácia Dynamics 365 Business Central (pevná politika) sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: eec6e6713736926961ab8bdd81b36fcbdeaf3dec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872060"
-name: Lokálne lokálne dynamics 365 Business Central (pevná politika)
+name: Dynamics 365 Business Central – lokálne (pevná politika)
 summary: >+
-  Lokálne lokálne aplikácie Dynamics 365 Business Central (pevná politika) sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+  Lokálna aplikácia Dynamics 365 Business Central (pevná politika) sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Diagnostika a obnovenie Sabate 8,0
-  description: Microsoft Diagnostika a obnovenie Toolset 8.0 sa riadi pevnú politiku životného cyklu.
+  title: Sada nástrojov Microsoft Diagnostics and Recovery Tools 8.0
+  description: Microsoft Diagnostics and Recovery Toolset 8.0 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38a98f28c3d9ef2fd1844a3083b3a6fcb52e1b5b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862452"
-name: Microsoft Diagnostika a obnovenie Sabate 8,0
+name: Sada nástrojov Microsoft Diagnostics and Recovery Tools 8.0
 summary: >+
-  Microsoft Diagnostika a obnovenie Toolset 8.0 sa riadi pevnú [politiku životného](/lifecycle/policies/fixed) cyklu.
+  Microsoft Diagnostics and Recovery Toolset 8.0 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)"

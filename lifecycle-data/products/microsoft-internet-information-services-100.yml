@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zobraziť pôvodný článok v tomto článku sa používa na základe článku 10.000
+  title: Microsoft Internet Information Services 10.0
   description: Microsoft Internet Information Services 10.0 sa riadi politikou životného cyklu súčastí.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862446"
-name: Zobraziť pôvodný článok v tomto článku sa používa na základe článku 10.000
+name: Microsoft Internet Information Services 10.0
 summary: >+
-  Microsoft Internet Information Services 10.0 sa riadi politikou [životného cyklu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) súčastí.
+  Microsoft Internet Information Services 10.0 sa riadi politikou životného cyklu [súčastí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/11/2027
-content: "\n\n> [!NOTE]\n> Táto verzia je známa ako súčasť, ktorá nasleduje po životnom cykle technickej podpory svojho nadradeného hlavného produktu Windows Server 2016."
+content: "\n\n> [!NOTE]\n> Toto vydanie je známe ako súčasť, ktorá sa riadi životným cyklom podpory jeho nadradeného hlavného produktu, Windows Server 2016."

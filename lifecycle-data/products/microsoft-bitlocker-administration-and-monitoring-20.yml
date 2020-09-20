@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správa a monitorovanie šifrovania Microsoft BitLocker 2.0
-  description: Správa a monitorovanie šifrovania Microsoft BitLocker 2.0 sa riadi pevnou politikou životného cyklu.
+  title: Microsoft BitLocker Administration and Monitoring 2.0
+  description: Microsoft BitLocker Administration and Monitoring 2.0 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5070cc5571cf5859fb0184860a7094fc4abc69eb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862643"
-name: Správa a monitorovanie šifrovania Microsoft BitLocker 2.0
+name: Microsoft BitLocker Administration and Monitoring 2.0
 summary: >+
-  Správa a monitorovanie šifrovania Microsoft BitLocker 2.0 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft BitLocker Administration and Monitoring 2.0 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/16/2013
   endDate: 01/13/2015
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)"

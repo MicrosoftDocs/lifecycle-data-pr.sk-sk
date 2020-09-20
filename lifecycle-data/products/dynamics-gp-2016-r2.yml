@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP 2016 R2
-  description: Dynamics GP 2016 R2 takto pevné životného cyklu politiky.
+  description: Dynamics GP 2016 R2 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: f1a3cb25fec8f760a48d82816a3afc7a2414e610
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862671"
 name: Dynamics GP 2016 R2
 summary: >+
-  Dynamics GP 2016 R2 takto pevné [životného](/lifecycle/policies/fixed) cyklu politiky.
+  Dynamics GP 2016 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:

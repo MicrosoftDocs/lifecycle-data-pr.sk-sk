@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ľudské zdroje systému Dynamics 365
-  description: Ľudské zdroje dynamics 365 sa riadi modernou politikou životného cyklu.
+  title: Dynamics 365 Human Resources
+  description: Dynamics 365 Human Resources sa riadi modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872064"
-name: Ľudské zdroje systému Dynamics 365
+name: Dynamics 365 Human Resources
 summary: >+
-  Ľudské zdroje dynamics 365 sa riadi modernou [politikou](/lifecycle/policies/modern) životného cyklu.
+  Dynamics 365 Human Resources sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/27/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Aplikácia Core HR (predtým súčasťou aplikácie Dynamics 365 Talent) sa znovu zhonu ako Dynamics 365 Human Resources."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Aplikácia Core HR (predtým súčasť služby Dynamics 365 Talent) je znova spustená pod názvom Dynamics 365 Human Resources."

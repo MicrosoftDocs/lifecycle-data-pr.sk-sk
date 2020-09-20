@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Parature, od spoločnosti Microsoft
-  description: Parature, od spoločnosti Microsoft sa riadi moderné životné podmienky politiky.
+  title: Služba Parature od spoločnosti Microsoft
+  description: Parature od spoločnosti Microsoft sa riadi modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: ec9af75ad6501403aa83c803d54630069c7b3f0a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862375"
-name: Parature, od spoločnosti Microsoft
+name: Služba Parature od spoločnosti Microsoft
 summary: >+
-  Parature, od spoločnosti Microsoft sa riadi moderné [životné](/lifecycle/policies/modern) podmienky politiky.
+  Parature od spoločnosti Microsoft sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2015
   endDate: 05/15/2018
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Oznámenie o ukončení podpory](https://support.microsoft.com/help/4035128)\n* [Portál podpory migrácie Parature](https://aka.ms/paraturecustomers)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o ukončení podpory](https://support.microsoft.com/help/4035128)\n* [Portál podpory migrácie pre Parature](https://aka.ms/paraturecustomers)"
