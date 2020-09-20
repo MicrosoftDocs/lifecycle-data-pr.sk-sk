@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838238"
 name: Virtual PC pre Mac
 summary: >+
-  Virtual PC pre Mac sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Virtual PC pre Mac sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2003
   endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Zahrnuté verzie 5.01, verzia 5.02, verzia 5.03, verzia 5.04, verzia 6.01, verzia 6.02, verzia 6.1, verzia 6.1.1 aktualizácia, verzia 7, verzia 7.01"
+content: "\n\n> [!NOTE]\n> Zahrnutá verzia 5.01, verzia 5.02, verzia 5.03, verzia 5.04, verzia 6.01, verzia 6.02, verzia 6.1, verzia 6.1.1 aktualizácia, verzia 7, verzia 7.01"

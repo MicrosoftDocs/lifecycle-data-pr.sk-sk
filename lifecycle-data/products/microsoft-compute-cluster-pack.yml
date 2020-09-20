@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838371"
 name: Microsoft Compute Cluster Pack
 summary: >
-  Microsoft Compute Cluster Pack sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Compute Cluster Pack sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila.
+  > Podpora pre tento produkt bola ukončená.
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/06/2006
   endDate: 04/08/2008
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady balíka Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)"

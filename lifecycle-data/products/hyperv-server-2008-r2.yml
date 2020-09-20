@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 6887524823a979fc8ea45c7745423de784efec7e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838449"
 name: Hyper-V Server 2008 R2
-summary: "Hyper-V Server 2008 R2 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.\n\n\n> [!IMPORTANT]\n> Podpora pre tento produkt sa skončila. Pozri usmernenia o migrácii uvedené nižšie. \n"
+summary: "Hyper-V Server 2008 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.\n\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Usmernenia k migrácii](/windows-server/get-started/modernize-windows-server-2008)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/windows-server/get-started/modernize-windows-server-2008)"
