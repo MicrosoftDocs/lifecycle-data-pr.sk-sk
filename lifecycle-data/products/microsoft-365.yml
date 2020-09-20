@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Spoločnosť Microsoft 365 sleduje modernú politiku životného cyklu.
+  description: Microsoft 365 sa riadi modernou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
   ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935983"
 name: Microsoft 365
 summary: >+
-  Spoločnosť Microsoft 365 sleduje [modernú](/lifecycle/policies/modern) politiku životného cyklu.
+  Microsoft 365 sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
 
 
-  Týka sa to nasledujúcich vydaní: Business, Education, Enterprise, government
+  To platí pre nasledujúce vydania: Business, Education, Enterprise, Government
 
 products:
 - office
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán programu Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Systémové požiadavky](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Vydania \n* Business\n* Education\n* Enterprise\n* Vláda"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán pre Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Systémové požiadavky](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Vydania \n* Business\n* Education\n* Enterprise\n* Government"

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded Device Manager 2011
-  description: Windows Embedded Device Manager 2011 sleduje politiku pevného životného cyklu.
+  description: Windows Embedded Device Manager 2011 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939942"
 name: Windows Embedded Device Manager 2011
 summary: >
-  Windows Embedded Device Manager 2011 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Windows Embedded Device Manager 2011 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: Client, SDK, server
+  Platí to pre nasledujúce vydania: Client, SDK, Server
 
 
   > [!IMPORTANT]

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: InfoPath 2010
-  description: InfoPath 2010 sleduje politiku pevného životného cyklu.
+  description: InfoPath 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: b70d3170dfa8f1a3c2c08ae73564470d3d956b90
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936094"
 name: InfoPath 2010
 summary: >+
-  InfoPath 2010 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  InfoPath 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
   Toto sa vzťahuje na nasledujúce edície: Standard
