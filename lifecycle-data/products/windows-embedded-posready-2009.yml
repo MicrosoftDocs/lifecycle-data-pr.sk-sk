@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded POSReady 2009 Windows Embedded POSReady 2009 Windows Embedded POSReady 2009 Windows Embedd
+  title: Windows Embedded POSReady 2009.
   description: Windows Embedded POSReady 2009 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838219"
-name: Windows Embedded POSReady 2009 Windows Embedded POSReady 2009 Windows Embedded POSReady 2009 Windows Embedd
+name: Windows Embedded POSReady 2009.
 summary: >
-  Windows Embedded POSReady 2009 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Windows Embedded POSReady 2009 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora sa skončila. Pozri usmernenia o migrácii uvedené nižšie.
+  > Podpora bola ukončená. Pozri informácie k migrácii uvedené nižšie.
 products:
 - windows
 policyType: fixed

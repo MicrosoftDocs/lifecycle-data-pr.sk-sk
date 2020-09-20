@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel pre Mac 2011
-  description: Excel for Mac 2011 sa riadi pevnou politikou životného cyklu.
+  description: Excel pre Mac 2011 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6fbc511fd70af039109ad1e301de765ad20e836c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838467"
 name: Excel pre Mac 2011
 summary: >+
-  Excel for Mac 2011 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Excel pre Mac 2011 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Bežná podpora pre Microsoft Office for Mac 2011 sa rozširuje tak, ako je uvedené s cieľom poskytnúť zákazníkom štandardnú časovú os prechodu počas životného cyklu."
+content: "\n\n> [!NOTE]\n> Bežná podpora pre Microsoft Office pre Mac 2011 je rozšírená, ako je uvedené, aby zákazníkom poskytla štandardnú časovú os prechodu počas životného cyklu."

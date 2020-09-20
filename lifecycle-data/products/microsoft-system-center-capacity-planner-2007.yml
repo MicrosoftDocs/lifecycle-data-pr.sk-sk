@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Plánovač kapacity systému Microsoft Center 2007
-  description: Plánovač kapacity systému Microsoft System Center 2007 sa riadi politikou pevného životného cyklu.
+  title: Microsoft System Center Capacity Planner 2007
+  description: Microsoft System Center Capacity Planner 2007 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026bf977e513462e9f4e5cb0509144ac26e9b9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838303"
-name: Plánovač kapacity systému Microsoft Center 2007
+name: Microsoft System Center Capacity Planner 2007
 summary: >
-  Plánovač kapacity systému Microsoft System Center 2007 sa riadi politikou [pevného životného](/lifecycle/policies/fixed) cyklu.
+  Microsoft System Center Capacity Planner 2007 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila.
+  > Podpora pre tento produkt bola ukončená.
 products:
 - msc
 policyType: fixed
