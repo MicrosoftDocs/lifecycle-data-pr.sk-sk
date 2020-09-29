@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype miestnosti systémy v2
-  description: Systémy miestnosti Skype v2 sa riadi modernou politikou životného cyklu.
+  title: Skype Room Systems v2
+  description: Skype Room Systems v2 sa riadi modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862705"
-name: Skype miestnosti systémy v2
+name: Skype Room Systems v2
 summary: >+
-  Systémy miestnosti Skype v2 sa riadi modernou [politikou životného](/lifecycle/policies/modern) cyklu.
+  Skype Room Systems v2 sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
 
 
 products:

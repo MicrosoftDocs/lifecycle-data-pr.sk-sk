@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Klient pracovnej plochy Projectu Online
-  description: Desktopový klient Projectu Online sa riadi modernou politikou životného cyklu.
+  title: Project Online Desktop Client
+  description: Project Online Desktop Client sa riadi modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862410"
-name: Klient pracovnej plochy Projectu Online
+name: Project Online Desktop Client
 summary: >+
-  Desktopový klient Projectu Online sa riadi [modernou politikou](/lifecycle/policies/modern) životného cyklu.
+  Project Online Desktop Client sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
 
 
 products:

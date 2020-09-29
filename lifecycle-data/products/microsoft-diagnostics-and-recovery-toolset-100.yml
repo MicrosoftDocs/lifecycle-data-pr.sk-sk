@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Diagnostika a obnovenie Nástroje 10.0
-  description: Microsoft Diagnostika a obnovenie Toolset 10.0 sa riadi pevnú politiku životného cyklu.
+  title: Microsoft Diagnostics and Recovery Toolset 10.0
+  description: Microsoft Diagnostics and Recovery Toolset 10.0 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 46c297ae7fa494c3a70d86bf5ce3f8ec62e906f4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862453"
-name: Microsoft Diagnostika a obnovenie Nástroje 10.0
+name: Microsoft Diagnostics and Recovery Toolset 10.0
 summary: >+
-  Microsoft Diagnostika a obnovenie Toolset 10.0 sa riadi pevnú [politiku](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Diagnostics and Recovery Toolset 10.0 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
