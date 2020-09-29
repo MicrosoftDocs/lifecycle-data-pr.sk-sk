@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk adaptér 2,0
-  description: Microsoft BizTalk adaptér 2,0 sleduje politiku pevných životného cyklu.
+  title: Microsoft BizTalk Adapter 2.0
+  description: Microsoft BizTalk Adapter 2.0 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: for MSMQ,for mySAP Business Suite,for SAP
   ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934762"
-name: Microsoft BizTalk adaptér 2,0
+name: Microsoft BizTalk Adapter 2.0
 summary: >+
-  Microsoft BizTalk adaptér 2,0 sleduje politiku [pevných](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft BizTalk Adapter 2.0 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: pre MSMQ, pre mySAP Business Suite pre SAP
+  To to platí pre nasledujúce vydania: pre MSMQ, pre mySAP Business Suite, pre SAP
 
 products:
 - microsoft-servers
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/20/2004
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Počiatočný dátum pre Microsoft BizTalk adaptér 2,0 pre SAP je november 2, 2004. Počiatočný dátum pre adaptér Microsoft BizTalk pre MSMQ 2,0 je 10 December 2004\n\n## <a name=\"editions\"></a>Vydania \n* pre MSMQ\n* pre mySAP Business Suite\n* pre SAP"
+content: "\n\n> [!NOTE]\n> Počiatočný dátum pre Microsoft BizTalk Adaptér 2.0 pre SAP je 2. november 2004. Počiatočný dátum pre Microsoft BizTalk Adapter pre MSMQ 2.0 je 10. december 2004\n\n## <a name=\"editions\"></a>Vydania \n* pre MSMQ\n* pre mySAP Business Suite\n* pre SAP"
