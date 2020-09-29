@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Diagnostika a obnovenie Sadba 6,5
-  description: Microsoft Diagnostika a obnovenie Toolset 6.5 takto pevné životného cyklu politiky.
+  title: Microsoft Diagnostics and Recovery Toolset 6.5
+  description: Microsoft Diagnostics and Recovery Toolset 6.5 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1e9cfdf6271094dc9535df33e253f559501416ba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838359"
-name: Microsoft Diagnostika a obnovenie Sadba 6,5
+name: Microsoft Diagnostics and Recovery Toolset 6.5
 summary: >+
-  Microsoft Diagnostika a obnovenie Toolset 6.5 takto pevné [životného](/lifecycle/policies/fixed) cyklu politiky.
+  Microsoft Diagnostics and Recovery Toolset 6.5 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:

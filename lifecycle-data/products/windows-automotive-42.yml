@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Automobilový priemysel 4.2
+  title: Windows Automotive 4.2
   description: Windows Automotive 4.2 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837702"
-name: Windows Automobilový priemysel 4.2
+name: Windows Automotive 4.2
 summary: >
-  Windows Automotive 4.2 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Windows Automotive 4.2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila.
+  > Podpora pre tento produkt bola ukončená.
 products:
 - windows
 policyType: fixed

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft synchronizácia rámec 2.1
+  title: Microsoft Sync Framework 2.1
   description: Microsoft Sync Framework 2.1 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: bc3dad267d8e7e0795160fa896915b06a7532b1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838304"
-name: Microsoft synchronizácia rámec 2.1
+name: Microsoft Sync Framework 2.1
 summary: >+
-  Microsoft Sync Framework 2.1 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Sync Framework 2.1 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
