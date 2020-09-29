@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Podnikový portál Microsoft Business Solutions
-  description: Podnikový portál Microsoft Business Solutions sa riadi politikou pevných životných cyklov.
+  title: Microsoft Business Solutions Business Portal
+  description: Microsoft Business Solutions Business Portal sa riadi pevnou politikou životného cyklu.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904500"
-name: Podnikový portál Microsoft Business Solutions
+name: Microsoft Business Solutions Business Portal
 summary: >+
-  Podnikový portál Microsoft Business Solutions sa riadi politikou [pevných](/lifecycle/policies/fixed) životných cyklov.
+  Microsoft Business Solutions Business Portal sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
@@ -30,4 +30,4 @@ releases:
 - version: Business Solutions Business Portal 1.2
   startDate: 07/18/2003
   endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> Microsoft Business Solutions Business Portal 2,5 bol podporovaný iba v prípade, že sa používal s veľkými rovinami 8,0 alebo Šalamúnove 6,0."
+content: "\n\n> [!NOTE]\n> Microsoft Business Solutions Business Portal 2.5 bol podporovaný iba pri použití buď Great Plains 8.0 alebo Solomon 6.0."

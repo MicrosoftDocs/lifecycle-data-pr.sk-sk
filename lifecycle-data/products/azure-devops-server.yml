@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server Azure DevOps
-  description: Server Azure DevOps dodržiava politiku pevného životného cyklu.
+  title: Azure DevOps Server
+  description: Azure DevOps Server sa riadi pevnou politikou životného cyklu.
   ms.date: 08/27/2020
   ms.openlocfilehash: 8b92f5abaadb0973aa3b220683011ec4a9b03fb2
   ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 08/27/2020
   ms.locfileid: "922996"
-name: Server Azure DevOps
+name: Azure DevOps Server
 summary: >+
-  Server Azure DevOps dodržiava politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Azure DevOps Server sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vylepšená súprava nástrojov na zmiernenie skúseností (blokovať EMET)
-  description: Vylepšená súprava nástrojov na zmiernenie skúseností (blokovať EMET) sa riadi politikou pevných životných cyklov.
+  title: Nástroj Enhanced Mitigation Experience Toolkit (EMET)
+  description: Enhanced Mitigation Experience Toolkit (EMET) sa riadi pevnou politikou životného cyklu.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905329"
-name: Vylepšená súprava nástrojov na zmiernenie skúseností (blokovať EMET)
+name: Nástroj Enhanced Mitigation Experience Toolkit (EMET)
 summary: >+
-  Vylepšená súprava nástrojov na zmiernenie skúseností (blokovať EMET) sa riadi politikou [pevných](/lifecycle/policies/fixed) životných cyklov.
+  Enhanced Mitigation Experience Toolkit (EMET) sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
