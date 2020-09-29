@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Tvorcov politík
-  description: Politika sa riadi politikou pevných životných cyklov.
+  title: PolicyMaker
+  description: PolicyMaker sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
   ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938055"
-name: Tvorcov politík
+name: PolicyMaker
 summary: >+
-  Politika sa riadi politikou [pevných](/lifecycle/policies/fixed) životných cyklov.
+  PolicyMaker sa riadi  [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: zabezpečenie aplikácií, vydanie programu Outlook, Professional 9,0, rozšírenie databázy Registry 2,0, Share Manager 1,0, aktualizácia softvéru 1,0, aktualizácia softvéru 2,0, štandard 1,0, Standard 2,0
+  Toto sa vzťahuje na nasledujúce edície: Application Security, Outlook Edition, Professional 9.0, Registry Extension 2.0, Share Manager 1.0, Software Update 1.0, Software Update 2.0, Standard 1.0, Standard 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Na podporu pre tento produkt sa vzťahujú podmienky súvisiace s jeho kúpou.\n\n## <a name=\"editions\"></a>Vydania \n* Zabezpečenie aplikácií\n* Vydanie programu Outlook\n* Professional 9,0\n* Rozšírenie databázy Registry 2,0\n* Share Manager 1,0\n* Aktualizácia softvéru 1,0\n* Aktualizácia softvéru 2,0\n* Štandardné 1,0\n* Štandardné 2,0"
+content: "\n\n> [!NOTE]\n> Na podporu pre tento produkt sa vzťahujú podmienky súvisiace s jeho kúpou.\n\n## <a name=\"editions\"></a>Vydania \n* Application Security\n* Outlook Edition\n* Professional 9.0\n* Registry Extension 2.0\n* Share Manager 1.0\n* Software Update 1.0\n* Software Update 2.0\n* Standard 1.0\n* Standard 2.0"

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual C++ .NET 2003
-  description: Microsoft Visual C++ .NET 2003 sa riadi politikou pevných životných cyklov.
+  description: Microsoft Visual C++ .NET 2003 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: c6f55c26b91987ea010d25995dffe12d8d69ebfd
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "929508"
 name: Microsoft Visual C++ .NET 2003
 summary: >+
-  Microsoft Visual C++ .NET 2003 sa riadi politikou [pevných](/lifecycle/policies/fixed) životných cyklov.
+  Microsoft Visual C++ .NET 2003 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
   Toto sa vzťahuje na nasledujúce edície: Standard

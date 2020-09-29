@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2019
-  description: Word 2019 sleduje politiku pevného životného cyklu.
+  description: Word 2019 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 089324dba94c7c70826bb50b980073861ba17959
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938610"
 name: Word 2019
 summary: >+
-  Word 2019 sleduje politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Word 2019 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
   Toto sa vzťahuje na nasledujúce edície: Standard

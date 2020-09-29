@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual SourceSafe 2005
-  description: Microsoft Visual SourceSafe 2005 sleduje politiku pevných životného cyklu.
+  description: Microsoft Visual SourceSafe 2005 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f7d67637da3426c4d3852deec2e86b2910ea3424
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937648"
 name: Microsoft Visual SourceSafe 2005
 summary: >+
-  Microsoft Visual SourceSafe 2005 sleduje politiku [pevných](/lifecycle/policies/fixed) životného cyklu.
+  Microsoft Visual SourceSafe 2005 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
   Toto sa vzťahuje na nasledujúce edície: Standard
