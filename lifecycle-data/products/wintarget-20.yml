@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: WinTarget 2,0
-  description: WinTarget 2,0 riadi politiku pevného životného cyklu.
+  title: WinTarget 2.0
+  description: WinTarget 2.0 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Advanced,Standard
   ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938758"
-name: WinTarget 2,0
+name: WinTarget 2.0
 summary: >+
-  WinTarget 2,0 riadi politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  WinTarget 2.0 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
   Toto sa vzťahuje na nasledujúce vydania: Advanced, Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/07/2006
   endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> Na podporu pre tento produkt sa vzťahujú podmienky súvisiace s jeho kúpou.\n\n## <a name=\"editions\"></a>Vydania \n* Rozšírené\n* Standard"
+content: "\n\n> [!NOTE]\n> Na podporu pre tento produkt sa vzťahujú podmienky súvisiace s jeho kúpou.\n\n## <a name=\"editions\"></a>Vydania \n* Pokročilé\n* Standard"
