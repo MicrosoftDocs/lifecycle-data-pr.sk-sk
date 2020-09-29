@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ochrana údajov v Centre systému 2016
-  description: System Center 2016 Ochrana údajov sa riadi pevnou politikou životného cyklu.
+  title: System Center 2016 Data Protection
+  description: System Center 2016 Data Protection sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b2a2ebb813f79280e3a37ee9346697f601538a4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862740"
-name: Ochrana údajov v Centre systému 2016
+name: System Center 2016 Data Protection
 summary: >+
-  System Center 2016 Ochrana údajov sa riadi pevnou [politikou životného](/lifecycle/policies/fixed) cyklu.
+  System Center 2016 Data Protection sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype pre podnikové 2016
-  description: Skype 2016 business nadväzuje na politiku pevného životného cyklu.
+  title: Skype for Business 2016
+  description: Skype for Business 2016 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: bb612be489d44c4dbac85d1fffce7797eaef57d2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862708"
-name: Skype pre podnikové 2016
+name: Skype for Business 2016
 summary: >+
-  Skype 2016 business nadväzuje na politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Skype for Business 2016 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:

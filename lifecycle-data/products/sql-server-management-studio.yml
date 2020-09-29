@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server Management Studio
-  description: SQL Server Management Studio nasleduje moderné životného cyklu politiky.
+  description: SQL Server Management Studio sa riadi modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: f75480af28215773c8d23bc06a30408940015a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862742"
 name: SQL Server Management Studio
 summary: >+
-  SQL Server Management Studio nasleduje moderné [životného](/lifecycle/policies/modern) cyklu politiky.
+  SQL Server Management Studio sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
 
 
 products:

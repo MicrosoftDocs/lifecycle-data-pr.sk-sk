@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 6f2d6eed9e7780fef8b8e6aba52ee70474f636c7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862548"
 name: Hyper-V Server 2016
 summary: >+
-  Hyper-V Server 2016 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Hyper-V Server 2016 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:
