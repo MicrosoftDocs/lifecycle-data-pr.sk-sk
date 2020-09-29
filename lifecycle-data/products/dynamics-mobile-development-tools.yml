@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vývojové nástroje Dynamics Mobile
-  description: Dynamics Mobile Development Tools sa riadi politikou životného cyklu súčastí.
+  title: Dynamics Mobile Development Tools
+  description: Dynamics Mobile Development Tools sa riadia politikou životného cyklu komponentov.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838047"
-name: Vývojové nástroje Dynamics Mobile
+name: Dynamics Mobile Development Tools
 summary: >+
-  Dynamics Mobile Development Tools sa riadi politikou [životného](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) cyklu súčastí.
+  Dynamics Mobile Development Tools sa riadia politikou životného cyklu [komponentov](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

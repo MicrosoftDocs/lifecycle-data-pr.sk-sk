@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Excel 2004 pre Mac
-  description: Program Microsoft Excel 2004 for Mac sa riadi politikou pevného životného cyklu.
+  description: Microsoft Excel 2004 pre Mac sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 51b0adf9f1c97f1ab2032784a18f4d0fbd9912c0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "838028"
 name: Microsoft Excel 2004 pre Mac
-summary: "Program Microsoft Excel 2004 for Mac sa riadi politikou [pevného](/lifecycle/policies/fixed) životného cyklu.\n\n\n> [!IMPORTANT]\n> Podpora pre tento produkt sa skončila. \n"
+summary: "Microsoft Excel 2004 pre Mac sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.\n\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. \n"
 products:
 - office
 policyType: fixed-mainstream-only

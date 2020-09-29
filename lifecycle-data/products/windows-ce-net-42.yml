@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Systém Windows CE .NET 4.2
+  title: Windows CE .NET 4.2
   description: Windows CE .NET 4.2 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: dbd86942458df27fd56cf1b799feaff49c954e5d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837690"
-name: Systém Windows CE .NET 4.2
+name: Windows CE .NET 4.2
 summary: >
-  Windows CE .NET 4.2 sa riadi pevnou [politikou](/lifecycle/policies/fixed) životného cyklu.
+  Windows CE .NET 4.2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora pre tento produkt sa skončila.
+  > Podpora pre tento produkt bola ukončená.
 products:
 - windows
 policyType: fixed
