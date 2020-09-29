@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Configuration Manager (LTSB-verzia 1606)
-  description: Microsoft System Center Configuration Manager (LTSB-version 1606) sleduje politiku pevných životných cyklov.
+  title: Microsoft System Center Configuration Manager (LTSB - verzia 1606)
+  description: Microsoft System Center Configuration Manager (LTSB - verzia 1606) sa riadi pevnou politikou životného cyklu.
   ms.date: 08/20/2020
   ms.openlocfilehash: 606034d7f3694f3e06a47bdc5e1a45561102c238
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905980"
-name: Microsoft System Center Configuration Manager (LTSB-verzia 1606)
+name: Microsoft System Center Configuration Manager (LTSB - verzia 1606)
 summary: >+
-  Microsoft System Center Configuration Manager (LTSB-version 1606) sleduje politiku [pevných](/lifecycle/policies/fixed) životných cyklov.
+  Microsoft System Center Configuration Manager (LTSB - verzia 1606) sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 products:

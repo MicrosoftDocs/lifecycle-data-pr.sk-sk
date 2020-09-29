@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Genomika
-  description: Microsoft Genomika nadväzuje na modernú politiku životného cyklu.
+  title: Microsoft Genomics
+  description: Microsoft Genomics sa riadi modernou politikou životného cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f52d7baf49b2bad411cda9bc96706cfc39bd5c0
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sk-SK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872035"
-name: Microsoft Genomika
+name: Microsoft Genomics
 summary: >+
-  Microsoft Genomika nadväzuje na modernú [politiku](/lifecycle/policies/modern) životného cyklu.
+  Microsoft Genomics sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
 
 
 products:
