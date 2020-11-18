@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Aby zákazníci zostali podporovaní, musia prejsť na systém Windows 8.1.
+  > Ak majú zákazníci naďalej dostávať podporu, musia prejsť na systém Windows 8.1.
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Pro"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o migrácii](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Pro"

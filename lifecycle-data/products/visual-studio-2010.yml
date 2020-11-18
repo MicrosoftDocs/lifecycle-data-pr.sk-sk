@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce edície: Agenti, všetko, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Výkonnostné nástroje, Premium, Professional, Professional s MSDN, PSM, Remote Debugger, SDK, prostredie (integrované), prostredie (izolované), Team Agents, Team Explorer, Test Professional, nástroje pre Office System 4.0 Runtime, Ultimate, Ultimate s MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  Toto sa vzťahuje na nasledujúce vydania: Agents, Všetky, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Výkonnostné nástroje, Premium, Professional, Professional w/MSDN, PSM, Remote Debugger, SDK, Shell (integrovaný), Shell (izolovaný), Team Agents, Team Explorer, Test Professional, Nástroje pre Office System 4.0 Runtime, Ultimate, Ultimate s MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Všetko\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Výkonnostné nástroje\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Vzdialený ladiaci nástroj\n* SDK\n* Shell (integrovaný)\n* Shell (izolovaný)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Nástroje pre Office System 4.0 Runtime\n* Ultimate\n* Ultimate s MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizácia a modelovanie SDK"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Všetko\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Výkonnostné nástroje\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (integrovaný)\n* Shell (izolovaný)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Nástroje pre Office System 4.0 Runtime\n* Ultimate\n* Ultimate s MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

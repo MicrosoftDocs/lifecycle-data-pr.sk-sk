@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "938499"
 name: Windows 10 2016 LTSB
 summary: >+
-  Windows 10 2016 LTSB sa riadi [pevnou](/lifecycle/policies/fixed) politikou<životného cyklu.
+  Windows 10 2016 LTSB sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce edície: Enterprise
+  Toto sa vzťahuje na nasledujúce vydania: Enterprise
 
 products:
 - windows

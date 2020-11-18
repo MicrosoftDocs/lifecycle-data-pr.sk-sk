@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2015 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce edície: Agenti, komunita, Enterprise, ESM, Express pre web, Express pre Windows 10, Express pre Windows Desktop, Modeling SDK, Professional, PSM, Spravovanie vydania, Vzdialené nástroje, SDK, prostredie (integrované), prostredie (izolované), Test Professional, TPS, Visual C++ Redistributable
+  Toto sa vzťahuje na nasledujúce vydania: Agents, Community, Enterprise, ESM, Express for web, Express pre Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Správa vydaní, Vzdialené nástroje, SDK, Shell (integrovaný), Shell (izolovaný), Test Professional, TPS, Visual C++ Redistributable
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Community\n* Enterprise\n* ESM\n* Express for Web\n* Express pre Windows 10\n* Express pre Windows Desktop\n* Modeling SDK\n* Professional\n* PSM\n* Správa vydaní\n* Vzdialené nástroje\n* SDK\n* Shell (integrovaný)\n* Shell (izolovaný)\n* Test Professional\n* TPS\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Community\n* Enterprise\n* ESM\n* Express for Web\n* Express pre Windows 10\n* Express for Windows Desktop\n* Modeling SDK\n* Professional\n* PSM\n* Správa vydaní\n* Vzdialené nástroje\n* SDK\n* Shell (integrovaný)\n* Shell (izolovaný)\n* Test Professional\n* TPS\n* Visual C++ Redistributable"

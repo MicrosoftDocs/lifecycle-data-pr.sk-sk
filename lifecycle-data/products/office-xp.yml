@@ -15,7 +15,7 @@ summary: >+
   Office XP sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce edície: Developer, Professional, Proofing Tools, Standard, Web Components
+  Toto sa vzťahuje na nasledujúce vydania: Developer, Professional, Proofing Tools, Standard, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Vývojár\n* Professional\n* Nástroje korektúry\n* Standard\n* Webové súčasti"
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Developer\n* Professional\n* Proofing Tools\n* Standard\n* Web Components"

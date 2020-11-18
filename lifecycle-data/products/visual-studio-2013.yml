@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937463"
 name: Visual Studio 2013
-summary: "Visual Studio 2013 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Agenti, Všetko, Community, Express pre Web, Express pre Windows, Express pre Windows Desktop, IntelliTrace Collector, Modeling SDK, Knižnica Multibyte MFC, Premium, Professional, Správa vydaní, Vzdialené nástroje, SDK, Shell (integrovaný), Shell (izolovaný), Team Explorer, Test Professional, Ultimate, Visual C + + Redistributable, Rozšírenie pre webové nástroje\n\n"
+summary: "Visual Studio 2013 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce vydania: Agents, Všetko, Community, Express pre Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Knižnica Multibyte MFC, Premium, Professional, Správa vydaní, Vzdialené nástroje, SDK, Shell (integrovaný), Shell (izolovaný), Team Explorer, Test Professional, Ultimate, Visual C + + Redistributable, Rozšírenia webových nástrojov\n\n"
 products:
 - vs
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Všetko\n* Community\n* Express for Web\n* Express for Windows\n* Express pre Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Knižnica Multibyte MFC\n* Premium\n* Professional\n* Správa vydaní\n* Vzdialené nástroje\n* SDK\n* Shell (integrovaný)\n* Shell (izolovaný)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Rozšírenia webových nástrojov"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Všetko\n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Knižnica Multibyte MFC\n* Premium\n* Professional\n* Správa vydaní\n* Vzdialené nástroje\n* SDK\n* Shell (integrovaný)\n* Shell (izolovaný)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Rozšírenia webových nástrojov"

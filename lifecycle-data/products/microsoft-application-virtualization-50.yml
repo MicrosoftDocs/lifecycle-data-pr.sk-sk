@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* pre služby vzdialenej pracovnej plochy\n* pre terminálové služby\n* pre Windows Desktops"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* pre služby vzdialenej pracovnej plochy\n* pre terminálové služby\n* pre stolné počítače so systémom Windows"
