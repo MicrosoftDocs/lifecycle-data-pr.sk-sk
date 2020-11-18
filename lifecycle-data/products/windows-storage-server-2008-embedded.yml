@@ -15,7 +15,7 @@ summary: >+
   Windows Storage Server 2008 Embedded sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce edície: 32-bitová verzia, 64-bitová verzia, Basic, Basic 32-bitová verzia, Enterprise, Standard, Workgroup
+  Toto sa vzťahuje na nasledujúce vydania: 32-bitová verzia, 64-bitová verzia, Basic, Basic 32-bitová verzia, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Podpora pre tento produkt sa viac neposkytuje. Informácie o migrácii nájdete nižšie.\n\n## <a name=\"editions\"></a>Vydania \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-bitová verzia\n* Enterprise\n* Standard\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o migrácii](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Podpora pre tento produkt sa viac neposkytuje. Informácie o migrácii nájdete nižšie.\n\n## <a name=\"editions\"></a>Vydania \n* 32-bitová verzia\n* 64-bitová verzia\n* Basic\n* Basic 32-bitová verzia\n* Enterprise\n* Standard\n* Workgroup"

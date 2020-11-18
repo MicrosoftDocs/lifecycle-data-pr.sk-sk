@@ -15,7 +15,7 @@ summary: >
   Windows Storage Server 2008 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce edície: Basic, Basic 32-bitová verzia, Basic 64-bitová verzia, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
+  Toto sa vzťahuje na nasledujúce vydania: Basic, Basic 32-bitová verzia, Basic 64-bitová verzia, Basic Embedded, Basic Embedded 32-bitová verzia, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informácie o upgrade servera](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Vydania \n* Basic\n* Basic 32-bitová verzia\n* Basic 64-bitová verzia\n* Basic Embedded\n* Basic Embedded 32-bitová verzia\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o migrácii](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informácie o upgrade servera](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Vydania \n* Basic\n* Basic 32-bitová verzia\n* Basic 64-bitová verzia\n* Basic Embedded\n* Basic Embedded 32-bitová verzia\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"

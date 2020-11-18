@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937574"
 name: Visual Studio 2008
-summary: "Visual Studio 2008 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Všetky, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express\n\n"
+summary: "Visual Studio 2008 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce vydania: Všetky, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express\n\n"
 products:
 - vs
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Obsahuje edície Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express a Visual Studio Team System\n\n## <a name=\"editions\"></a>Vydania \n* Všetko\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o migrácii](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Obsahuje vydania Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express a Visual Studio Team System\n\n## <a name=\"editions\"></a>Vydania \n* Všetky\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

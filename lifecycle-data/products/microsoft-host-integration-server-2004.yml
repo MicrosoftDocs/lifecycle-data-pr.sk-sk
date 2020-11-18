@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Vývojár\n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Developer\n* Enterprise\n* Standard"

@@ -15,12 +15,12 @@ summary: >
   Microsoft Forefront Threat Management Gateway 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce edície: Enterprise, Standard
+  Toto sa vzťahuje na nasledujúce vydania: Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > Podpora bola ukončená. Pozri informácie k migrácii uvedené nižšie.
+  > Podpora bola ukončená. Pozrite si informácie o migrácii uvedené nižšie.
 products:
 - office
 policyType: fixed
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o migrácii](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Standard"

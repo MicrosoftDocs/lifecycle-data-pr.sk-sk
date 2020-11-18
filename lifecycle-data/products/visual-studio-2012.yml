@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2012 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce edície: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+  Toto sa vzťahuje na nasledujúce vydania: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Vzdialené nástroje, Shell (integrovaný), Shell (izolovaný), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Rozšírenia webových nástrojov
 
 products:
 - vs
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Životný cyklus a servis produktu Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Community 2013\n* Express for Web\n* Express pre Windows 8\n* Express pre Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Vzdialené nástroje\n* Shell (integrovaný)\n* Shell (izolovaný)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Rozšírenia webových nástrojov"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Životný cyklus a servis produktu Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Vzdialené nástroje\n* Shell (integrovaný)\n* Shell (izolovaný)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Rozšírenia webových nástrojov"

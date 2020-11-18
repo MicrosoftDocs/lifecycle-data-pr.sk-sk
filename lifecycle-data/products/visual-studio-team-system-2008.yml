@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "945312"
 name: Visual Studio Team System 2008
-summary: "Visual Studio Team System 2008 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce vydania: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS\n\n> [!IMPORTANT]\n> Podpora bola ukončená. Pozri informácie k migrácii uvedené nižšie.\n"
+summary: "Visual Studio Team System 2008 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce vydania: Všetky, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS\n\n> [!IMPORTANT]\n> Podpora bola ukončená. Pozrite si informácie o migrácii uvedené nižšie.\n"
 products:
 - vs
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informácie k migrácii](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Všetko\n* Architektúra\n* Databáza\n* Vývoj\n* Team Explorer\n* Team Test Load Agent\n* TFS"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o migrácii](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informácie o migrácii](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Všetky\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
