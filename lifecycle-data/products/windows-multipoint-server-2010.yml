@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://aka.ms/AA1ovn4)\n* [Dodatočné informácie k migrácii](/windows-server/get-started/installation-and-upgrade)\n* [Informácie o produkte](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Vydania \n* Academic\n* Standard"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o migrácii](https://aka.ms/AA1ovn4)\n* [Dodatočné informácie o migrácii](/windows-server/get-started/installation-and-upgrade)\n* [Informácie o produkte](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Vydania \n* Academic\n* Standard"
