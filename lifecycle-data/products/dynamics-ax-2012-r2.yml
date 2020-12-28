@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics AX 2012 R2
   description: Dynamics AX 2012 R2 sa riadi pevnou politikou životného cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c416b7a522ce30abd5dc690132e3daa91db99ba
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 12/17/2020
+  keywords: 
+  ms.openlocfilehash: 692e77796e74b3dc826fcb3b21fa110d8e3485b2
+  ms.sourcegitcommit: 4e42a9063f11353b16a25fce40ad96cc6146dd96
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "862591"
+  ms.lasthandoff: 12/18/2020
+  ms.locfileid: "1348239"
 name: Dynamics AX 2012 R2
 summary: >+
   Dynamics AX 2012 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
@@ -20,9 +21,9 @@ policyType: fixed
 supportDates:
   start: 02/19/2013
   end: 10/09/2018
-  extendedEnd: 10/12/2021
+  extendedEnd: 04/12/2022
 releases:
 - version: Original Release
   startDate: 02/19/2013
-  endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Program migrácie pre Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Ďalšie informácie o životnom cykle](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Bežná podpora je rozšírená, ako je zobrazené."
+  endDate: 04/12/2022
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Program migrácie pre Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Ďalšie informácie o životnom cykle](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Ukončenie podpory pre Dynamics AX 2012 a Dynamics AX R2 bolo predĺžené z 12. októbra 2021 na 12. apríl 2022."
