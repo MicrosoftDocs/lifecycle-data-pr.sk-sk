@@ -2,16 +2,16 @@
 metadata:
   title: Windows 10 Enterprise and Education
   description: Windows 10 Enterprise and Education sa riadi modernou politikou životného cyklu.
-  ms.date: 10/09/2020
+  ms.date: 02/12/2021
   keywords: 
-  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 84edf77fb54cb13cb21b8a8ef6643267a3872af2
+  ms.sourcegitcommit: b85a6ac35e0af0e17a9ae767927273508a4f31f6
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162534"
+  ms.lasthandoff: 02/14/2021
+  ms.locfileid: "1449235"
 name: Windows 10 Enterprise and Education
-summary: "Windows 10 Enterprise and Education sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Education, Enterprise\n\n> [!IMPORTANT]\n> Microsoft bude naďalej podporovať aspoň jeden Polročný kanál Windows 10 až do 14. októbra 2025.\n"
+summary: "Windows 10 Enterprise and Education sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Education, Enterprise\n\n> [!IMPORTANT]\n> Microsoft bude naďalej podporovať aspoň jeden polročný kanál Windows 10 až do 14. októbra 2025.\nNižšie uvedená tabuľka obsahuje vydané verzie k dnešnému dátumu.\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -52,4 +52,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informácie o produkte](/windows/windows-10/)\n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Ak sa aktualizácie neodložia, následné aktualizácie funkcií Polročného kanálu systému Windows 10 môžu byť nainštalované ešte pred uvedeným dátumom ukončenia hlavnej podpory.\n\n## <a name=\"editions\"></a>Vydania \n* Education\n* Enterprise"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home a Pro](/lifecycle/products/windows-10-home-and-pro)\n* [Informácie o produkte](/windows/windows-10/)\n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Ak sa aktualizácie neodložia, následné aktualizácie funkcií Polročného kanálu systému Windows 10 môžu byť nainštalované ešte pred uvedeným dátumom ukončenia hlavnej podpory.\n\n## <a name=\"editions\"></a>Vydania \n* Education\n* Enterprise"
