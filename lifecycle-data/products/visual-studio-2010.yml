@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 sa riadi pevnou politikou životného cyklu.
-  ms.date: 01/08/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime (VSTO),Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 3be7da8e44781d5d6f8224f368939d01c2aa791f
-  ms.sourcegitcommit: f421264e594745037c28e9666463fd92fd55fdec
+  ms.date: 05/28/2021
+  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
+  ms.openlocfilehash: 3458cbccdbd3a27120cadd0dcc0df44834425297
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 01/08/2021
-  ms.locfileid: "1375265"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029965"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime (VSTO), Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+
+  Toto sa vzťahuje na nasledujúce vydania: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Všetko\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Výkonnostné nástroje\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Vzdialený ladiaci nástroj\n* SDK\n* Shell (integrovaný)\n* Shell (izolovaný)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Nástroje pre Office System 4.0 Runtime (VSTO)\n* Ultimate\n* Ultimate s MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizácia a modelovanie SDK"
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Visual Studio 2010 Tools for Office (VSTO) Runtime sa dodáva s rôznymi verziami Visual Studio a Microsoft Office a sleduje životný cyklus nadradeného produktu. Môže sa tiež stiahnuť samostatne, [tu](https://www.microsoft.com/download/details.aspx?id=56961).\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Všetko\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Výkonnostné nástroje\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Vzdialený ladiaci nástroj\n* SDK\n* Shell (integrovaný)\n* Shell (izolovaný)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Ultimate\n* Ultimate s MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizácia a modelovanie SDK"
