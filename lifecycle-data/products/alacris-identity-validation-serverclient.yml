@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server overenia totožnosti Alacris/klient
-  description: Alacris overenie identity Server/klient dodržiava politiku pevného životného cyklu.
+  title: Server/klient na overenie identity Alacris
+  description: Server na overovanie identity a klient Alacris sa riadi pevnou politikou životného cyklu.
   ms.date: 09/10/2020
   keywords: 
-  ms.openlocfilehash: b5857ca1946f0997051c9c6113c86ee5933555d3
-  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.openlocfilehash: 00fff8d37d6ee22056f5b7f51ddff373650e2ce59880f1eb5696447801a5dc78
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: MT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 09/21/2020
-  ms.locfileid: "1025388"
-name: Server overenia totožnosti Alacris/klient
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493200"
+name: Server/klient na overenie identity Alacris
 summary: >
-  Alacris overenie identity Server/klient dodržiava politiku [pevného](/lifecycle/policies/fixed) životného cyklu.
+  Server na overovanie identity a klient Alacris sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
 
