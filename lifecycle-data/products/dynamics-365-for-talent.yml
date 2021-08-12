@@ -4,14 +4,14 @@ metadata:
   description: Dynamics 365 for Talent sa riadi modernou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Onboard
-  ms.openlocfilehash: de03f162a1781f88e66a030774e5c31771e4f0f6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: ff5ee330da2a77374a216513a95639644a72b41de7896d3649a85f842b6f8cdc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930729"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495642"
 name: Dynamics 365 for Talent
-summary: "Dynamics 365 for Talent sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce vydania: Onboard\n\n"
+summary: "Dynamics 365 for Talent sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Onboard\n\n"
 products:
 - dynamics
 policyType: modern-online
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Systémové požiadavky](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Informácie o migrácii](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Attract and Onboard aplikácie budú vyradené z ponuky 2. februára 2022.  Core HR bola 1. februára 2020 znovu spustená ako Dynamics 365 Human Resources, pre viac informácií pozrite usmernenia pre migráciu.\n\n## <a name=\"editions\"></a>Vydania \n* Onboard"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Systémové požiadavky](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Informácie k migrácii](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Attract and Onboard aplikácie budú vyradené z ponuky 2. februára 2022.  Core HR bola 1. februára 2020 znovu spustená ako Dynamics 365 Human Resources, pre viac informácií pozrite usmernenia pre migráciu.\n\n## <a name=\"editions\"></a>Vydania \n* Onboard"
