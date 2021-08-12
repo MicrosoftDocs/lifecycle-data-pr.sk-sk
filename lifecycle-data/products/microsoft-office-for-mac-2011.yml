@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Office for Mac 2011 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Business Home Use Program,Home and Student,Standard
-  ms.openlocfilehash: 916b05553555af4525fb9c94660627d4aef386e6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 56c5f61385cbdeddafe8571c1439650f85b73f42bcc23bc840f246af69bbe957
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933245"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2524206"
 name: Microsoft Office pre Mac 2011
 summary: >+
   Microsoft Office for Mac 2011 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
+  Toto sa vzťahuje na nasledujúce edície: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Bežná podpora pre Microsoft Office for Mac 2011 sa rozširuje tak, ako je uvedené, s cieľom poskytnúť všetkým zákazníkom štandardnú časovú os prechodu počas životného cyklu.\n\n## <a name=\"editions\"></a>Vydania \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Bežná podpora pre Microsoft Office for Mac 2011 sa rozširuje tak, ako je uvedené, s cieľom poskytnúť všetkým zákazníkom štandardnú časovú os prechodu počas životného cyklu.\n\n## <a name=\"editions\"></a>Vydania \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Pre domácnosti a študentov\n* Standard"
