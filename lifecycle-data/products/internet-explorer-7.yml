@@ -3,25 +3,30 @@ metadata:
   title: Internet Explorer 7
   description: Program Internet Explorer 7 sa riadi politikou životného cyklu súčastí.
   ms.date: 10/05/2020
-  keywords: 
-  ms.openlocfilehash: e9a0e815b920011e15e4da8e58158c45e7971cd0
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162682"
+  keywords: null
 name: Internet Explorer 7
-summary: >+
+summary: |+
   Internet Explorer 7 sa riadi politikou životného cyklu [súčastí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 10/18/2006
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Najčastejšie otázky o politike životného cyklu programu Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7 je súčasťou systému Windows Embedded Compact 7 a Windows Embedded Compact 2013 a riadi sa rovnakým životný cyklom. \n> [!NOTE]\n> Od 12. januára 2016 bude technická podpora a aktualizácie zabezpečenia dostávať iba najaktuálnejšia verzia programu Internet Explorer dostupná pre podporovaný operačný systém."
+  - version: Original Release
+    startDate: 10/18/2006
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Informácie k migrácii](https://www.microsoft.com/itpro/microsoft-edge)
+  * [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)
+  * [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)
+  * [Najčastejšie otázky o politike životného cyklu programu Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Internet Explorer 7 je súčasťou systému Windows Embedded Compact 7 a Windows Embedded Compact 2013 a riadi sa rovnakým životný cyklom. 
+  > [!NOTE]
+  > Od 12. januára 2016 bude technická podpora a aktualizácie zabezpečenia dostávať iba najaktuálnejšia verzia programu Internet Explorer dostupná pre podporovaný operačný systém.

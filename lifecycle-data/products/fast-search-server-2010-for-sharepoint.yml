@@ -1,32 +1,41 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (pre SharePoint, SharePoint Internet Sites)
-  description: FAST Search Server 2010 (pre SharePoint, SharePoint Internet Sites) sa riadi pevnou politikou životného cyklu.
+  title: 'FAST Search Server 2010 (pre SharePoint, SharePoint Internet Sites)'
+  description: 'FAST Search Server 2010 (pre SharePoint, SharePoint Internet Sites) sa riadi pevnou politikou životného cyklu.'
   ms.date: 09/01/2020
-  keywords: for SharePoint,for SharePoint Internet Sites
-  ms.openlocfilehash: c027838c1f802c0ed026d733a9412fe15980c093
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936168"
-name: FAST Search Server 2010 (pre SharePoint, SharePoint Internet Sites)
-summary: "FAST Search Server 2010 (pre SharePoint, SharePoint Internet Sites) sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nTo platí pre nasledujúce vydania: pre SharePoint, pre SharePoint Internet Sites\n\n"
+  keywords: 'for SharePoint,for SharePoint Internet Sites'
+name: 'FAST Search Server 2010 (pre SharePoint, SharePoint Internet Sites)'
+summary: |+
+  FAST Search Server 2010 (pre SharePoint, SharePoint Internet Sites) sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. 
+
+  To platí pre nasledujúce vydania: pre SharePoint, pre SharePoint Internet Sites
+
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/16/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 10/13/2020
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 07/23/2014
-- version: Original Release
-  startDate: 06/16/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Neobsahuje verzie, ktorých podpora bola predtým ukončená. Na podporu pre tento produkt sa vzťahujú podmienky súvisiace s jeho kúpou.\n\n## <a name=\"editions\"></a>Vydania \n* pre SharePoint\n* pre SharePoint Internet Sites"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 10/13/2020
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 07/23/2014
+  - version: Original Release
+    startDate: 06/16/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Odkazy 
+  * [Informácie k migrácii](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)
+  * [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Neobsahuje verzie, ktorých podpora bola predtým ukončená. Na podporu pre tento produkt sa vzťahujú podmienky súvisiace s jeho kúpou.
+
+  ## <a name="editions"></a>Vydania 
+  * pre SharePoint
+  * pre SharePoint Internet Sites
