@@ -3,23 +3,24 @@ metadata:
   title: Internet Explorer 9
   description: Program Internet Explorer 9 sa riadi politikou životného cyklu súčastí.
   ms.date: 08/12/2020
-  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893625"
 name: Internet Explorer 9
-summary: >+
+summary: |+
   Program Internet Explorer 9 sa riadi politikou životného cyklu [súčastí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 03/15/2011
 releases:
-- version: Original Release
-  startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://www.microsoft.com/itpro/microsoft-edge)\n* [Najčastejšie otázky o politike životného cyklu programu Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Od 12. januára 2016 bude technická podpora a aktualizácie zabezpečenia dostávať iba najaktuálnejšia verzia programu Internet Explorer dostupná pre podporovaný operačný systém."
+  - version: Original Release
+    startDate: 03/15/2011
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Informácie k migrácii](https://www.microsoft.com/itpro/microsoft-edge)
+  * [Najčastejšie otázky o politike životného cyklu programu Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Od 12. januára 2016 bude technická podpora a aktualizácie zabezpečenia dostávať iba najaktuálnejšia verzia programu Internet Explorer dostupná pre podporovaný operačný systém.

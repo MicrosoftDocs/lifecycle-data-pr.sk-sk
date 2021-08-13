@@ -3,22 +3,21 @@ metadata:
   title: Služby Microsoft Windows Services pre UNIX 3.5
   description: Služby Microsoft Windows Services pre UNIX 3.5 sa riadia politikou životného cyklu súčastí.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 55f7940da408533190f0d2c0fdb2d323e983a9e4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837729"
 name: Služby Microsoft Windows Services pre UNIX 3.5
-summary: "Služby Microsoft Windows Services pre UNIX 3.5 sa riadia politikou životného cyklu [súčastí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).\n\n\n> [!IMPORTANT]\n> Podpora bola ukončená. \n"
+summary: |
+  Služby Microsoft Windows Services pre UNIX 3.5 sa riadia politikou životného cyklu [súčastí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
+  > [!IMPORTANT]
+  > Podpora bola ukončená. 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 03/15/2004
   end: 04/08/2014
 releases:
-- version: Original Release
-  startDate: 03/15/2004
-  endDate: 04/08/2014
-content: ''
+  - version: Original Release
+    startDate: 03/15/2004
+    endDate: 04/08/2014
+content: |+
