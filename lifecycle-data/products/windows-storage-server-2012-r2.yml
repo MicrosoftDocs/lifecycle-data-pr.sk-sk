@@ -3,24 +3,35 @@ metadata:
   title: Windows Storage Server 2012 R2
   description: Windows Storage Server 2012 R2 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
-  keywords: Essentials,Standard,Workgroup
-  ms.openlocfilehash: 882550832ce3c5dc7b3a62ef17e1358df0445a9f
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939017"
+  keywords: 'Essentials,Standard,Workgroup'
 name: Windows Storage Server 2012 R2
-summary: "Windows Storage Server 2012 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Essentials, Standard, Workgroup\n\n"
+summary: |+
+  Windows Storage Server 2012 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. 
+
+  Toto sa vzťahuje na nasledujúce edície: Essentials, Standard, Workgroup
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/25/2013
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Bežná a rozšírená podpora pre tento produkt bola rozšírená tak, aby zákazníkom poskytovala štandardnú časovú os prechodu počas životného cyklu.\n> [!NOTE]\n> Dátum začiatku pre vydanie Essentials je 25. september 2014. \n\n## <a name=\"editions\"></a>Vydania \n* Essentials\n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>Odkazy 
+  * [Informácie k migrácii](/windows-server/upgrade/upgrade-2012r2-to-2019)
+
+  > [!NOTE]
+  > Bežná a rozšírená podpora pre tento produkt bola rozšírená tak, aby zákazníkom poskytovala štandardnú časovú os prechodu počas životného cyklu.
+  > [!NOTE]
+  > Dátum začiatku pre vydanie Essentials je 25. september 2014. 
+
+  ## <a name="editions"></a>Vydania 
+  * Essentials
+  * Standard
+  * Workgroup
