@@ -3,29 +3,30 @@ metadata:
   title: Microsoft Lync 2010
   description: Microsoft Lync 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 10/20/2020
-  keywords: 
-  ms.openlocfilehash: a9bb16d3231175342172806518fbae8913450493
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162830"
+  keywords: null
 name: Microsoft Lync 2010
-summary: >+
+summary: |+
   Microsoft Lync 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
-
 
   Toto sa vzťahuje na nasledujúce vydania: Attendant, Attendee, Group Chat, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/25/2011
   end: 04/12/2016
   extendedEnd: 04/13/2021
 releases:
-- version: Original Release
-  startDate: 01/25/2011
-  endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Attendant\n* Attendee\n* Group Chat\n* Standard"
+  - version: Original Release
+    startDate: 01/25/2011
+    endDate: 04/13/2021
+content: |
+
+
+
+  ## <a name="editions"></a>Vydania 
+  * Attendant
+  * Attendee
+  * Group Chat
+  * Standard
