@@ -3,17 +3,10 @@ metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 05/28/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 3458cbccdbd3a27120cadd0dcc0df44834425297
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029965"
+  keywords: 'vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK'
 name: Visual Studio 2010
-summary: >+
+summary: |+
   Visual Studio 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
-
 
 
   Toto sa vzťahuje na nasledujúce vydania: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
@@ -21,17 +14,53 @@ summary: >+
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 06/29/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 1
-  startDate: 03/08/2011
-  endDate: 07/14/2020
-- version: Original Release
-  startDate: 06/29/2010
-  endDate: 04/10/2012
-content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Visual Studio 2010 Tools for Office (VSTO) Runtime sa dodáva s rôznymi verziami Visual Studio a Microsoft Office a sleduje životný cyklus nadradeného produktu. Môže sa tiež stiahnuť samostatne, [tu](https://www.microsoft.com/download/details.aspx?id=56961).\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Všetko\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Výkonnostné nástroje\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Vzdialený ladiaci nástroj\n* SDK\n* Shell (integrovaný)\n* Shell (izolovaný)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Ultimate\n* Ultimate s MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizácia a modelovanie SDK"
+  - version: Service Pack 1
+    startDate: 03/08/2011
+    endDate: 07/14/2020
+  - version: Original Release
+    startDate: 06/29/2010
+    endDate: 04/10/2012
+content: |+
+
+
+  ## <a name="links"></a>Odkazy 
+  * [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  > [!NOTE]
+  > Visual Studio 2010 Tools for Office (VSTO) Runtime sa dodáva s rôznymi verziami Visual Studio a Microsoft Office a sleduje životný cyklus nadradeného produktu. Môže sa tiež stiahnuť samostatne, [tu](https://www.microsoft.com/download/details.aspx?id=56961).
+
+
+  ## <a name="editions"></a>Vydania 
+  * Agents
+  * Všetko
+  * ASP .NET MVC 4
+  * Express
+  * F# 2.0 Runtime
+  * Lab Management
+  * Výkonnostné nástroje
+  * Premium
+  * Professional
+  * Professional w/MSDN 
+  * PSM
+  * Vzdialený ladiaci nástroj
+  * SDK
+  * Shell (integrovaný)
+  * Shell (izolovaný)
+  * Team Agents
+  * Team Explorer
+  * Test Professional
+  * Ultimate
+  * Ultimate s MSDN
+  * Visual Basic Express
+  * Visual C# Express
+  * Visual C++ Express
+  * Visual Web Developer Express
+  * Vizualizácia a modelovanie SDK

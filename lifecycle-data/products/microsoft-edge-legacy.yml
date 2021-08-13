@@ -3,29 +3,16 @@ metadata:
   title: Microsoft Edge Legacy
   description: Microsoft Edge Legacy sa riadi politikou životného cyklu súčastí.
   ms.date: 08/24/2020
-  ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908899"
 name: Microsoft Edge Legacy
-summary: >
-  Microsoft Edge Legacy sa riadi politikou životného cyklu [súčastí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
-
-
-
-  > [!IMPORTANT]
-
-  > Upozorňujeme, že podpora staršej verzie tohto produktu končí 9. marca 2021. Ďalšie informácie získate [tu](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
+summary: "Microsoft Edge Legacy sa riadi politikou životného cyklu [súčastí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).\n\n\n> [!IMPORTANT]\n> Upozorňujeme, že podpora staršej verzie tohto produktu končí 9.\_marca\_2021. Ďalšie informácie získate [tu](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).\n"
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: component
 supportDates:
   start: 07/29/2015
   end: 03/09/2021
 releases:
-- version: Original Release
-  startDate: 07/29/2015
-  endDate: 03/09/2021
-content: ''
+  - version: Original Release
+    startDate: 07/29/2015
+    endDate: 03/09/2021
+content: |+

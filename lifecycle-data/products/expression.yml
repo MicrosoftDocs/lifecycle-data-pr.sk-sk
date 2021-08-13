@@ -3,24 +3,34 @@ metadata:
   title: Expression
   description: Expression sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936242"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: Expression
-summary: "Expression sa riadi  [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.\n\nToto sa vzťahuje na nasledujúce edície: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. \n"
+summary: |
+  Expression sa riadi  [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
+
+  Toto sa vzťahuje na nasledujúce edície: Blend, Design, Encoder, Studio
+
+  > [!IMPORTANT]
+  > Podpora pre tento produkt bola ukončená. 
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Dátum začiatku aplikácie Expression Blend je 13. júla 2007. \n\n## <a name=\"editions\"></a>Vydania \n* Blend\n* Design\n* Encoder\n* Studio"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > Dátum začiatku aplikácie Expression Blend je 13. júla 2007. 
+
+  ## <a name="editions"></a>Vydania 
+  * Blend
+  * Design
+  * Encoder
+  * Studio
