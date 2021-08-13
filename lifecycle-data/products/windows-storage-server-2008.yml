@@ -4,18 +4,18 @@ metadata:
   description: Windows Storage Server 2008 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
   keywords: Basic,Basic 32-Bit,Basic 64-bit,Basic Embedded,Basic Embedded 32-bit,Enterprise,Enterprise Embedded,Standard,Standard Embedded,Workgroup
-  ms.openlocfilehash: 8953fec16d2e39e18ff29a4e7ad1f297888f0b75
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 7c8c31e0c0a097e251c7f9ee15281b81ba1478ad5f3944020029630aa1bcdd0d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939054"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2486466"
 name: Windows Storage Server 2008
 summary: >
   Windows Storage Server 2008 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-  Toto sa vzťahuje na nasledujúce vydania: Basic, Basic 32-bitová verzia, Basic 64-bitová verzia, Basic Embedded, Basic Embedded 32-bitová verzia, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
+  Toto sa vzťahuje na nasledujúce edície: Basic, Basic 32-bitová verzia, Basic 64-bitová verzia, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o migrácii](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informácie o upgrade servera](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Vydania \n* Basic\n* Basic 32-bitová verzia\n* Basic 64-bitová verzia\n* Basic Embedded\n* Basic Embedded 32-bitová verzia\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informácie o upgrade servera](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Vydania \n* Basic\n* Basic 32-bitová verzia\n* Basic 64-bitová verzia\n* Basic Embedded\n* Basic Embedded 32-bitová verzia\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"
