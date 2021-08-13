@@ -3,30 +3,29 @@ metadata:
   title: Microsoft Forefront Endpoint Protection 2010
   description: Microsoft Forefront Endpoint Protection 2010 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "862629"
 name: Microsoft Forefront Endpoint Protection 2010
-summary: >
+summary: |
   Microsoft Forefront Endpoint Protection 2010 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
-
   > [!IMPORTANT]
-
   > Podpora bola ukončená. Pozri informácie k migrácii uvedené nižšie.
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/31/2011
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 03/31/2011
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Informácie o servise](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Zákazníci musia mať vždy nainštalované najnovšie aktualizácie antimalvérovej platformy, aby mohli byť plne podporovaní. Forefront Endpoint Protection 2010 je pokrytá rovnakou politikou životného cyklu ako System Center Configuration Manager 2007 pre bežnú aj rozšírenú podporu."
+  - version: Original Release
+    startDate: 03/31/2011
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Informácie k migrácii](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)
+  * [Informácie o servise](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)
+
+  > [!NOTE]
+  > Zákazníci musia mať vždy nainštalované najnovšie aktualizácie antimalvérovej platformy, aby mohli byť plne podporovaní. Forefront Endpoint Protection 2010 je pokrytá rovnakou politikou životného cyklu ako System Center Configuration Manager 2007 pre bežnú aj rozšírenú podporu.
