@@ -3,22 +3,21 @@ metadata:
   title: Súprava Windows Automated Installation Kit pre systém Windows 7
   description: Súprava Windows Automated Installation Kit pre systém Windows 7 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837704"
 name: Súprava Windows Automated Installation Kit pre systém Windows 7
-summary: "Súprava Windows Automated Installation Kit pre systém Windows 7 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená.\n"
+summary: |
+  Súprava Windows Automated Installation Kit pre systém Windows 7 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. 
+
+
+  > [!IMPORTANT]
+  > Podpora pre tento produkt bola ukončená.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 01/13/2015
-content: ''
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 01/13/2015
+content: |+

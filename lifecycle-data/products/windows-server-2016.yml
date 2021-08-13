@@ -3,24 +3,42 @@ metadata:
   title: Windows Server 2016.
   description: Windows Server 2016 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/09/2021
-  keywords: 
-  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
-  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/28/2021
-  ms.locfileid: "2255259"
+  keywords: null
 name: Windows Server 2016.
-summary: "Windows Server 2016 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\n\nToto sa vzťahuje na nasledujúce edície: Datacenter, Essentials, MultiPoint Premium, Standard\n\n\n\n"
+summary: |+
+  Windows Server 2016 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. 
+
+
+  Toto sa vzťahuje na nasledujúce edície: Datacenter, Essentials, MultiPoint Premium, Standard
+
+
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/windows-server/get-started/server-basics)\n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n* [Životné cykly údržby kontajnera obrazu systému Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Kontajnery vydané so systémom Windows Server 2016 majú rovnaké dátumy životného cyklu.\n\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |+
+
+
+  ## <a name="links"></a>Odkazy 
+  * [Informácie o produkte](/windows-server/get-started/server-basics)
+  * [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)
+  * [Životné cykly údržby kontajnera obrazu systému Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
+
+
+  > [!NOTE]
+  > Kontajnery vydané so systémom Windows Server 2016 majú rovnaké dátumy životného cyklu.
+
+
+  ## <a name="editions"></a>Vydania 
+  * Datacenter
+  * Essentials
+  * MultiPoint Premium
+  * Standard

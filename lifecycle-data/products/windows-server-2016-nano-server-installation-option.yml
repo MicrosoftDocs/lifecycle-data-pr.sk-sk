@@ -3,28 +3,30 @@ metadata:
   title: Možnosť inštalácie systému Windows Server 2016 Nano Server
   description: Možnosť inštalácie systému Windows Server 2016 Nano Server sa riadi modernou politikou životného cyklu.
   ms.date: 09/01/2020
-  keywords: Datacenter,Standard
-  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939424"
+  keywords: 'Datacenter,Standard'
 name: Možnosť inštalácie systému Windows Server 2016 Nano Server
-summary: >+
+summary: |+
   Možnosť inštalácie systému Windows Server 2016 Nano Server sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
-
 
   Toto sa vzťahuje na nasledujúce edície: Datacenter, Standard
 
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/15/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o servise](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 10/09/2018
+content: |
+
+  ## <a name="links"></a>Odkazy 
+  * [Informácie o servise](/windows-server/get-started/nano-in-semi-annual-channel)
+  * [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>Vydania 
+  * Datacenter
+  * Standard

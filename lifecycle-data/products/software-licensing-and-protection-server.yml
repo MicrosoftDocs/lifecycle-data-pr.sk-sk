@@ -3,33 +3,32 @@ metadata:
   title: Software Licensing and Protection Server
   description: Software Licensing and Protection Server sa riadi pevnou politikou životného cyklu.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001072"
+  keywords: 'Enterprise,Standard'
 name: Software Licensing and Protection Server
-summary: >
+summary: |
   Software Licensing and Protection Server sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
-
 
   Platí to pre nasledujúce vydania: Enterprise, Standard
 
-
   > [!IMPORTANT]
-
   > Z dôvodu odpredaja servera na licencovanie a ochranu softvéru Software Licensing and Protection Server (SLPS), spoločnosť Microsoft podporuje SLPS do 24. septembra 2009.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Vydania \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Odkazy 
+  * [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Vydania 
+  * Enterprise
+  * Standard
