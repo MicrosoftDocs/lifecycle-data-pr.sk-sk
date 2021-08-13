@@ -3,29 +3,40 @@ metadata:
   title: Microsoft Office 2008 pre Mac
   description: Microsoft Office 2008 pre Mac sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
-  keywords: Business,Home and Student,Special Media Editon
-  ms.openlocfilehash: ba599ca4191c7e1a219f31d77797c9799adeca7c
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162423"
+  keywords: 'Business,Home and Student,Special Media Editon'
 name: Microsoft Office 2008 pre Mac
-summary: "Microsoft Office 2008 pre Mac sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Business, Home and Student, Special Media Edition\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. \n"
+summary: |
+  Microsoft Office 2008 pre Mac sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. 
+
+  Toto sa vzťahuje na nasledujúce edície: Business, Home and Student, Special Media Edition
+
+  > [!IMPORTANT]
+  > Podpora pre tento produkt bola ukončená. 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/15/2008
   end: 04/09/2013
 releases:
-- version: Service Pack 2
-  startDate: 07/20/2009
-  endDate: 04/09/2013
-- version: Service Pack 1
-  startDate: 05/13/2008
-  endDate: 10/12/2010
-- version: Original Release
-  startDate: 01/15/2008
-  endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Počiatočný dátum dostupnosti balíka Special Media Edition Office 2008 pre Mac je 12. marec 2008.\n\n## <a name=\"editions\"></a>Vydania \n* Business\n* Pre domácnosti a študentov\n* Special Media Editon"
+  - version: Service Pack 2
+    startDate: 07/20/2009
+    endDate: 04/09/2013
+  - version: Service Pack 1
+    startDate: 05/13/2008
+    endDate: 10/12/2010
+  - version: Original Release
+    startDate: 01/15/2008
+    endDate: 07/14/2009
+content: |
+
+  ## <a name="links"></a>Odkazy 
+  * [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Počiatočný dátum dostupnosti balíka Special Media Edition Office 2008 pre Mac je 12. marec 2008.
+
+  ## <a name="editions"></a>Vydania 
+  * Business
+  * Pre domácnosti a študentov
+  * Special Media Editon
