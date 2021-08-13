@@ -3,23 +3,26 @@ metadata:
   title: Windows Azure Pack (v systéme Windows Server 2016)
   description: Windows Azure Pack (vo Windows Server 2016) sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "862351"
 name: Windows Azure Pack (v systéme Windows Server 2016)
-summary: "Windows Azure Pack (vo Windows Server 2016) sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\n\n"
+summary: |+
+  Windows Azure Pack (vo Windows Server 2016) sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. 
+
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/12/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/12/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Ďalšie informácie](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure Pack pre Windows Server je hybridné cloudové riešenie, ktoré prináša technológie Windows Azure do vášho údajového centra. Umožňuje zákazníkom Microsoftu na hardvéri svojho dátového centra bez ďalších nákladov ponúkať bohatý, samoobslužný cloud s viacerými nájomníkmi."
+  - version: Original Release
+    startDate: 10/12/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Ďalšie informácie](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+  > [!NOTE]
+  > Windows Azure Pack pre Windows Server je hybridné cloudové riešenie, ktoré prináša technológie Windows Azure do vášho údajového centra. Umožňuje zákazníkom Microsoftu na hardvéri svojho dátového centra bez ďalších nákladov ponúkať bohatý, samoobslužný cloud s viacerými nájomníkmi.

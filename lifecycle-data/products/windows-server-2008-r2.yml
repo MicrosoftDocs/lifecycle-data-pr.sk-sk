@@ -3,36 +3,53 @@ metadata:
   title: Windows Server 2008 R2.
   description: Windows Server 2008 R2 sa riadi pevnou politikou životného cyklu.
   ms.date: 04/23/2021
-  keywords: 
-  ms.openlocfilehash: 46aa19023778be7f5a94f58f76ba81119e32c6b7
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029891"
+  keywords: null
 name: Windows Server 2008 R2.
-summary: "Systém Windows Server 2008 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto sa vzťahuje na nasledujúce edície: Datacenter, Enterprise, HPC Edition, Systémy s procesorom Itanium, Standard, Web\n\n> [!IMPORTANT]\n> Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie. \n"
+summary: |
+  Systém Windows Server 2008 R2 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. 
+
+  Toto sa vzťahuje na nasledujúce edície: Datacenter, Enterprise, HPC Edition, Systémy s procesorom Itanium, Standard, Web
+
+  > [!IMPORTANT]
+  > Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Extended Security Update Year 3
-  startDate: 01/11/2022
-  endDate: 01/10/2023
-- version: Extended Security Update Year 2
-  startDate: 01/12/2021
-  endDate: 01/11/2022
-- version: Extended Security Update Year 1
-  startDate: 01/14/2020
-  endDate: 01/12/2021
-- version: Service Pack 1
-  startDate: 02/22/2011
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 04/09/2013
-content: "> [!TIP]\n> *Program rozšírených aktualizácií zabezpečenia (ESU) je k dispozícii pre verzie Datacenter, Standard, Enterprise a Embedded tohto produktu na ďalšie tri roky po skončení poskytovania podpory. Ak sa chcete dozvedieť viac, obráťte sa na svojho partnera spoločnosti Microsoft alebo tím obchodného vzťahu. \n\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](https://aka.ms/AA1ovn4)\n* [Informácie o upgrade servera](/windows-server/upgrade/upgrade-overview)\n* [Program rozšírených aktualizácií zabezpečenia (ESU)](/lifecycle/faq/extended-security-updates)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Enterprise\n* HPC Vydanie\n* Systémy s procesorom Itanium\n* Standard\n* Web"
+  - version: Extended Security Update Year 3
+    startDate: 01/11/2022
+    endDate: 01/10/2023
+  - version: Extended Security Update Year 2
+    startDate: 01/12/2021
+    endDate: 01/11/2022
+  - version: Extended Security Update Year 1
+    startDate: 01/14/2020
+    endDate: 01/12/2021
+  - version: Service Pack 1
+    startDate: 02/22/2011
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 04/09/2013
+content: |
+  > [!TIP]
+  > *Program rozšírených aktualizácií zabezpečenia (ESU) je k dispozícii pre verzie Datacenter, Standard, Enterprise a Embedded tohto produktu na ďalšie tri roky po skončení poskytovania podpory. Ak sa chcete dozvedieť viac, obráťte sa na svojho partnera spoločnosti Microsoft alebo tím obchodného vzťahu. 
+
+  ## <a name="links"></a>Odkazy 
+  * [Informácie k migrácii](https://aka.ms/AA1ovn4)
+  * [Informácie o upgrade servera](/windows-server/upgrade/upgrade-overview)
+  * [Program rozšírených aktualizácií zabezpečenia (ESU)](/lifecycle/faq/extended-security-updates)
+  * [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Vydania 
+  * Datacenter
+  * Enterprise
+  * HPC Vydanie
+  * Systémy s procesorom Itanium
+  * Standard
+  * Web

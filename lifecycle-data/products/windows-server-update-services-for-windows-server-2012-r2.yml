@@ -3,23 +3,25 @@ metadata:
   title: Windows Server Update Services pre Windows Server 2012 R2
   description: Windows Server Update Services pre Windows Server 2012 R2 sa riadi politikou životného cyklu súčastí.
   ms.date: 01/22/2021
-  keywords: 
-  ms.openlocfilehash: efa11337dbeba8601a1ef70ef003f709f286e6b6
-  ms.sourcegitcommit: cea6a4b7fe734aba8b534ecdef302cb56c5f7cca
-  ms.translationtype: HT
-  ms.contentlocale: sk-SK
-  ms.lasthandoff: 01/23/2021
-  ms.locfileid: "1416765"
+  keywords: null
 name: Windows Server Update Services pre Windows Server 2012 R2
-summary: "Windows Server Update Services pre systém Windows Server 2012 R2 sa riadi politikou životného cyklu [súčastí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n"
+summary: |+
+  Windows Server Update Services pre systém Windows Server 2012 R2 sa riadi politikou životného cyklu [súčastí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). 
+
+
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 11/25/2013
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "> [!TIP]\n> Táto súčasť nasleduje životný cyklus svojho nadradeného produktu, Windows Server 2012 R2\n\n## <a name=\"links\"></a>Odkazy \n* [Windows Server 2012 R2](/lifecycle/)"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |+
+  > [!TIP]
+  > Táto súčasť nasleduje životný cyklus svojho nadradeného produktu, Windows Server 2012 R2
+
+  ## <a name="links"></a>Odkazy 
+  * [Windows Server 2012 R2](/lifecycle/)
