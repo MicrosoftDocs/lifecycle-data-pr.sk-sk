@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2022
+  description: Windows Server IoT 2022 sa riadi pevnou politikou životného cyklu.
+  ms.date: 09/30/2021
+  keywords: 
+  ms.openlocfilehash: 88410d389a0328a58d5df7cd5b20e279318fe968
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.translationtype: HT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508084"
+name: Windows Server IoT 2022
+summary: >+
+  Windows Server IoT 2022 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
+
+
+
+  Toto sa týka nasledujúcich vydaní: Datacenter, Standard, Storage Standard, Storage Workgroup, Telecommunications
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n\n\n> [!NOTE]\n> Microsoft Edge sa riadi [modernou politikou životného cyklu](https://docs.microsoft.com/lifecycle/policies/modern). Prečítajte si [dokumentáciu o životnom cykle prehliadača Edge](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle), kde nájdete informácie o tom, ako prehliadač aktualizovať a ako zostať podporovaný.\n\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Standard\n* Storage Standard\n* Storage Workgroup\n* Telecommunications"
