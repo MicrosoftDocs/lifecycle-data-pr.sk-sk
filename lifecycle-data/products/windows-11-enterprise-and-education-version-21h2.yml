@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Enterprise a Education (verzia 21H2)
+  description: Windows 11 Enterprise a Education (verzia 21H2) sa riadia modernou politikou životného cyklu.
+  ms.date: 09/22/2021
+  keywords: 
+  ms.openlocfilehash: 8bccbb271d78ef9b03d0a2d9f92c78984e775f88
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509445"
+name: Windows 11 Enterprise a Education (verzia 21H2)
+summary: >+
+  Windows 11 Enterprise a Education (verzia 21H2) sa riadia [modernou](/lifecycle/policies/modern) politikou životného cyklu.
+
+
+
+  Toto sa vzťahuje na nasledujúce edície: Education, Enterprise
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/08/2024
+releases:
+- version: Original Release
+  startDate: 10/04/2021
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Systém Windows ako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Najčastejšie otázky o životnom cykle – Windows](/lifecycle/faq/windows)\n* [Ďalšie zdroje informácií o Windowse](/windows/resources/)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n* [Windows 11 Home a Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> V prípade, že nie sú odložené, ďalšie aktualizácie funkcií systému Windows 11 môžu byť nainštalované ešte pred uvedeným dátumom ukončenia bežnej podpory.\n\n\n## <a name=\"editions\"></a>Vydania \n* Education\n* Enterprise"

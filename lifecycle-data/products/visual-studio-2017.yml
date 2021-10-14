@@ -2,16 +2,16 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 sa riadi pevnou politikou životného cyklu.
-  ms.date: 09/01/2020
-  keywords: Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable
-  ms.openlocfilehash: 3d18c69ca30e8e83d7fcfb97557513191974df14a0af404cb66889f653f03b54
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 1026f138c847797213d0bb84b3df630e5c338f99
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2506335"
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509229"
 name: Visual Studio 2017
-summary: "Visual Studio 2017 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nPlatí to pre nasledujúce vydania: Agenti, Build Tools, komunita, Enterprise, ESM, Feedback Client, pre Mac, IntelliTrace Standalone Collector, Výkonnostné nástroje, Professional, PSM, Vzdialené nástroje, Team Explorer, Test Professional, Visual C++ Redistributable\n\n"
+summary: "Visual Studio 2017 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\n\nToto sa vzťahuje na nasledujúce vydania: Community, Enterprise, Professional, Test Professional\n\n\n\n"
 products:
 - vs
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Oznámenie](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Informácie o servise](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Vydania \n* Agents\n* Nástroje na zostavenie\n* Community\n* Enterprise\n* ESM\n* Klient pre spätnú väzbu\n* pre Mac\n* IntelliTrace Standalone Collector\n* Výkonnostné nástroje\n* Professional\n* PSM\n* Vzdialené nástroje\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Visual Studio – blogové oznámenia](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Informácie o servise](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n* [Visual Studio 2017 – stránka na stiahnutie](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202017)\n* [Visual Studio 2017 – poznámky k vydaniu](/visualstudio/releasenotes/vs2017-relnotes)\n\n\n> [!NOTE]\n> Verzie nasledujúcich komponentov pre Visual Studio 2017 sa dodávajú a podporujú ako súčasti životného cyklu Visual Studio 2017: Agenti, nástroje na zostavovanie, ESM, Feedback Client, samostatný kolektor IntelliTrace, výkonnostné nástroje, PSM, vzdialené nástroje, Team Explorer, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Vydania \n* Community\n* Enterprise\n* Professional\n* Test Professional"
