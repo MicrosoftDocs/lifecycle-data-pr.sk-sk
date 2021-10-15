@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 sa riadi pevnou politikou životného cyklu.
-  ms.date: 10/04/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 68a9d61205020193274f000d8aac5983e94b0b5d
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509192"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514233"
 name: Visual Studio 2012
 summary: >+
   Visual Studio 2012 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Informácie o poskytovaní služby pre staršie verzie programu Visual Studio](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Politika balíkov Service Pack](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Verzie nasledujúcich komponentov pre Visual Studio 2012 sa dodávajú a podporujú ako súčasti životného cyklu Visual Studio 2012: Agenti, kolektor IntelliTrace, Microsoft Azure Tools, Remote Tools, SDK, Shell (integrované) Shell (izolované), SQL Server Data Tools, Team Explorer, Visual C++ Redistributable, rozšírenia webových nástrojov.\n\n\n## <a name=\"editions\"></a>Vydania \n* Express for Web\n* Express pre Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Informácie o poskytovaní služby pre staršie verzie programu Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Verzie nasledujúcich komponentov pre Visual Studio 2012 sa dodávajú a podporujú ako súčasti životného cyklu Visual Studio 2012: Agenti, kolektor IntelliTrace, Microsoft Azure Tools, Remote Tools, SDK, Shell (integrované) Shell (izolované), SQL Server Data Tools, Team Explorer, Visual C++ Redistributable, rozšírenia webových nástrojov.\n\n\n## <a name=\"editions\"></a>Vydania \n* Express for Web\n* Express pre Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
