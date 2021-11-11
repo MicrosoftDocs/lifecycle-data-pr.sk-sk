@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 sa riadi pevnou politikou životného cyklu.
-  ms.date: 09/20/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: e23223d9d0a238c2d9784b25ab84a2195705951c
-  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.openlocfilehash: 0f9b64cda589aef8e2cee22444c63d61d955e158
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 09/21/2021
-  ms.locfileid: "3460620"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546724"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
@@ -43,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Visual Studio – blogové oznámenia](https://devblogs.microsoft.com/visualstudio/)\n* [Informácie o servise](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 – stránka na stiahnutie](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 – poznámky k vydaniu](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> Verzie nasledujúcich komponentov pre Visual Studio 2019 sa dodávajú a sú podporované ako súčasti životného cyklu Visual Studio 2019: Agenti, nástroje na zostavovanie, Community, Enterprise, samostatný kolektor IntelliTrace, výkonnostné nástroje, vzdialené nástroje, Team Explorer a Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Vydania \n* Community\n* Enterprise\n* Professional"
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Visual Studio – blogové oznámenia](https://devblogs.microsoft.com/visualstudio/)\n* [Informácie o podpore a životnom cykle](/visualstudio/releases/2019/servicing-vs2019)\n* [Visual Studio 2019 – stránka na stiahnutie](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 – poznámky k vydaniu](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> Ako súčasti životného cyklu Visual Studio 2019 sa dodávajú a podporujú verzie nasledujúcich komponentov pre Visual Studio 2019: Agenti, nástroje na zostavenie, IntelliTrace Standalone Collector, výkonnostné nástroje, vzdialené nástroje, Team Explorer a Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Vydania \n* Community\n* Enterprise\n* Professional"

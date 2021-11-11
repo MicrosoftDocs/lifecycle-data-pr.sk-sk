@@ -2,22 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge sa riadi modernou politikou životného cyklu.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560073"
 name: Microsoft Edge
-summary: "Microsoft Edge sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.\n\n\n\n\n> [!IMPORTANT]\n> Upozorňujeme, že podpora staršej verzie tohto produktu končí 9.\_marca\_2021. Ďalšie informácie získate [tu](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).\n\n"
+summary: >+
+  Microsoft Edge sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Upozorňujeme, že podpora staršej verzie tohto produktu končí 9. marca 2021. Ďalšie informácie získate [tu](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
+
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>Odkazy 
-  * [Podporované operačné systémy Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)
-  * [Najčastejšie otázky o životnom cykle - Internet Explorer a Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Politika životného cyklu prehliadača Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Podporované operačné systémy Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Nové prostriedky na urýchlenie prechodu na Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Najčastejšie otázky o životnom cykle - Internet Explorer a Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Politika životného cyklu prehliadača Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
