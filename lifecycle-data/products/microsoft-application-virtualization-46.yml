@@ -3,44 +3,33 @@ metadata:
   title: Microsoft Application Virtualization 4.6
   description: Microsoft Application Virtualization 4.6 sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
-  keywords: 'for Remote Desktop Services,for Windows Desktops,Sequencer'
+  keywords: for Remote Desktop Services,for Windows Desktops,Sequencer
+  ms.openlocfilehash: fb533aa91b47539b019872143dbfa2fcdd3d5cb0
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4127706"
 name: Microsoft Application Virtualization 4.6
-summary: |+
-  Microsoft Application Virtualization 4.6 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. 
-
-  Toto platí pre nasledujúce vydania: pre služby vzdialenej pracovnej plochy, pre Windows Desktops, Sequencer
-
+summary: "Microsoft Application Virtualization 4.6 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu. \n\nToto platí pre nasledujúce vydania: pre služby vzdialenej pracovnej plochy, pre Windows Desktops, Sequencer\n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 05/27/2010
-  end: 07/14/2015
-  extendedEnd: 07/14/2020
+  start: 2010-05-27T00:00:00.000-08:00
+  end: 2015-07-14T22:59:59.999-08:00
+  extendedEnd: 2020-07-14T22:59:59.999-08:00
 releases:
-  - version: Service Pack 3
-    startDate: 12/02/2013
-    endDate: 07/14/2020
-  - version: Service Pack 2
-    startDate: 10/01/2012
-    endDate: 01/13/2015
-  - version: Service Pack 1
-    startDate: 01/26/2011
-    endDate: 10/08/2013
-  - version: Original Release
-    startDate: 05/27/2010
-    endDate: 04/10/2012
-content: |
-
-  ## <a name="links"></a>Odkazy 
-  * [Informácie o produkte a migrácii](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
-  * [Informácie k migrácii](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)
-  * [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)
-
-  > [!NOTE]
-  > Keďže klient App-V 4.6 využíva server App-V 4.5, server App-V 4.5 bude v prípade používania s podporovaným klientom App-V 4.6 naďalej podporovaný podľa dátumov životného cyklu App-V 4.6.
-
-  ## <a name="editions"></a>Vydania 
-  * pre služby vzdialenej pracovnej plochy
-  * pre Windows Desktops
-  * Sequencer
+- version: Service Pack 3
+  startDate: 2013-12-02T00:00:00.000-08:00
+  endDate: 2020-07-14T22:59:59.999-08:00
+- version: Service Pack 2
+  startDate: 2012-10-01T00:00:00.000-08:00
+  endDate: 2015-01-13T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2011-01-26T00:00:00.000-08:00
+  endDate: 2013-10-08T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2010-05-27T00:00:00.000-08:00
+  endDate: 2012-04-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte a migrácii](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Informácie k migrácii](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Politika balíkov Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Keďže klient App-V 4.6 využíva server App-V 4.5, server App-V 4.5 bude v prípade používania s podporovaným klientom App-V 4.6 naďalej podporovaný podľa dátumov životného cyklu App-V 4.6.\n\n## <a name=\"editions\"></a>Vydania \n* pre služby vzdialenej pracovnej plochy\n* pre Windows Desktops\n* Sequencer"
