@@ -3,22 +3,29 @@ metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen sa riadi pevnou politikou životného cyklu.
   ms.date: 09/10/2020
-  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
+  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
+  ms.openlocfilehash: c649ed6ae2b9ba18e16929dea3b09d230f061028
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155789"
 name: Microsoft Antigen
-summary: |+
+summary: >+
   Microsoft Antigen sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
+
 
   Toto sa vzťahuje na nasledujúce edície: 9.0 for Exchange, Enterprise Manager 9.0, for SMTP Gateways, Spam Manager
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 07/17/2006
-  end: 04/08/2014
-  extendedEnd: 12/31/2015
+  start: 2006-07-17T00:00:00.000-08:00
+  end: 2014-04-08T22:59:59.999-08:00
+  extendedEnd: 2015-12-31T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/17/2006
-    endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Plán pre bezpečnostné produkty pod značkou Forefront sa zmenil.\_Tento produkt bol ukončený 31. decembra 2015.\n\n## <a name=\"editions\"></a>Vydania \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* pre SMTP Gateways\n* Spam Manager\n"
+- version: Original Release
+  startDate: 2006-07-17T00:00:00.000-08:00
+  endDate: 2015-12-31T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Plán pre bezpečnostné produkty pod značkou Forefront sa zmenil. Tento produkt bol ukončený 31. decembra 2015.\n\n## <a name=\"editions\"></a>Vydania \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* pre SMTP Gateways\n* Spam Manager\n"

@@ -3,29 +3,28 @@ metadata:
   title: Microsoft Office 2019 pre Mac
   description: Microsoft Office 2019 pre Mac sa riadi pevnou politikou životného cyklu.
   ms.date: 09/01/2020
-  keywords: 'Academic,Home and Business,Home and Student,Standard'
+  keywords: Academic,Home and Business,Home and Student,Standard
+  ms.openlocfilehash: c48992e8a23900c03aa26c28630031eb1fbf3954
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107097"
 name: Microsoft Office 2019 pre Mac
-summary: |+
+summary: >+
   Microsoft Office 2019 pre Mac sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
+
 
   Toto platí pre nasledujúce vydania: Academic, Home and Business, Home and Student, Standard
 
 products:
-  - office
+- office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 09/24/2018
-  end: 10/10/2023
+  start: 2018-09-24T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/24/2018
-    endDate: 10/10/2023
-content: |
-
-
-
-  ## <a name="editions"></a>Vydania 
-  * Academic
-  * Home and Business
-  * Pre domácnosti a študentov
-  * Standard
+- version: Original Release
+  startDate: 2018-09-24T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>Vydania \n* Academic\n* Home and Business\n* Pre domácnosti a študentov\n* Standard"

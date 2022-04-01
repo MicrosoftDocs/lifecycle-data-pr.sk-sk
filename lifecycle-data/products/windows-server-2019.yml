@@ -4,12 +4,12 @@ metadata:
   description: Windows Server 2019 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/09/2021
   keywords: 
-  ms.openlocfilehash: e34081f9884772bcc3d6aa54162cdaa565e9855a885118a5c778fba95408c6e4
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 38d26e4f3995db4395f241fe8bfd19c21ea0da05
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sk-SK
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2486577"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134847"
 name: Windows Server 2019
 summary: >+
   Windows Server 2019 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
@@ -24,11 +24,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 11/13/2018
-  end: 01/09/2024
-  extendedEnd: 01/09/2029
+  start: 2018-11-13T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-  endDate: 01/09/2029
+  startDate: 2018-11-13T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/windows-server/get-started-19/whats-new-19)\n* [Aktualizácia dostupnosti systému Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [Často kladené otázky o životnom cykle produktov Windows](/lifecycle/faq/windows)\n* [Životné cykly údržby základnej bitovej kópie kontajnera systému Windows.](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Kontajnery vydané so systémom Windows Server 2019 majú rovnaké dátumy životného cyklu.\n> [!NOTE]\n> Windows Server 2019 a Windows Server, verzia 1809 boli znovu vydané 13. novembra 2018. Dátumy podpory boli tomu prispôsobené.\n\n\n## <a name=\"editions\"></a>Vydania \n* Datacenter\n* Essentials\n* Standard"

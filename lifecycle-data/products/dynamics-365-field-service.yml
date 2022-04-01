@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Služba u zákazníka Dynamics 365
+  description: Služba u zákazníka Dynamics 365 sa riadi modernou politikou životného cyklu.
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile, mobile
+  ms.openlocfilehash: 76b0b6832ddeb85a55d84e377c8d26482e7eb87d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157066"
+name: Služba u zákazníka Dynamics 365
+summary: >+
+  Služba u zákazníka Dynamics 365 sa riadi [modernou](/lifecycle/policies/modern) politikou životného cyklu.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Upozorňujeme, že staršia aplikácia Field Service Mobile (Xamarin) sa vyradí 30. júna 2022. Zákazníci by mali pred týmto dátumom migrovať na mobilnú aplikáciu [Služba u zákazníka (Dynamics 365)](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform). Ďalšie informácie nájdete v [najčastejšej otázke týkajúcej sa ukončenia podpory aplikácie Field Service Mobile Xamarin](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs).
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Informácie o produkte](/dynamics365/field-service/overview)\n* [Informácie o migrácii mobilnej aplikácie do služby u zákazníka Dynamics 365](https://aka.ms/fsmobile-adoption)"

@@ -1,13 +1,13 @@
 ---
 title: Produkty, ktorým končí podpora v roku 2016
 description: Zistite, ktoré produkty budú v roku 2016 vyradené z ponuky, ktorých podpora skončí alebo ktoré sa presunú z bežnej do rozšírenej podpory.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028896"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117568"
 ---
 # <a name="products-ending-support-in-2016"></a>Produkty, ktorým končí podpora v roku 2016
 
@@ -20,13 +20,6 @@ Ak máte akékoľvek otázky týkajúce sa podpory produktu, obráťte sa na zá
 
 
 
-## <a name="release-end-of-servicing"></a>Vydanie konca poskytovania služby
-
-Nasledujúcim vydaniam produktov, ktoré sa riadia [modernou politikou](/lifecycle/policies/modern), sa skončí podpora v roku 2016.
-
-| Produkt | Koniec údržby |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, verzia 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | štvrtok, 8. decembra 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkty s blížiacim sa ukončením podpory

@@ -3,26 +3,30 @@ metadata:
   title: Microsoft System Center Configuration Manager 2007 R3
   description: Microsoft System Center Configuration Manager 2007 R3 sa riadi pevnou politikou životného cyklu.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 1066e1999c057459643c64aba46bb88e34bb4842
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4137437"
 name: Microsoft System Center Configuration Manager 2007 R3
-summary: |
+summary: >
   Microsoft System Center Configuration Manager 2007 R3 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
 
 
+
   > [!IMPORTANT]
+
   > Podpora pre tento produkt bola ukončená. Pozri informácie k migrácii uvedené nižšie.
 products:
-  - msc
+- msc
 policyType: fixed
 supportDates:
-  start: 12/19/2010
-  end: 07/08/2014
-  extendedEnd: 07/09/2019
+  start: 2010-12-19T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
+  extendedEnd: 2019-07-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/19/2010
-    endDate: 07/09/2019
-content: |+
-
-  ## <a name="links"></a>Odkazy 
-  * [Informácie k migrácii](/mem/configmgr/core/migration/migrate-data-between-hierarchies)
-  * [Dodatočné informácie k migrácii](/mem/configmgr/core/migration/planning-for-migration)
+- version: Original Release
+  startDate: 2010-12-19T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informácie k migrácii](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Dodatočné informácie k migrácii](/mem/configmgr/core/migration/planning-for-migration)"

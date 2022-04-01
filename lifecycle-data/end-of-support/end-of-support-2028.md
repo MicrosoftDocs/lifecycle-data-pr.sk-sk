@@ -1,13 +1,13 @@
 ---
 title: Produkty, ktorým končí podpora v roku 2028
 description: Zistite, ktoré produkty budú v roku 2028 vyradené z ponuky, ktorých podpora skončí alebo ktoré sa presunú z bežnej do rozšírenej podpory.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028544"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116976"
 ---
 # <a name="products-ending-support-in-2028"></a>Produkty, ktorým končí podpora v roku 2028
 
@@ -39,3 +39,11 @@ Nasledujúcim produktom a vydaniam, ktoré sa riadia [pevnou politikou](/lifecyc
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | utorok, 11. júla 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Produkty prechádzajúce na rozšírenú podporu
+
+Nasledujúce produkty prejdú v roku 2028 z bežnej na rozšírenú podporu. Rozšírená podpora zahŕňa aktualizácie zabezpečenia zdarma a platené aktualizácie a podporu, ktoré sa netýkajú zabezpečenia. Okrem toho spoločnosť Microsoft neprijíma žiadosti o zmeny dizajnu alebo nové funkcie počas fázy rozšírenej podpory.
+
+| Produkt | Ukončenie poskytovania bežnej podpory |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | utorok, 11. apríla 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | utorok, 11. júla 2028 |

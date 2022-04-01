@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Visual Studio 2022 '
+  description: Visual Studio 2022 sa riadi pevnou politikou životného cyklu.
+  ms.date: 11/05/2021
+  keywords: 
+  ms.openlocfilehash: 4c4a28cfa9ed1963deb6afc84c17c4003b8e65a8
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157226"
+name: 'Visual Studio 2022 '
+summary: >+
+  Visual Studio 2022 sa riadi [pevnou](/lifecycle/policies/fixed) politikou životného cyklu.
+
+
+
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 2021-11-08T00:00:00.000-08:00
+  end: 2027-01-12T22:59:59.999-08:00
+  extendedEnd: 2032-01-13T22:59:59.999-08:00
+releases:
+- version: Version 17.0 (LTSC channel)
+  startDate: 2021-11-08T00:00:00.000-08:00
+  endDate: 2023-07-11T22:59:59.999-08:00
+- version: Visual Studio 2022 (Current channel)
+  startDate: 2021-11-08T00:00:00.000-08:00
+  endDate: 2032-01-13T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Visual Studio – blogové oznámenia](https://devblogs.microsoft.com/visualstudio/)\n* [Informácie o podpore a životnom cykle](/visualstudio/releases/2022/servicing-vs2022)\n* [Visual Studio – stránka na stiahnutie](https://visualstudio.microsoft.com/)\n* [Visual Studio – poznámky k vydaniu](/visualstudio/releases/2022/release-notes)\n* [Systémové požiadavky](/visualstudio/releases/2022/system-requirements)\n\n\n> [!NOTE]\n> Verzie nasledujúcich súčastí pre Visual Studio 2022 sa dodávajú a podporujú ako súčasť životného cyklu Visual Studio 2022: Agenti, nástroje na zostavovanie, samostatný kolektor IntelliTrace, výkonnostné nástroje, vzdialené nástroje, Team Explorer a Visual C++ Redistributable.\n> [!NOTE]\n> Vydanie Visual Studio Community je podporované len v aktuálnom kanáli s najnovším vydaním údržby najnovšej vedľajšej verzie Visual Studio. Ďalšie informácie získate [tu](https://docs.microsoft.com/visualstudio/releases/2022/servicing-vs2022)."
