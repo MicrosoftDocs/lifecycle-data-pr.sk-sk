@@ -1,13 +1,13 @@
 ---
 title: Produkty, ktorým končí podpora v roku 2032
 description: Zistite, ktoré produkty budú v roku 2032 vyradené z ponuky, ktorých podpora skončí alebo ktoré sa presunú z bežnej do rozšírenej podpory.
-ms.date: 11/16/2021
-ms.openlocfilehash: f2689d6e4647835f474d719889f30caa4cbb0d2a
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 05/05/2022
+ms.openlocfilehash: 45a8fbc90e79c804fb76c4df0a6b04c8c8be10d9
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4116754"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518172"
 ---
 # <a name="products-ending-support-in-2032"></a>Produkty, ktorým končí podpora v roku 2032
 
@@ -29,5 +29,6 @@ Nasledujúcim produktom a vydaniam, ktoré sa riadia [pevnou politikou](/lifecyc
 | Produkt | Ukončenie podpory |
 | --- | --- |
 | [Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | utorok, 13. januára 2032 |
+| [System Center 2022 Data Protection Manager](/lifecycle/products/system-center-2022-data-protection-manager?branch=live)<br>[System Center 2022 Operations Manager](/lifecycle/products/system-center-2022-operations-manager?branch=live)<br>[System Center 2022 Orchestrator](/lifecycle/products/system-center-2022-orchestrator?branch=live)<br>[System Center 2022 Service Manager](/lifecycle/products/system-center-2022-service-manager?branch=live)<br>[System Center 2022 Virtual Machine Manager](/lifecycle/products/system-center-2022-virtual-machine-manager?branch=live)<br> | utorok 13. apríla 2032 |
 
 

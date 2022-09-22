@@ -1,13 +1,13 @@
 ---
 title: Produkty, ktorým končí podpora v roku 2019
 description: Zistite, ktoré produkty budú v roku 2019 vyradené z ponuky, ktorých podpora skončí alebo ktoré sa presunú z bežnej do rozšírenej podpory.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4029194"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518246"
 ---
 # <a name="products-ending-support-in-2019"></a>Produkty, ktorým končí podpora v roku 2019
 
@@ -24,7 +24,6 @@ Nasledujúce produkty, ktoré sa riadia [modernou politikou](/lifecycle/policie
 
 | Produkt | Vyradené z ponuky |
 | --- | --- |
-| [Azure Plánovač](/lifecycle/products/azure-scheduler?branch=live)<br> | pondelok, 30. septembra 2019 |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | sobota, 16. novembra 2019 |
 
 
@@ -34,6 +33,7 @@ Nasledujúcim vydaniam produktov, ktoré sa riadia [modernou politikou](/lifecyc
 
 | Produkt | Koniec údržby |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | streda 13. februára 2019 |
 | [Visual Studio pre Mac, Visual Studio 2017 pre Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | piatok, 8. marca 2019 |
 | [Windows 10 Enterprise and Education, verzia 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home a Pro, verzia 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, verzia 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, verzia 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, verzia 1709](/lifecycle/products/windows-server?branch=live)<br> | utorok, 9. apríla 2019 |
 | [Microsoft Endpoint Configuration Manager, verzia 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | pondelok, 20. mája 2019 |
