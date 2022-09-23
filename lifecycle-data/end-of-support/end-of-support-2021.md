@@ -1,13 +1,13 @@
 ---
 title: Produkty, ktorým končí podpora v roku 2021
 description: Zistite, ktoré produkty budú v roku 2021 vyradené z ponuky, ktorých podpora skončí alebo ktoré sa presunú z bežnej do rozšírenej podpory.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117494"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520848"
 ---
 # <a name="products-ending-support-in-2021"></a>Produkty, ktorým končí podpora v roku 2021
 
@@ -37,12 +37,12 @@ Nasledujúcim vydaniam produktov, ktoré sa riadia [modernou politikou](/lifecyc
 | Produkt | Koniec údržby |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, verzia 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | utorok, 26. januára 2021 |
+| [Azure IoT Edge, verzia 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | pondelok 1. februára 2021 |
 | [Lokálny systém Dynamics 365 Business Central (moderná politika), vydanie 2019, 2. vlna, verzia 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13. apríla 2021 |
 | [Windows 10 Enterprise and Education, verzia 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise and Education, verzia 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home a Pro, verzia 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, verzia 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, verzia 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, verzia 1909](/lifecycle/products/windows-server?branch=live)<br> | 11. máj 2021 |
-| [Microsoft Endpoint Configuration Manager, verzia 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, verzia 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | sobota, 29. mája 2021 |
+| [Microsoft Endpoint Configuration Manager, verzia 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | sobota, 29. mája 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | sobota, 21. augusta 2021 |
 | [Microsoft Endpoint Configuration Manager, verzia 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | piatok, 1. októbra 2021 |
-| [Lokálny systém Dynamics 365 Business Central (moderná politika), vydanie 2020, 1. vlna, verzia 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12. októbra 2021 |
 | [Windows 10 Enterprise and Education, verzia 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home a Pro, verzia 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, verzia 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, verzia 2004](/lifecycle/products/windows-server?branch=live)<br> | utorok, 14. decembra 2021 |
 
 
