@@ -1,13 +1,13 @@
 ---
 title: Produkty, ktorým končí podpora v roku 2023
 description: Zistite, ktoré produkty budú v roku 2023 vyradené z ponuky, ktorých podpora skončí alebo ktoré sa presunú z bežnej do rozšírenej podpory.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521074"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526882"
 ---
 # <a name="products-ending-support-in-2023"></a>Produkty, ktorým končí podpora v roku 2023
 
@@ -36,13 +36,12 @@ Nasledujúcim vydaniam produktov, ktoré sa riadia [modernou politikou](/lifecyc
 | Produkt | Koniec údržby |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, verzia 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | štvrtok, 2. februára 2023 |
-| [Microsoft Endpoint Configuration Manager, verzia 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | nedeľa 12. februára 2023 |
 | [Lokálny systém Dynamics 365 Business Central (moderná politika), vydanie 2021, 2. vlna, verzia 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | streda, 12. apríla 2023 |
 | [Windows 10 Enterprise and Education, verzia 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, verzia 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | utorok, 9. mája 2023 |
 | [Microsoft Endpoint Configuration Manager, verzia 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | štvrtok, 1. júna 2023 |
 | [Windows 10 Home a Pro, verzia 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | utorok, 13. júna 2023 |
 | [Microsoft Endpoint Configuration Manager, verzia 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | piatok 6. októbra 2023 |
-| [Lokálny systém Dynamics 365 Business Central (moderná politika), vydanie 2022, 1. vlna, verzia 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home a Pro (verzia 21H2), pôvodné vydanie (verzia 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10. októbra 2023 |
+| [Lokálny systém Dynamics 365 Business Central (moderná politika), vydanie 2022, 1. vlna, verzia 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home a Pro, verzia 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10. októbra 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkty s blížiacim sa ukončením podpory
